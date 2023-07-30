@@ -1,9 +1,9 @@
 all: qr poster
 
 poster: qr
-	pdflatex poster.tex
-	pdfjam --outfile poster-a4.pdf --paper a4paper poster.pdf
-	pdfjam --outfile tmp.pdf --papersize '{8.5in,12in}' poster.pdf
+	pdflatex poster-a3.tex
+	pdfjam --outfile poster-a4.pdf --paper a4paper poster-a3.pdf
+	pdfjam --outfile tmp.pdf --papersize '{8.5in,12in}' poster-a3.pdf
 	gs -o poster-letter.pdf -sPAPERSIZE=letter -sDEVICE=pdfwrite -dFIXEDMEDIA  -dBATCH -dSAFER tmp.pdf
 	convert poster-letter.pdf poster.jpg
 	chmod a+r poster*.pdf poster.jpg
@@ -24,5 +24,7 @@ participants.tex: ../participants.html
 	  sed 's/^.*$$/\\mbox{&}/' > participants.tex
 
 qr:
-	qrencode -o texamp-2024-qr.png 'http://comech.sdf.org/texamp-2024'
-	chmod a+r texamp-2024-qr.png
+	qrencode -o texamp-2024-qr.png 'http://texamp.github.io'
+	qrencode -o texamp-2024-qr-mirror1.png 'http://comech.sdf.org/texamp-2024'
+	qrencode -o texamp-2024-qr-mirror2.png 'http://math.tamu.edu/~comech/texamp-2024'
+	chmod a+r texamp-2024-qr*.png
