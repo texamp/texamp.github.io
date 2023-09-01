@@ -1,4 +1,6 @@
 all:
+
+poster:
 	chmod a+r *.html
 	make -C poster
 
