@@ -12,7 +12,7 @@ background:
 	convert k2-background-poster.png  -crop 850x1200+300+0 k2-background-poster-2.png
 
 
-poster: poster.pdf 
+ppposter: poster.pdf 
 
 
 participants.tex: ../participants.html
