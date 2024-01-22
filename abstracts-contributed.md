@@ -189,16 +189,16 @@ integrable functions.
 The main aim of the construction of these spaces is the study of the
 solvability of boundary-value problems of the form 
 
-$$
-\begin{cases}
--&Sigma;<sup><i>d</i></sup><sub><i>i,j</i>=1</sub><i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b\cdot D</i>)<i>u</i>
+<p>
+&nbsp;&nbsp;
+-&Sigma;<sup><i>d</i></sup><sub><i>i,j</i>=1</sub><i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b&#x2219;D</i>)<i>u</i>
 +<i>cu</i>=<i>f</i> in &Omega;
-\\
+<br>
+&nbsp;&nbsp;
 Tr(<i>u</i>)=0 on &part;&Omega;
-\end{cases}
 &nbsp;&nbsp;
 (1)
-$$
+</p>
 
 under the condition
 
