@@ -1,6 +1,7 @@
 **Contributed Talks: Titles and Abstracts**
 
 ------
+<a name="Beard"></a>
 
 **Kenneth Beard (Louisiana State University)**
 
@@ -10,6 +11,7 @@ Abstract:
 We discuss the challenges that arise when formulating a discrete analogue to periodic electrical conductivity in the continuum. In particular, we examine when the effective conductivity of a lattice electrical network is equal to the effective operator of an associated lattice _Z_-problem. We accomplish this by adapting tools from the abstract theory of composites, algebraic potential theory, and Schur complement theory. This is based on Sect. VI D of our JMP paper "<a href="https://arxiv.org/abs/2210.05761">Effective operators and their variational principles for discrete electrical network problems</a>", which is joint work with Anthony Stefan and Dr. Aaron Welters at Florida Institute of Technology and Dr. Robert Viator now at Denison University.
 
 ------
+<a name="Christopherson"></a>
 
 **Adam Christopherson (Ohio State University)**
 
@@ -21,6 +23,7 @@ For power-generalized Hartogs triangles in &Copf;<sup>3</sup>, we show that the 
 This work is joint with K.D. Koenig.
 
 ------
+<a name="Cruz-Lugo"></a>
 
 **Jesus Cruz-Lugo (Baylor University)**
 
@@ -32,6 +35,7 @@ weakly elliptic systems in the upper-half space may not necessarily be well-pose
 the given weakly elliptic system. This is joint work with Marius Mitrea.
 
 ------
+<a name="Daniel"></a>
 
 **David Daniel (UT Dallas)**
 
@@ -41,6 +45,7 @@ Abstract:
 Yellow fever remains endemic in some parts of the world (Nigeria included), despite the availability of a potent vaccine to curtail the spread of the disease. This necessitates continuous research on the disease's transmission dynamics and its control. Consequently, a deterministic epidemiological model for yellow fever transmission dynamics within the human mosquito population is considered in this work. The model equilibrium solutions are obtained and the conditions for their stability are established. The basic reproduction number _R_<sub>0</sub> for the model is derived. The model is solved numerically using the Runge Kutta of order four scheme. Simulation of our results shows that the disease will continue to be present (no matter how small) in our society as long as immunity conferred by vaccination is not lifelong and there are new births, thus justifying the need for continuous vaccination against yellow fever.
 
 ------
+<a name="Faust"></a>
 
 **Matthew Faust (Texas A&amp;M University)**
 
@@ -50,6 +55,7 @@ Abstract:
 We study Floquet isospectrality of the zero potential for the discrete periodic Schr&ouml;dinger operator acting on functions on the n-dimensional square lattice. It is well-known that for the square lattice, the zero potential has no nonzero real floquet isospectral potentials. It is in folklore that there exist non-zero complex solutions. As part of an REU led by Wencai Liu, Rodrigo Matos, and the speaker, we provide explicit solutions whenever one of the periods is even using combinatorial methods.
 
 ------
+<a name="BaofengFeng"></a>
 
 **Baofeng Feng (University of Texas Rio Grande Valley)**
 
@@ -67,6 +73,7 @@ discrete KP equation, the CSS equation is derived. As a by-product, we
 provide its multi-breather and general rogue wave solutions.
 
 ------
+<a name="ZhaoshengFeng"></a>
 
 **Zhaosheng Feng (University of Texas&ndash;RGV)**
 
@@ -76,6 +83,7 @@ Abstract:
 The goal of this talk is to study a fourth-order nonlinear parabolic system with dispersion for describing bacterial aggregation. It shows that unlike the model without dispersion, a bacterial cluster can move, which allows us to consider dispersion as some kind of control for bacterial colony. We demonstrate that the initial concentration of bacteria in the form of a random distribution over time transforms into a periodic wave, followed by a transition to a stationary solitary wave without dispersion.
 
 ------
+<a name="Gammanpila"></a>
 
 **Himali Gammanpila (Texas Tech University)**
 
@@ -86,6 +94,7 @@ Two-phase flows are encountered in various industrial applications and natural p
 In this study, a Nitsche-type extended variational multiscale method for two-phase flow is suggested, specifically for discontinuous pressure. To ensure a stable formulation across the entire domain, Continuous Interior Penalty (CIP) based variational multiscale terms are supported by appropriate face- oriented ghost-penalty terms. These terms are introduced to sufficiently control the enrichment value of the solution fields, thereby ensuring the stability of the formulation. The numerical analysis of the proposed CutFEM starts by providing the bilinear form that satisfies an inf-sup condition with respect to a suitable norm. The inf-sup constant is independent of how the boundary cuts the underlying mesh. Furthermore, energy-type a priori estimates are proved to be independent of the local Reynolds number. 
 
 ------
+<a name="Gavarro"></a>
 
 **Joan Morrill Gavarro (RWTH Aachen)**
 
@@ -95,6 +104,7 @@ Abstract:
 We derive a hydrodynamics formulation for a modified Dirac equation with a nonlinear mass term. The nonlinearity has the same homogeneity as the classical Dirac equation but is only Lipschitz continuous. We prove a global existence result for a regularised equation. The nonlinear Dirac equation admits a clean and symmetric split into the left and right-handed spinor components. It is formulated using Clifford algebra tools. This is joint work with Prof. Dr. Michael Westdickenberg (RWTH Aachen University).
 
 ------
+<a name="Hassan"></a>
 
 **Zulaihat Hassan (Auburn University)**
 
@@ -105,17 +115,18 @@ The current talk is concerned with the global existence of classical solutions f
 
 <p>
 &nbsp;&nbsp;
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>\cr
-\tau v_t= \Delta v-uv,\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
-\end{cases}
+<i>u<sub>t</sub><i>=&Delta;<i>u</i>-&chi;&nabla; \cdot(<i>u\nabla v</i>)+<i>u(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>
+<br>
+&nbsp;&nbsp;
+&tau;<i>v<sub>t</sub><i>= &Delta;<i>v-uv</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;(1)
 </p>
 
 <p>
 &nbsp;&nbsp;
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>\cr
-\tau v_t= \Delta v-\lambda v + \mu u,\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
-\end{cases}
+<i>u<sub>t</sub><i>=&Delta;<i>u</i>-&chi;&nabla; \cdot(<i>u\nabla v</i>)+<i>u(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>
+<br>
+&tau;<i>v<sub>t</sub><i>= &Delta;<i>v</i>-&lambda;<i>v</i>+&mu;<i>u</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;(2)
 </p>
 
@@ -123,9 +134,9 @@ and
 
 <p>
 &nbsp;&nbsp;
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>\cr
-0= \Delta v-\lambda v + \mu u,\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
-\end{cases}
+<i>u<sub>t</sub><i>=&Delta;<i>u</i>-&chi;&nabla; \cdot(<i>u\nabla v</i>)+<i>u(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>
+<br>
+0= &Delta;<i>v</i>-&lambda;<i>v</i>+&mu;<i>u</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;(3)
 </p>
 
@@ -134,6 +145,7 @@ classical solutions  of (1),  (2), and (3) with nonnegative initial functions in
 Moreover, we show that the methods developed for the study of (1)-(3) can be adapted to the bounded domain case without much effort.  Several existing results for (1),  (2), and (3)  on bounded domains are then improved.
 
 ------
+<a name="Hatcher"></a>
 
 **Lawford Hatcher (Indiana University)**
 
@@ -143,6 +155,7 @@ Abstract:
 Rauch's hot spots conjecture states that the first non-constant Neumann eigenfunction of the Laplacian on a bounded domain in &Ropf;<sup><i>n</i></sup> attains its local extrema only on the boundary of the domain. We consider an analogous problem concerning the first eigenfunction with mixed Dirichlet&ndash;Neumann boundary conditions. We will show why these two problems are closely related to each other and then present a result when the domain is a triangle or a region bounded by the graph of a piecewise smooth function.
 
 ------
+<a name="Hatinoglu"></a>
 
 **Burak Hatinoglu (Michigan State University)**
 
@@ -153,6 +166,7 @@ In their "<a href="https://arxiv.org/abs/1201.4199">Analytic quasi-periodic Schr
 analytic potentials and irrational frequencies.
 
 ------
+<a name="Huang"></a>
 
 **Xiaoqi Huang (LSU)**
 
@@ -162,6 +176,7 @@ Abstract:
 We will discuss improved Strichartz estimates for solutions of the Schr&ouml;dinger equation on compact manifolds with nonpositive curvature which is related to the results of Burq, G&eacute;rard and Tzvetkov (2004). The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
 
 ------
+<a name="Hurtado"></a>
 
 **Omar Hurtado (UC Irvine)**
 
@@ -171,6 +186,7 @@ Abstract:
 We extend methods from the breakthrough paper of Ding&ndash;Smart in 2020 which showed Anderson localization for certain random Schr&ouml;dinger operators on the lattice &Zopf;<sup>2</sup> via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
 
 ------
+<a name="Kebiche"></a>
 
 **Djamel Eddine Kebiche (University of Vienna)**
 
@@ -247,6 +263,7 @@ and degenerate elliptic equations</a>. Boletim da Sociedade Paranaense
 de Matemática. 26.
 
 ------
+<a name="Li"></a>
 
 **Yongming Li (Texas A&amp;M University)**
 
@@ -255,6 +272,7 @@ de Matemática. 26.
 Abstract: In this talk, we will discuss dispersive and local decay estimates for a class of matrix Schr&ouml;dinger operators that naturally arise from the linearization of focusing nonlinear Schr&ouml;dinger equations around a solitary wave. We review the spectral properties of these linearized operators, and discuss how threshold resonances may appear in their spectrum. In the presence of threshold resonances, it will be shown that the slowdown of the local decay rate can be pinned down to a finite rank operator corresponding to the threshold resonances. Some applications for the linearized equation for the 1D focusing cubic Schr&ouml;dinger equation will be discussed.
 
 ------
+<a name="Malhotra"></a>
 
 **Sakshi Malhotra (University of Texas at Dallas)**
 
@@ -265,6 +283,7 @@ Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of d
 <a href="https://link.springer.com/chapter/10.1007/978-3-642-10960-7_7">"New Variational Techniques in Mathematical Physics" (Centro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974, pp. 171&ndash;322</a>] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
 
 ------
+<a name="Malinovich"></a>
 
 **Tal Malinovitch (Rice University)**
 
@@ -275,6 +294,7 @@ In this talk, we will consider Schr&ouml;dinger operators on &Ropf;<sup><i>d</i>
 In this talk, I will briefly review our main results and some of the tools used in this work. This is joint work with Adam Black, David Damanik, and Giorgio Young.
 
 ------
+<a name="Matter"></a>
 
 **Ellie Matter (Baylor)**
 
@@ -284,6 +304,7 @@ Abstract:
 We look at a simple first-order Mean Field Game that gives players incentive to congregate. With a short enough time horizon, this type of game has a unique Nash Equilibrium given an initial distribution of players. Since the game is played only for a short time, we consider iterating the game, each new iteration starting at the final distribution of the previous game. We prove that after sufficiently many iterations, the players do congregate in tighter and tighter clusters and show where these clusters form.
 
 ------
+<a name="Shemtaga"></a>
 
 **Hewan Meles Shemtaga (Auburn University)**
 
@@ -293,6 +314,7 @@ Abstract:
 Chemotaxis phenomena govern the directed movement of microorganisms in response to chemical stimuli. In this talk we will discuss a pair of logistic type Keller&ndash;Segel systems of reaction-advection-diffusion equations modeling chemotaxis on networks. The first part of the talk concerns well-posedness of Keller&ndash;Segel systems on arbitrary compact metric graphs. In the second part of the talk, we will focus on asymptotic stability,  instability, and bifurcation of constant steady state solutions. This is joint work with Wenxian Shen (Auburn) and Selim Sukhtaiev (Auburn).
 
 ------
+<a name="Miller"></a>
 
 **Joseph Miller (UT Austin)**
 
@@ -304,6 +326,7 @@ In this talk, I will be discussing recent work
 with Esteban Cardenas and my advisor Natasa Pavlovic. In this work, we describe the dynamics of a Bose&ndash;Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schr&ouml;dinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov&ndash;Hartee system of equations with an explicit convergence rate.
 
 ------
+<a name="Mitra"></a>
 
 **Arnaja Mitra (University of Texas at Dallas)**
 
@@ -313,6 +336,7 @@ Abstract:
 We study local and global symmetric Hopf bifurcation in abstract parabolic systems by means of the twisted equivariant degree.
 
 ------
+<a name="Quintero-Roba"></a>
 
 **Alejandro Quintero-Roba (Baylor University)**
 
@@ -322,6 +346,7 @@ Abstract:
 In this talk, we give background on the Riemann&ndash;Hilbert problem (RHp) for orthogonal polynomials (OP) and its versatility in finding general properties of specific OP families such as the ordinary differential equation the family satisfies. We also discuss the Krall&ndash;Legendre OP sequence, which is known for satisfying a fourth-order differential equation. Then, we formulate the RHp for the Krall&ndash;Legendre OP, prove the existence and uniqueness of its solution, and show the method to obtain the first-order matrix ODE, and the second-order scalar ODE for the Krall&ndash;Legendre OP, as a first approach to finding the fourth-order scalar ODE from the Riemann&ndash;Hilbert formulation, as our final goal.
 
 ------
+<a name="Samarakkody"></a>
 
 **Miraj Samarakkody (Texas Tech University)**
 
@@ -331,6 +356,7 @@ Variational problems involving curves with energy densities influenced by their 
 _m_&lt;2 _n_&lt;&radic;2 _m_, a closed _p_-elastic curve with non-constant curvature can be found. These curves exhibit _m_-fold symmetry and have a winding number equal to _n_.
 
 ------
+<a name="Simanek"></a>
 
 **Brian Simanek (Baylor University)**
 
@@ -340,6 +366,7 @@ Abstract:
 We will consider Jacobi matrices whose diagonal and off-diagonal entries are eventually periodic sequences. We show that if each period can be written as the concatenation of two palindromes, then there is a special property satisfied by these matrices, which is most easily expressed in terms of the associated _m_-functions. This generalizes a known result about the continued fraction expansion of real numbers. Joint work with Hunter Handley.
 
 ------
+<a name="Su"></a>
 
 **Yaofeng Su (Georgia Tech)**
 
@@ -354,6 +381,7 @@ Open dynamical systems study the statistics of the first hitting time when traje
 This is joint work with Prof. Leonid Bunimovich.
 
 ------
+<a name="Silva"></a>
 
 **Pedro Takemura Feitosa Da Silva (Baylor University)**
 
@@ -363,6 +391,7 @@ Abstract:
 In the past two decades the theory of Herz spaces has seen numerous developments, yielding a large family of Herz-type scales which are particularly relevant from the perspective of Hamonic Analysis. The main point of this talk is to describe a new brand, referred to as Grand Herz spaces, which unifies much of the existing body of work. Notably, this new brand fits within the framework of Generalized Banach Function Spaces, thus paving the way for the treatment of boundary value problems in this inclusive functional analytic setting. As an illustration, we present a well-posedness result for the Dirichlet Problem with boundary data taken in Grand Herz spaces. This is joint work with Marius Mitrea.
 
 ------
+<a name="Weyand"></a>
 
 **Tracy Weyand (Rose&ndash;Hulman Institute of Technology)**
 
@@ -372,6 +401,7 @@ Abstract:
 Kirchhoff's Matrix Tree Theorem provides a way to calculate the number of spanning trees of a discrete graph from the spectral determinant of the combinatorial Laplacian acting on that graph. We extend this result to quantum graphs. We derive a formula that allows one to calculate the number of spanning trees of a connected equilateral metric graph in terms of the spectral determinant of the Laplacian acting on the graph (with Neumann&ndash;Kirchhoff vertex conditions). This is accomplished using a previous result that relates the spectral determinant of Laplace operators on discrete and quantum graphs. We then show that this result holds under small perturbations of edge length. This talk is based on joint work with Jon Harrison.
 
 ------
+<a name="Withanachchi"></a>
 
 **Mahishanka Withanachchi (Laval University)**
 
@@ -383,6 +413,7 @@ This study delves into the analysis of partial Taylor sums _S_<sub><i>n</i></sub
 Lebesgue constants in local Dirichlet spaces are vital for guiding the selection of optimal finite-dimensional approximations in numerical solutions of partial differential equations with Dirichlet boundary conditions in mathematical physics.
 
 ------
+<a name="Yan"></a>
 
 **Lili Yan (University of Minnesota)**
 
@@ -391,6 +422,7 @@ Lebesgue constants in local Dirichlet spaces are vital for guiding the selection
 Abstract: In this talk, we consider an inverse problem for the nonlinear Boltzmann equation with a time-dependent kernel in dimensions _n_&ge;2. We establish a logarithm-type stability result for the collision kernel from measurements under certain additional conditions. A uniqueness result is derived as an immediate consequence of the stability result. Our approach relies on second-order linearization, multivariate finite differences, as well as the stability of the light-ray transform. This is based on joint work with Ru-Yu Lai.
 
 ------
+<a name="Yang"></a>
 
 **Mengxuan Yang (UC Berkeley)**
 
@@ -399,6 +431,7 @@ Abstract: In this talk, we consider an inverse problem for the nonlinear Boltzma
 Abstract: Recent experiments discovered fractional Chern insulator states at zero magnetic field in twisted bilayer MoTe<sub>2</sub> and WSe<sub>2</sub>, which are different types of twisted transition metal dichalcogenides (TMDs). In this talk, using Floquet theory and construction of quasi-mode, I will present some mathematical studies of band properties when the twisting angles are small, including: absence of flat bands, trivial topology of lower bands and exponential flatness of lower bands. This is a joint work with Simon Becker.
 
 ------
+<a name="Zhu"></a>
 
 **Xiaowen Zhu (University of Washington)**
 
@@ -408,6 +441,7 @@ Abstract:
 Topological insulators (TI) are a class of 2D materials which behave like insulators in their bulk but support robust states along their edges. One of the key property of TI that is expected to be true is the robustness of the property above w.r.t. the shape of the edge. In this talk, we will discuss how does shape of edge influence the property of TI above. In particular, we will both give a general, intuitive condition for this property to hold, and provide a counter-example otherwise. We also show why in practical situation, experiments may provide misleading results on TI. This work is based on a joint work with Alexis Drouot.
 
 ------
+<a name="Zou"></a>
 
 **Yuzhou Zou (Northwestern University)**
 
