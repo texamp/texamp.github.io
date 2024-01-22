@@ -1,6 +1,7 @@
 **Invited Talks: Titles and Abstracts**
 
 ------
+<a name="Boussaid">
 
 **Nabile Boussaid (Universit&eacute; Franche-Comt&eacute; &mdash; Besançon)**
 
@@ -16,6 +17,7 @@ The absence of limiting absorption principle (LAP) in the vicinity of some point
 Our work is an attempt to understand the different characterizations of virtual levels and to provide limiting absorption principle for small perturbations of the free Schr&ouml;dinger operators in dimension 1 and 2.
 
 ------
+<a name="Judge">
 
 **Christopher Judge (Indiana University)**
 
@@ -25,6 +27,7 @@ Abstract:
 Physically, the hot spots conjecture of Jeff Rauch is the assertion that the local maxima of a temperature distribution on a perfectly insulated homogeneous material will migrate towards the boundary as time tends to infinity provided the initial distribution is generic. Mathematically, it is the assertion that the second eigenfunction of the Neumann Laplacian on a bounded convex domain has no (interior) local extrema. I will survey relatively recent results and the methods used to obtain these results. Part of the survey will concern my joint work with Sugata Mondal.
 
 ------
+<a name="Polterovich">
 
 **Iosif Polterovich (Universit&eacute; de Montr&eacute;al)**
 
@@ -36,6 +39,7 @@ The latter answers a question posed by Frank and Hansson (2008).
 The talk is based on joint works with Nikolay Filonov, Michael Levitin and David Sher.
 
 ------
+<a name="Shapiro">
 
 **Jacob Shapiro (Princeton University)**
 
@@ -45,8 +49,9 @@ Abstract:
 In this talk I will describe some of the mathematical aspects of disordered topological insulators. These are novel materials which insulate in their bulk but (may) conduct along their edge; the quintessential example is that of the integer quantum Hall effect. What characterizes these materials is the existence of a topological index, experimentally measurable and macroscopically quantized. Mathematically this is explained by applying algebraic topology to the space of appropriate quantum mechanical Hamiltonians; I will survey some recent results mainly concentrating on the classification problem in one dimension, where the problem reduces to studying spaces of unitaries (resp. orthogonal projections) which essentially-commute with a fixed projection.
 
 ------
+<a name="Vasy">
 
-**András Vasy (Stanford University)**
+**Andr&aacute;s Vasy (Stanford University)**
 
 *The black hole stability problem*
 
