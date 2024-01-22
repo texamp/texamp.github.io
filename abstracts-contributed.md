@@ -114,29 +114,29 @@ Abstract:
 The current talk is concerned with the global existence of classical solutions for  the following three primary chemotaxis systems with a logistic source on &Ropf;<sup><i>n</i></sup>,
 
 <p>
+&nbsp;&nbsp;(1)
 &nbsp;&nbsp;
 <i>u<sub>t</sub></i>=&Delta;<i>u</i>-&chi;&nabla;&#x2219; (<i>u&nabla;v</i>)+<i>u</i>(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;
 &tau;<i>v<sub>t</sub></i>= &Delta;<i>v-uv</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
-&nbsp;&nbsp;(1)
 </p>
 
 <p>
+&nbsp;&nbsp;(2)
 &nbsp;&nbsp;
 <i>u<sub>t</sub></i>=&Delta;<i>u</i>-&chi;&nabla;&#x2219; (<i>u&nabla;v</i>)+<i>u</i>(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;
 &tau;<i>v<sub>t</sub></i>= &Delta;<i>v</i>-&lambda;<i>v</i>+&mu;<i>u</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
-&nbsp;&nbsp;(2)
 </p>
 
 and
 
 <p>
+&nbsp;&nbsp;(3)
 &nbsp;&nbsp;
 <i>u<sub>t</sub></i>=&Delta;<i>u</i>-&chi;&nabla;&#x2219; (<i>u&nabla;v</i>)+<i>u</i>(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;
 0= &Delta;<i>v</i>-&lambda;<i>v</i>+&mu;<i>u</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
-&nbsp;&nbsp;(3)
 </p>
 
 where &chi; is a nonzero number and _a_, _b_, &lambda;, &mu;, &tau; are positive constants. We  provide sufficient conditions for the global existence and boundedness of
@@ -206,23 +206,23 @@ solvability of boundary-value problems of the form
 
 <p>
 &nbsp;&nbsp;
+(1)
+&nbsp;&nbsp;
 -&Sigma;<sup><i>d</i></sup><sub><i>i,j</i>=1</sub><i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b&#x2219; D</i>)<i>u</i>
 +<i>cu</i>=<i>f</i> in &Omega;,
 &nbsp;&nbsp;&nbsp;&nbsp;
 Tr(<i>u</i>)=0 on &part;&Omega;
-&nbsp;&nbsp;
-(1)
 </p>
 
 under the condition
 
 <p>
 &nbsp;&nbsp;
+(2)
+&nbsp;&nbsp;
 &exist; &mu;, <i>C</i>&gt;0&nbsp; &forall;&xi;&isin;&Ropf;^{d}:&nbsp;
 &mu;<i>w</i><sup>4</sup>(<i>x</i>)|&xi;|<sup>2</sup>&le;&Sigma;<sup><i>d</i></sup><sub>i,j=1</sub>
 a<sub><i>ij</i></sub>(<i>x</i>)&xi;<sub><i>i</i></sub>&xi;<sub><i>j</i></sub>&le; <i>C w</i><sup>4</sup>(<i>x</i>)|&xi;|<sup>2</sup>&nbsp; a.e. in &Omega;
-&nbsp;&nbsp;
-(2)
 </p>
 
 where _w_&isin;_C_<sup>1</sup>(&Omega;) is an elimination function arbitrary
