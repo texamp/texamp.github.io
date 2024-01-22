@@ -207,7 +207,7 @@ $$
 \exists\mu,C>0\ \forall\xi\in&Ropf;^{d}:\ \mu w^{4}(x)|\xi|^{2}\le\sum_{i,j=1}^{d}a_{ij}(x)\xi_{i}\xi_{j}\leq Cw^{4}(x)|\xi|^{2}\quad \mathrm{a.e.}\quad\mathrm{in\ }\Omega
 $$
 
-where $w\in\mathcal{C}^{1}(\Omega)$ is an elimination function arbitrary
+where _w_&isin;_C_<sup>1</sup>(&Omega;) is an elimination function arbitrary
 small on &Omega;. We highlight that in this setting, the theory
 of weighted Sobolev spaces and the theory of degenerate Sobolev spaces
 break down. Indeed, the use of the former theory requires the belonging
@@ -258,7 +258,7 @@ Abstract: In this talk, we will discuss dispersive and local decay estimates for
 *Finite time stability of a sweeping process for an elastoplastic system with stress-controlled loading*
 
 Abstract:
-Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from "Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems" by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in "New Variational Techniques in Mathematical Physics" (Cen-tro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974, pp. 171&ndash;322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
+Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from "Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems" by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in "New Variational Techniques in Mathematical Physics" (Centro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974, pp. 171&ndash;322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
 
 ------
 
