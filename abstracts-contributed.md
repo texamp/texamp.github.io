@@ -75,7 +75,7 @@ provide its multi-breather and general rogue wave solutions.
 ------
 <a name="ZhaoshengFeng"></a>
 
-**Zhaosheng Feng (University of Texas&ndash;RGV)**
+**Zhaosheng Feng (University of Texas Rio Grande Valley)**
 
 *Parabolic Systems of Aggregation Formation in Bacterial Colonies*
 
