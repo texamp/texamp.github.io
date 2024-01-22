@@ -2,18 +2,18 @@
 
 ------
 
-**Nabile Boussaid (Université Franche-Comté &mdash; Besançon)**
+**Nabile Boussaid (Universit&eacute; Franche-Comt&eacute; &mdash; Besançon)**
 
-*Virtual levels and virtual states of linear operators in Banach spaces. Applications to Schrödinger operators*
+*Virtual levels and virtual states of linear operators in Banach spaces. Applications to Schr&ouml;dinger operators*
 
 Abstract: 
 In this talk, I will present a joint work with Andrew Comech (Texas A\&M). Our primary interest is on the limiting absorption principle. Such a tool is useful in spectral analysis. It is also used to obtain dispersive estimates and then to analyze long time evolution of associated nonlinear problems.
 
-In dimension 1 and 2, in contrast to higher dimensions, the free linear Schrödinger operator has no limiting absorption principle near the threshold. This makes all this classical perturbative approach much more involved.
+In dimension 1 and 2, in contrast to higher dimensions, the free linear Schr&ouml;dinger operator has no limiting absorption principle near the threshold. This makes all this classical perturbative approach much more involved.
 
 The absence of limiting absorption principle (LAP) in the vicinity of some point is equivalent to the presence of a virtual level at this point. But it is also known that virtual levels are unstable by perturbations leading to bifurcation of eigenvalues.
 
-Our work is an attempt to understand the different characterizations of virtual levels and to provide limiting absorption principle for small perturbations of the free Schrödinger operators in dimension 1 and 2.
+Our work is an attempt to understand the different characterizations of virtual levels and to provide limiting absorption principle for small perturbations of the free Schr&ouml;dinger operators in dimension 1 and 2.
 
 ------
 
@@ -26,12 +26,12 @@ Physically, the hot spots conjecture of Jeff Rauch is the assertion that the loc
 
 ------
 
-**Iosif Polterovich (Université de Montréal)**
+**Iosif Polterovich (Universit&eacute; de Montr&eacute;al)**
 
 *Pólya's eigenvalue conjecture: some recent advances*
 
 Abstract:
-The celebrated Pólya's conjecture (1954) in spectral geometry states that the eigenvalue counting functions of the Dirichlet and Neumann Laplacian on a bounded Euclidean domain can be estimated from above and below, respectively, by the leading term of Weyl's asymptotics. The conjecture is known to be true for domains which tile the Euclidean space, however it remains largely open in full generality. In the talk we will explain the motivation behind this conjecture and discuss some recent advances, such as the proof of Pólya's conjecture for the disk, and its extension to the eigenvalues of a magnetic Schrödinger operator with an Aharonov&mdash;Bohm potential. 
+The celebrated Pólya's conjecture (1954) in spectral geometry states that the eigenvalue counting functions of the Dirichlet and Neumann Laplacian on a bounded Euclidean domain can be estimated from above and below, respectively, by the leading term of Weyl's asymptotics. The conjecture is known to be true for domains which tile the Euclidean space, however it remains largely open in full generality. In the talk we will explain the motivation behind this conjecture and discuss some recent advances, such as the proof of Pólya's conjecture for the disk, and its extension to the eigenvalues of a magnetic Schr&ouml;dinger operator with an Aharonov&mdash;Bohm potential. 
 The latter answers a question posed by Frank and Hansson (2008).
 The talk is based on joint works with Nikolay Filonov, Michael Levitin and David Sher.
 

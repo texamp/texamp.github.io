@@ -42,7 +42,7 @@ Yellow fever remains endemic in some parts of the world (Nigeria included), desp
 
 ------
 
-**Matthew Faust (Texas A\&M University)**
+**Matthew Faust (Texas A&amp;M University)**
 
 *An Ambartsuman-type inverse problem for periodic graphs*
 
@@ -159,13 +159,13 @@ analytic potentials and irrational frequencies.
 *Strichartz estimates for the Schr&ouml;dinger equation on negatively curved compact manifolds*
 
 Abstract: 
-We will discuss improved Strichartz estimates for solutions of the Schr&ouml;dinger equation on compact manifolds with nonpositive curvature which is related to the results of Burq, Gérard and Tzvetkov(2004). The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
+We will discuss improved Strichartz estimates for solutions of the Schr&ouml;dinger equation on compact manifolds with nonpositive curvature which is related to the results of Burq, G&eacute;rard and Tzvetkov (2004). The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
 
 ------
 
 **Omar Hurtado (UC Irvine)**
 
-*Localization and unique continuation for non-stationary Schr&ouml;dinger operators on &Zopf;<sup>2</sup>
+*Localization and unique continuation for non-stationary Schr&ouml;dinger operators on* &Zopf;<sup>2</sup>
 
 Abstract: 
 We extend methods from the breakthrough paper of Ding&ndash;Smart in 2020 which showed Anderson localization for certain random Schr&ouml;dinger operators on the lattice &Zopf;<sup>2</sup> via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
@@ -216,16 +216,16 @@ the use of the latter theory requires the use of a Sobolev-like inequality
 involving the function _w_, and these two conditions are not satisfied
 when _w_ is very small.
 
-Several tools e.g. Poincaré inequality and density of smooth functions
+Several tools e.g. Poincar&eacute; inequality and density of smooth functions
 in the setting of singular Sobolev spaces are established, and several
 existence results of a unique solution of (1) are given.
 In general, the solution is not locally integrable. 
 
 [1]
-Kebiche, D., Singular Sobolev spaces and highly degenerate
-elliptic partial differential equations. Submitted to The Annali della
-Scuola Normale Superiore di Pisa, Classe di Scienze, available at
-https://arxiv.org/abs/2311.12635
+Kebiche, D., <a href="https://arxiv.org/abs/2311.12635">Singular Sobolev spaces and highly degenerate
+elliptic partial differential equations</a>. Submitted to The Annali della
+Scuola Normale Superiore di Pisa, Classe di Scienze.
+
 
 [2]
 Kebiche, D., Density of smooth functions in singular
@@ -234,18 +234,18 @@ equations. Finished preprint. Planned to be submitted in The Annali
 della Scuola Normale Superiore di Pisa, Classe di Scienze.
 
 [3]
-Sawyer, E. T., \& Wheeden, R. L. (2010). Degenerate
-Sobolev spaces and regularity of subelliptic equations. Transactions
-of the American Mathematical Society, 362(4), 1869&ndash;1906. http://www.jstor.org/stable/40590893 
+Sawyer, E. T., &amp; Wheeden, R. L. (2010). <a href="http://www.jstor.org/stable/40590893">Degenerate
+Sobolev spaces and regularity of subelliptic equations</a>. Transactions
+of the American Mathematical Society, 362(4), 1869&ndash;1906.
 
 [4]
-Cavalheiro, Albo. (2008). Weighted Sobolev Spaces
-and Degenerate Elliptic Equations. Boletim da Sociedade Paranaense
-de Matemática. 26. http://doi.org/10.5269/bspm.v26i1-2.7415
+Cavalheiro, Albo. (2008). <a href="http://doi.org/10.5269/bspm.v26i1-2.7415">Weighted Sobolev spaces
+and degenerate elliptic equations</a>. Boletim da Sociedade Paranaense
+de Matemática. 26.
 
 ------
 
-**Yongming Li (Texas A\&M University)**
+**Yongming Li (Texas A&amp;M University)**
 
 *Dispersive estimates for 1D matrix Schr&ouml;dinger operators with threshold resonance*
 
