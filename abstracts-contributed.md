@@ -7,7 +7,7 @@
 *On the nuances of discretizing continuum electrical conductivity*
 
 Abstract: 
-We discuss the challenges that arise when formulating a discrete analogue to periodic electrical conductivity in the continuum. In particular, we examine when the effective conductivity of a lattice electrical network is equal to the effective operator of an associated lattice \textit{Z}-problem. We accomplish this by adapting tools from the abstract theory of composites, algebraic potential theory, and Schur complement theory. This is based on Sect. VI D of our JMP paper ``Effective operators and their variational principles for discrete electrical network problems'', which is joint work with Anthony Stefan and Dr. Aaron Welters at Florida Institute of Technology and Dr. Robert Viator now at Denison University.
+We discuss the challenges that arise when formulating a discrete analogue to periodic electrical conductivity in the continuum. In particular, we examine when the effective conductivity of a lattice electrical network is equal to the effective operator of an associated lattice \textit{Z}-problem. We accomplish this by adapting tools from the abstract theory of composites, algebraic potential theory, and Schur complement theory. This is based on Sect. VI D of our JMP paper "Effective operators and their variational principles for discrete electrical network problems", which is joint work with Anthony Stefan and Dr. Aaron Welters at Florida Institute of Technology and Dr. Robert Viator now at Denison University.
 
 ------
 
@@ -149,7 +149,7 @@ Rauch's hot spots conjecture states that the first non-constant Neumann eigenfun
 *Logarithmic capacities of rational frequency approximants for the almost Mathieu operator*
 
 Abstract: 
-In their ``Analytic quasi-periodic Schrödinger operators and rational frequency approximants'' paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schrödinger operator $H_{\alpha,\theta}$ with analytic potential and irrational frequency $\alpha$. Given any rational approximating $\alpha$, let $S_{+}$ and $S_{-}$ denote the union and the intersection of the spectra taken over $\theta$, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from $S_{-}$ and $S_{+}$ of the periodic operators associated with the continued fraction expansion of $\alpha$, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schrödinger operator with
+In their "Analytic quasi-periodic Schrödinger operators and rational frequency approximants" paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schrödinger operator $H_{\alpha,\theta}$ with analytic potential and irrational frequency $\alpha$. Given any rational approximating $\alpha$, let $S_{+}$ and $S_{-}$ denote the union and the intersection of the spectra taken over $\theta$, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from $S_{-}$ and $S_{+}$ of the periodic operators associated with the continued fraction expansion of $\alpha$, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schrödinger operator with
 analytic potentials and irrational frequencies.
 
 ------
@@ -258,7 +258,7 @@ Abstract: In this talk, we will discuss dispersive and local decay estimates for
 *Finite time stability of a sweeping process for an elastoplastic system with stress-controlled loading*
 
 Abstract:
-Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from ``Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems'' by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in New Variational Techniques in Mathematical Physics (Cen-tro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974,pp. 171&mdash;322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
+Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from "Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems" by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in New Variational Techniques in Mathematical Physics (Cen-tro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974,pp. 171&mdash;322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
 
 ------
 
@@ -267,7 +267,7 @@ Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of d
 *Directional Ballistic transport for partially periodic Schrödinger operators*
 
 Abstract:
-In this talk, we will consider Schrödinger operators on $\mathbb{R}^d$ or $\mathbb{Z}^d$ with bounded potentials $V$ that are periodic in some direction and compactly supported in others. Such systems are known to produce ``surface states'' that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states - in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time ($x\sim t$- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
+In this talk, we will consider Schrödinger operators on $\mathbb{R}^d$ or $\mathbb{Z}^d$ with bounded potentials $V$ that are periodic in some direction and compactly supported in others. Such systems are known to produce "surface states" that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states - in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time ($x\sim t$- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
 In this talk, I will briefly review our main results and some of the tools used in this work. This is joint work with Adam Black, David Damanik, and Giorgio Young.
 
 ------
@@ -339,10 +339,10 @@ We will consider Jacobi matrices whose diagonal and off-diagonal entries are eve
 *Some new results of open dynamical systems*
 
 Abstract:
-Open dynamical systems study the statistics of the first hitting time when trajectories escape through a subset, referred to as a ``hole,'' in the phase space. I will discuss my recent work on open hyperbolic systems, addressing three main aspects: 
-1. For hyperbolic billiard systems, the natural ``hole'' resides on the boundary of billiard tables, corresponding to a strip-shaped subset in the phase space. We obtain a Poisson limit law for open billiard systems with arbitrarily slow mixing rates. 
+Open dynamical systems study the statistics of the first hitting time when trajectories escape through a subset, referred to as a "hole," in the phase space. I will discuss my recent work on open hyperbolic systems, addressing three main aspects: 
+1. For hyperbolic billiard systems, the natural "hole" resides on the boundary of billiard tables, corresponding to a strip-shaped subset in the phase space. We obtain a Poisson limit law for open billiard systems with arbitrarily slow mixing rates. 
 2. To obtain the convergence rates associated with Poisson limit laws, we prove a maximal-type large deviation result for arbitrarily slowly mixing expanding systems. I will describe how this result can be applied to open billiard systems during this presentation. 
-3. When the ``hole'' in the phase space takes the shape of a ball in a Riemann manifold, we established Poisson limit laws for certain dissipative systems. Our conditions are loosely dependent on the Hausdorff dimension of the SRB measure.
+3. When the "hole" in the phase space takes the shape of a ball in a Riemann manifold, we established Poisson limit laws for certain dissipative systems. Our conditions are loosely dependent on the Hausdorff dimension of the SRB measure.
 
 This is joint work with Prof. Leonid Bunimovich.
 
