@@ -47,7 +47,7 @@ Yellow fever remains endemic in some parts of the world (Nigeria included), desp
 *An Ambartsuman-type inverse problem for periodic graphs*
 
 Abstract: 
-We study Floquet isospectrality of the zero potential for the discrete periodic Schrödinger operator acting on functions on the n-dimensional square lattice. It is well-known that for the square lattice, the zero potential has no nonzero real floquet isospectral potentials. It is in folklore that there exist non-zero complex solutions. As part of an REU led by Wencai Liu, Rodrigo Matos, and the speaker, we provide explicit solutions whenever one of the periods is even using combinatorial methods.
+We study Floquet isospectrality of the zero potential for the discrete periodic Schr&ouml;dinger operator acting on functions on the n-dimensional square lattice. It is well-known that for the square lattice, the zero potential has no nonzero real floquet isospectral potentials. It is in folklore that there exist non-zero complex solutions. As part of an REU led by Wencai Liu, Rodrigo Matos, and the speaker, we provide explicit solutions whenever one of the periods is even using combinatorial methods.
 
 ------
 
@@ -57,7 +57,7 @@ We study Floquet isospectrality of the zero potential for the discrete periodic 
 
 Abstract: 
 In this presentation, we construct breather and rouge wave
-solutions to one generalized coupled nonlinear Schrödinger (NLS)
+solutions to one generalized coupled nonlinear Schr&ouml;dinger (NLS)
 equation,  so called coupled Sasa&ndash;Satsuma (CSS) equation by using the
 Kadomtsev&ndash;Petviashvili (KP) hierarchy reduction method and the
 Hirota's bilinear method. First, we show that the CSS equation can be
@@ -149,26 +149,26 @@ Rauch's hot spots conjecture states that the first non-constant Neumann eigenfun
 *Logarithmic capacities of rational frequency approximants for the almost Mathieu operator*
 
 Abstract: 
-In their "Analytic quasi-periodic Schrödinger operators and rational frequency approximants" paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schrödinger operator _H_<sub>&alpha;,&theta;<sub> with analytic potential and irrational frequency &alpha;. Given any rational approximating &alpha;, let _S_<sub>+</sub> and _S_<sub>-</sub> denote the union and the intersection of the spectra taken over &theta:, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from _S_<sub>-</sub> and _S_<sub>+</sub> of the periodic operators associated with the continued fraction expansion of &alpha;, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schrödinger operator with
+In their "Analytic quasi-periodic Schr&ouml;dinger operators and rational frequency approximants" paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schr&ouml;dinger operator _H_<sub>&alpha;,&theta;<sub> with analytic potential and irrational frequency &alpha;. Given any rational approximating &alpha;, let _S_<sub>+</sub> and _S_<sub>-</sub> denote the union and the intersection of the spectra taken over &theta:, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from _S_<sub>-</sub> and _S_<sub>+</sub> of the periodic operators associated with the continued fraction expansion of &alpha;, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schr&ouml;dinger operator with
 analytic potentials and irrational frequencies.
 
 ------
 
 **Xiaoqi Huang (LSU)**
 
-*Strichartz estimates for the Schrödinger equation on negatively curved compact manifolds*
+*Strichartz estimates for the Schr&ouml;dinger equation on negatively curved compact manifolds*
 
 Abstract: 
-We will discuss improved Strichartz estimates for solutions of the Schrödinger equation on compact manifolds with nonpositive curvature which is related to the results of Burq, Gérard and Tzvetkov(2004). The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
+We will discuss improved Strichartz estimates for solutions of the Schr&ouml;dinger equation on compact manifolds with nonpositive curvature which is related to the results of Burq, Gérard and Tzvetkov(2004). The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
 
 ------
 
 **Omar Hurtado (UC Irvine)**
 
-*Localization and unique continuation for non-stationary Schrödinger operators on $&Zopf;<sup>2</sup>$
+*Localization and unique continuation for non-stationary Schr&ouml;dinger operators on &Zopf;<sup>2</sup>
 
 Abstract: 
-We extend methods from the breakthrough paper of Ding&ndash;Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $&Zopf;<sup>2</sup>$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
+We extend methods from the breakthrough paper of Ding&ndash;Smart in 2020 which showed Anderson localization for certain random Schr&ouml;dinger operators on the lattice &Zopf;<sup>2</sup> via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
 
 ------
 
@@ -208,13 +208,13 @@ $$
 $$
 
 where $w\in\mathcal{C}^{1}(\Omega)$ is an elimination function arbitrary
-small on $\Omega$. We highlight that in this setting, the theory
+small on &Omega;. We highlight that in this setting, the theory
 of weighted Sobolev spaces and the theory of degenerate Sobolev spaces
 break down. Indeed, the use of the former theory requires the belonging
-of the weight function $w^{4}$ to Muckenhoupt class $A_{p}$, and
+of the weight function _w_<sup>4</sup> to Muckenhoupt class _A_<sub><i>p</i></sub>, and
 the use of the latter theory requires the use of a Sobolev-like inequality
-involving the function $w$, and these two conditions are not satisfied
-when $w$ is very small.
+involving the function _w_, and these two conditions are not satisfied
+when _w_ is very small.
 
 Several tools e.g. Poincaré inequality and density of smooth functions
 in the setting of singular Sobolev spaces are established, and several
@@ -247,9 +247,9 @@ de Matemática. 26. http://doi.org/10.5269/bspm.v26i1-2.7415
 
 **Yongming Li (Texas A\&M University)**
 
-*Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance*
+*Dispersive estimates for 1D matrix Schr&ouml;dinger operators with threshold resonance*
 
-Abstract: In this talk, we will discuss dispersive and local decay estimates for a class of matrix Schrödinger operators that naturally arise from the linearization of focusing nonlinear Schrödinger equations around a solitary wave. We review the spectral properties of these linearized operators, and discuss how threshold resonances may appear in their spectrum. In the presence of threshold resonances, it will be shown that the slowdown of the local decay rate can be pinned down to a finite rank operator corresponding to the threshold resonances. Some applications for the linearized equation for the 1D focusing cubic Schrödinger equation will be discussed.
+Abstract: In this talk, we will discuss dispersive and local decay estimates for a class of matrix Schr&ouml;dinger operators that naturally arise from the linearization of focusing nonlinear Schr&ouml;dinger equations around a solitary wave. We review the spectral properties of these linearized operators, and discuss how threshold resonances may appear in their spectrum. In the presence of threshold resonances, it will be shown that the slowdown of the local decay rate can be pinned down to a finite rank operator corresponding to the threshold resonances. Some applications for the linearized equation for the 1D focusing cubic Schr&ouml;dinger equation will be discussed.
 
 ------
 
@@ -264,10 +264,10 @@ Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of d
 
 **Tal Malinovitch (Rice University)**
 
-*Directional Ballistic transport for partially periodic Schrödinger operators*
+*Directional Ballistic transport for partially periodic Schr&ouml;dinger operators*
 
 Abstract:
-In this talk, we will consider Schrödinger operators on $&Ropf;^d$ or $&Zopf;^d$ with bounded potentials $V$ that are periodic in some direction and compactly supported in others. Such systems are known to produce "surface states" that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states - in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time ($x\sim t$- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
+In this talk, we will consider Schr&ouml;dinger operators on &Ropf;<sup><i>d</i></sup> or &Zopf;<sup><i>d</i></sup> with bounded potentials _V_ that are periodic in some direction and compactly supported in others. Such systems are known to produce "surface states" that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states - in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time (_x_ &sim; _t_- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
 In this talk, I will briefly review our main results and some of the tools used in this work. This is joint work with Adam Black, David Damanik, and Giorgio Young.
 
 ------
@@ -295,7 +295,7 @@ Chemotaxis phenomena govern the directed movement of microorganisms in response 
 *On the effective dynamics of Bose&ndash;Fermi mixtures*
 
 Abstract: 
-In this talk, I will be discussing recent work with Esteban Cardenas and my advisor Natasa Pavlovic: https://arxiv.org/abs/2309.04638. In this work, we describe the dynamics of a Bose&ndash;Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schrödinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov&ndash;Hartee system of equations with an explicit convergence rate.
+In this talk, I will be discussing recent work with Esteban Cardenas and my advisor Natasa Pavlovic: https://arxiv.org/abs/2309.04638. In this work, we describe the dynamics of a Bose&ndash;Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schr&ouml;dinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov&ndash;Hartee system of equations with an explicit convergence rate.
 
 ------
 
@@ -405,9 +405,9 @@ Topological insulators (TI) are a class of 2D materials which behave like insula
 
 **Yuzhou Zou (Northwestern University)**
 
-*A Gutzwiller trace formula for semiclassical Schrödinger operators with conormal potentials*
+*A Gutzwiller trace formula for semiclassical Schr&ouml;dinger operators with conormal potentials*
 
 Abstract: 
-We discuss ongoing work (joint with Jared Wunsch and Mengxuan Yang) which concerns extending the Gutzwiller Trace Formula from the case of smooth potentials to the case of potentials with conormal singularities. In the smooth case, the formula expresses an eigenvalue-counting function of a Schrödinger operator as a sum of certain dynamical quantities over periodic Hamiltonian trajectories. In the conormal case, a consideration of a WKB ansatz for the Schrödinger propagator suggests the sum should incorporate dynamical information about Hamiltonian trajectories which reflect at the site of the singularity. We will discuss the variational formulation required to make sense of the dynamics of such trajectories, as well as the further work we expect to need in order to complete the proof.
+We discuss ongoing work (joint with Jared Wunsch and Mengxuan Yang) which concerns extending the Gutzwiller Trace Formula from the case of smooth potentials to the case of potentials with conormal singularities. In the smooth case, the formula expresses an eigenvalue-counting function of a Schr&ouml;dinger operator as a sum of certain dynamical quantities over periodic Hamiltonian trajectories. In the conormal case, a consideration of a WKB ansatz for the Schr&ouml;dinger propagator suggests the sum should incorporate dynamical information about Hamiltonian trajectories which reflect at the site of the singularity. We will discuss the variational formulation required to make sense of the dynamics of such trajectories, as well as the further work we expect to need in order to complete the proof.
 
 
