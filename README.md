@@ -1,4 +1,6 @@
 # texamp.github.io
 Texas Analysis and Mathematical Physics Symposium
 
-$\sigma(-\Delta)=[0,+\infty)=\overline{\mathbb{R}_+}$
+Texas A\&M University
+
+February 9-11, 2024
