@@ -172,7 +172,7 @@ analytic potentials and irrational frequencies.
 *Strichartz estimates for the Schr&ouml;dinger equation on negatively curved compact manifolds*
 
 Abstract: 
-We will discuss improved Strichartz estimates for solutions of the Schr&ouml;dinger equation on compact manifolds with nonpositive curvature which is related to the results of Burq, G&eacute;rard and Tzvetkov (2004). The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
+We will discuss improved Strichartz estimates for solutions of the Schr&ouml;dinger equation on compact manifolds with nonpositive curvature which is related to the <a href="http://doi.org/10.1353/ajm.2004.0016">results of Burq, G&eacute;rard and Tzvetkov (2004)</a>. The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
 
 ------
 <a name="Hurtado"></a>
@@ -182,7 +182,7 @@ We will discuss improved Strichartz estimates for solutions of the Schr&ouml;din
 *Localization and unique continuation for non-stationary Schr&ouml;dinger operators on* &Zopf;<sup>2</sup>
 
 Abstract: 
-We extend methods from the breakthrough paper of Ding&ndash;Smart in 2020 which showed Anderson localization for certain random Schr&ouml;dinger operators on the lattice &Zopf;<sup>2</sup> via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
+We extend methods from the <a href="https://link.springer.com/article/10.1007/s00222-019-00910-4">breakthrough paper</a> of Ding&ndash;Smart in 2020 which showed Anderson localization for certain random Schr&ouml;dinger operators on the lattice &Zopf;<sup>2</sup> via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
 
 ------
 <a name="Kebiche"></a>
