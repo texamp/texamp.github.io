@@ -7,7 +7,7 @@
 *On the nuances of discretizing continuum electrical conductivity*
 
 Abstract: 
-We discuss the challenges that arise when formulating a discrete analogue to periodic electrical conductivity in the continuum. In particular, we examine when the effective conductivity of a lattice electrical network is equal to the effective operator of an associated lattice \textit{Z}-problem. We accomplish this by adapting tools from the abstract theory of composites, algebraic potential theory, and Schur complement theory. This is based on Sect. VI D of our JMP paper "Effective operators and their variational principles for discrete electrical network problems", which is joint work with Anthony Stefan and Dr. Aaron Welters at Florida Institute of Technology and Dr. Robert Viator now at Denison University.
+We discuss the challenges that arise when formulating a discrete analogue to periodic electrical conductivity in the continuum. In particular, we examine when the effective conductivity of a lattice electrical network is equal to the effective operator of an associated lattice _Z_-problem. We accomplish this by adapting tools from the abstract theory of composites, algebraic potential theory, and Schur complement theory. This is based on Sect. VI D of our JMP paper "Effective operators and their variational principles for discrete electrical network problems", which is joint work with Anthony Stefan and Dr. Aaron Welters at Florida Institute of Technology and Dr. Robert Viator now at Denison University.
 
 ------
 
