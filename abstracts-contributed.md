@@ -115,17 +115,17 @@ The current talk is concerned with the global existence of classical solutions f
 
 <p>
 &nbsp;&nbsp;
-<i>u<sub>t</sub></i>=&Delta;<i>u</i>-&chi;&nabla;&#x2219;(<i>u&nabla;v</i>)+<i>u</i>(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
+<i>u<sub>t</sub></i>=&Delta;<i>u</i>-&chi;&nabla;&#x2219; (<i>u&nabla;v</i>)+<i>u</i>(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;
-&tau;<i>v<sub>t</sub><i>= &Delta;<i>v-uv</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
+&tau;<i>v<sub>t</sub></i>= &Delta;<i>v-uv</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;(1)
 </p>
 
 <p>
 &nbsp;&nbsp;
-<i>u<sub>t</sub></i>=&Delta;<i>u</i>-&chi;&nabla;&#x2219;(<i>u&nabla;v</i>)+<i>u</i>(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
+<i>u<sub>t</sub></i>=&Delta;<i>u</i>-&chi;&nabla;&#x2219; (<i>u&nabla;v</i>)+<i>u</i>(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;
-&tau;<i>v<sub>t</sub><i>= &Delta;<i>v</i>-&lambda;<i>v</i>+&mu;<i>u</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
+&tau;<i>v<sub>t</sub></i>= &Delta;<i>v</i>-&lambda;<i>v</i>+&mu;<i>u</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;(2)
 </p>
 
@@ -133,7 +133,7 @@ and
 
 <p>
 &nbsp;&nbsp;
-<i>u<sub>t</sub></i>=&Delta;<i>u</i>-&chi;&nabla;&#x2219;(<i>u&nabla;v</i>)+<i>u</i>(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
+<i>u<sub>t</sub></i>=&Delta;<i>u</i>-&chi;&nabla;&#x2219; (<i>u&nabla;v</i>)+<i>u</i>(<i>a-bu</i>),&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;
 0= &Delta;<i>v</i>-&lambda;<i>v</i>+&mu;<i>u</i>,&nbsp;&nbsp; <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 &nbsp;&nbsp;(3)
@@ -206,7 +206,7 @@ solvability of boundary-value problems of the form
 
 <p>
 &nbsp;&nbsp;
--&Sigma;<sup><i>d</i></sup><sub><i>i,j</i>=1</sub><i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b&#x2219;D</i>)<i>u</i>
+-&Sigma;<sup><i>d</i></sup><sub><i>i,j</i>=1</sub><i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b&#x2219; D</i>)<i>u</i>
 +<i>cu</i>=<i>f</i> in &Omega;,
 &nbsp;&nbsp;&nbsp;&nbsp;
 Tr(<i>u</i>)=0 on &part;&Omega;
