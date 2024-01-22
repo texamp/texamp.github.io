@@ -201,14 +201,15 @@ $$
 
 under the condition
 
-$$
-&exists; &mu;,&nbsp; _C_&gt;0&nbsp; &forall;&xi;&isin;&Ropf;^{d}:&nbsp;
-&mu;_w_<sup>4</sup>(_x_)|&xi;|<sup>2</sup>&le;&Sigma<sup><i>d</i></sup><sub>i,j=1</sub>
+<p>
+&nbsp;&nbsp;
+&exist; &mu;, _C_&gt;0&nbsp; &forall;&xi;&isin;&Ropf;^{d}:&nbsp;
+&mu;_w_<sup>4</sup>(_x_)|&xi;|<sup>2</sup>&le;&Sigma;<sup><i>d</i></sup><sub>i,j=1</sub>
 a<sub><i>ij</i></sub>(_x_)&xi;<sub><i>i</i></sub>&xi;<sub><i>j</i></sub>&le; _C_ _w_<sup>4</sup>(_x_)|
 &xi;<sup>2</sup>&nbsp; a.e. in &Omega;
 &nbsp;&nbsp;
 (2)
-$$
+</p>
 
 where _w_&isin;_C_<sup>1</sup>(&Omega;) is an elimination function arbitrary
 small on &Omega;. We highlight that in this setting, the theory
@@ -271,7 +272,7 @@ Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of d
 *Directional Ballistic transport for partially periodic Schr&ouml;dinger operators*
 
 Abstract:
-In this talk, we will consider Schr&ouml;dinger operators on &Ropf;<sup><i>d</i></sup> or &Zopf;<sup><i>d</i></sup> with bounded potentials _V_ that are periodic in some direction and compactly supported in others. Such systems are known to produce "surface states" that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states - in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time (_x_ &sim; _t_- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
+In this talk, we will consider Schr&ouml;dinger operators on &Ropf;<sup><i>d</i></sup> or &Zopf;<sup><i>d</i></sup> with bounded potentials _V_ that are periodic in some direction and compactly supported in others. Such systems are known to produce "surface states" that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states &ndash; in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time (_x_ &sim; _t_- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
 In this talk, I will briefly review our main results and some of the tools used in this work. This is joint work with Adam Black, David Damanik, and Giorgio Young.
 
 ------
