@@ -192,9 +192,8 @@ solvability of boundary-value problems of the form
 <p>
 &nbsp;&nbsp;
 -&Sigma;<sup><i>d</i></sup><sub><i>i,j</i>=1</sub><i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b&#x2219;D</i>)<i>u</i>
-+<i>cu</i>=<i>f</i> in &Omega;
-<br>
-&nbsp;&nbsp;
++<i>cu</i>=<i>f</i> in &Omega;,
+&nbsp;&nbsp;&nbsp;&nbsp;
 Tr(<i>u</i>)=0 on &part;&Omega;
 &nbsp;&nbsp;
 (1)
