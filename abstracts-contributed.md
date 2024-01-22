@@ -11,6 +11,17 @@ We discuss the challenges that arise when formulating a discrete analogue to per
 
 ------
 
+**Speaker: Adam Christopherson (Ohio State University)**
+
+*Title: Weak-type regularity of the Bergman projection on Hartogs domains*
+
+Abstract: 
+For power-generalized Hartogs triangles in $\mathbb{C}^3$, we show that the Bergman projection satisfies a weak-type estimate at the upper endpoint of boundedness but not at the lower endpoint. Our work complements related results obtained recently for rational Hartogs triangles in $\mathbb{C}^2$ and the punctured unit ball in $\mathbb{R}^3$. 
+
+This work is joint with K.D. Koenig.
+
+------
+
 **Speaker: Jesus Cruz-Lugo (Baylor University)**
 
 *Title: On the stability of the Dirichlet problem for weakly leliptic systems in the plane*
@@ -31,12 +42,105 @@ Yellow fever remains endemic in some parts of the world (Nigeria included), desp
 
 ------
 
+**Speaker: Matthew Faust (Texas A\&M University)**
+
+*Talk title: An Ambartsuman-type inverse problem for periodic graphs*
+
+Abstract: 
+We study Floquet isospectrality of the zero potential for the discrete periodic Schrödinger operator acting on functions on the n-dimensional square lattice. It is well-known that for the square lattice, the zero potential has no nonzero real floquet isospectral potentials. It is in folklore that there exist non-zero complex solutions. As part of an REU led by Wencai Liu, Rodrigo Matos, and the speaker, we provide explicit solutions whenever one of the periods is even using combinatorial methods.
+
+------
+
+**Speaker: Baofeng Feng (University of Texas Rio Grande Valley)**
+
+*Title: Bilinear structure and KP reductions to CSSI equation*
+
+Abstract: 
+In this presentation, we construct breather and rouge wave
+solutions to one generalized coupled nonlinear Schrödinger (NLS)
+equation,  so called coupled Sasa--Satsuma (CSS) equation by using the
+Kadomtsev--Petviashvili (KP) hierarchy reduction method and the
+Hirota's bilinear method. First, we show that the CSS equation can be
+bilinearized into a set of six equations. Then, starting from 13
+bilinear equations in the KP-Toda hierarchy, together with the
+discrete KP equation, the CSS equation is derived. As a by product, we
+provide its multi-breather and general rogue wave solutions.
+
+------
+
 **Speaker: Zhaosheng Feng (University of Texas--RGV)**
 
 *Title: Parabolic Systems of Aggregation Formation in Bacterial Colonies*
 
 Abstract:
 The goal of this talk is to study a fourth-order nonlinear parabolic system with dispersion for describing bacterial aggregation. It shows that unlike the model without dispersion, a bacterial cluster can move, which allows us to consider dispersion as some kind of control for bacterial colony. We demonstrate that the initial concentration of bacteria in the form of a random distribution over time transforms into a periodic wave, followed by a transition to a stationary solitary wave without dispersion.
+
+------
+
+**Speaker: Himali Gammanpila (Texas Tech University)**
+
+*Title: Stability analysis and a priori error estimation for Nitsche-type CIP/GP-CutFEM multi-phase flow*
+
+Abstract:
+Two-phase flows are encountered in various industrial applications and natural phenomena. Since the interface is significantly thin in two-phase flow, it can be treated as a discontinuity in the flow field where localized surface tension forces act. Defining the interface implicitly means that elements may be intersected by the interface, and the aforementioned discontinuities may occur inside them. When using the finite element method (FEM) with polynomial shape functions, these discontinuities cannot be explicitly represented. Therefore, many PDE solvers employ a discontinuous function, especially in the context of fluid dynamics problems. These methods utilize discontinuous functions to distinguish different domains and ensure no extrinsic contributions are incurred when utilizing an arbitrary discontinuity. An extension of FEM utilizing discontinuous functions is CutFEM or Extended FEM (XFEM), which allows for reproducing arbitrary discontinuities inside elements by providing an enhanced shape function basis. 
+In this study, a Nitsche-type extended variational multiscale method for two-phase flow is suggested, specifically for discontinuous pressure. To ensure a stable formulation across the entire domain, Continuous Interior Penalty (CIP) based variational multiscale terms are supported by appropriate face- oriented ghost-penalty terms. These terms are introduced to sufficiently control the enrichment value of the solution fields, thereby ensuring the stability of the formulation. The numerical analysis of the proposed CutFEM starts by providing the bilinear form that satisfies an inf-sup condition with respect to a suitable norm. The inf-sup constant is independent of how the boundary cuts the underlying mesh. Furthermore, energy-type a priori estimates are proved to be independent of the local Reynolds number. 
+
+------
+
+**Speaker: Joan Morrill Gavarro (RWTH Aachen)**
+
+*Title: A hydrodynamic formulation for a nonlinear Dirac equation*
+
+Abstract: 
+We derive a hydrodynamics formulation for a modified Dirac equation with a nonlinear mass term. The nonlinearity has the same homogeneity as the classical Dirac equation but is only Lipschitz continuous. We prove a global existence result for a regularised equation. The nonlinear Dirac equation admits a clean and symmetric split into the left and right-handed spinor components. It is formulated using Clifford algebra tools. This is joint work with Prof. Dr. Michael Westdickenberg (RWTH Aachen University).
+
+------
+
+**Speaker: Zulaihat Hassan (Auburn University)**
+
+*Title: Global existence of classical solutions of chemotaxis systems with logistic source and consumption or linear signal production on* $\mathbb{R}^{n}$
+
+Abstract:
+The current talk is concerned with the global existence of classical solutions for  the following three primary chemotaxis systems with a logistic source on $\mathbb{R}^n$,
+
+$$
+(1)
+\qquad
+\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr
+\tau v_t= \Delta v-uv,\quad x\in\mathbb{R}^n,
+\end{cases}
+$$
+
+$$
+(2)
+\qquad
+\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr
+\tau v_t= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,
+\end{cases}
+$$
+
+and
+
+$$
+(3)
+\qquad
+\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr
+0= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,
+\end{cases}
+$$
+
+where $\chi$ is a nonzero number and $a, b, \lambda, \mu, \tau$ are positive constants. We  provide sufficient conditions for the global existence and boundedness of
+classical solutions  of (1),  (2), and (3) with nonnegative initial functions in a unified way. It follows that nonnegative classical solutions of (1),  (2), and (3)  exist globally and stay bounded in one- and two-dimensional settings for any chemotaxis sensitivity $\chi$.
+Moreover, we show that the methods developed for the study of (1)-(3) can be adapted to the bounded domain case without much effort.  Several existing results for (1),  (2), and (3)  on bounded domains are then improved.
+
+------
+
+**Speaker: Lawford Hatcher (Indiana University)**
+
+*Title: The hot spots conjecture with mixed boundary conditions*
+
+Abstract: 
+Rauch's hot spots conjecture states that the first non-constant Neumann eigenfunction of the Laplacian on a bounded domain in $\mathbb{R}^n$ attains its local extrema only on the boundary of the domain. We consider an analogous problem concerning the first eigenfunction with mixed Dirichlet--Neumann boundary conditions. We will show why these two problems are closely related to each other and then present a result when the domain is a triangle or a region bounded by the graph of a piecewise smooth function.
 
 ------
 
@@ -50,122 +154,21 @@ analytic potentials and irrational frequencies.
 
 ------
 
+**Speaker: Xiaoqi Huang (LSU)**
+
+*Title: Strichartz estimates for the Schrödinger equation on negatively curved compact manifolds*
+
+Abstract: 
+We will discuss improved Strichartz estimates for solutions of the Schrödinger equation on compact manifolds with nonpositive curvature which is related to the results of Burq, Gérard and Tzvetkov(2004). The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
+
+------
+
 **Speaker: Omar Hurtado (UC Irvine)**
 
 *Title: Localization and unique continuation for non-stationary Schrödinger operators on $\mathbb{Z}^2$
 
 Abstract: 
 We extend methods from the breakthrough paper of Ding--Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $\mathbb{Z}^2$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
-
-------
-
-**Speaker: Yongming Li (Texas A\&M University)**
-
-*Title: Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance*
-
-Abstract: In this talk, we will discuss dispersive and local decay estimates for a class of matrix Schrödinger operators that naturally arise from the linearization of focusing nonlinear Schrödinger equations around a solitary wave. We review the spectral properties of these linearized operators, and discuss how threshold resonances may appear in their spectrum. In the presence of threshold resonances, it will be shown that the slowdown of the local decay rate can be pinned down to a finite rank operator corresponding to the threshold resonances. Some applications for the linearized equation for the 1D focusing cubic Schrödinger equation will be discussed.
-
-------
-
-**Speaker: Sakshi Malhotra (University of Texas at Dallas)**
-
-*Title: Finite time stability of a sweeping process for an elastoplastic system with stress-controlled loading*
-
-Abstract:
-Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from ``Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems'' by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in New Variational Techniques in Mathematical Physics (Cen-tro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974,pp. 171--322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
-
-------
-
-**Speaker: Hewan Meles Shemtaga (Auburn University)**
-
-*Title: Chemotaxis models and Keller--Segel systems on compact metric graphs*
-
-Abstract: 
-Chemotaxis phenomena govern the directed movement of microorganisms in response to chemical stimuli. In this talk we will discuss a pair of logistic type Keller--Segel systems of reaction-advection-diffusion equations modeling chemotaxis on networks. The first part of the talk concerns well-posedness of Keller--Segel systems on arbitrary compact metric graphs. In the second part of the talk, we will focus on asymptotic stability,  instability, and bifurcation of constant steady state solutions. This is joint work with Wenxian Shen (Auburn) and Selim Sukhtaiev (Auburn).
-
-------
-
-**Speaker: Joseph Miller (UT Austin)**
-
-*Title: On the effective dynamics of Bose--Fermi mixtures*
-
-Abstract: 
-In this talk, I will be discussing recent work with Esteban Cardenas and my advisor Natasa Pavlovic: https://arxiv.org/abs/2309.04638. In this work, we describe the dynamics of a Bose--Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schrödinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov--Hartee system of equations with an explicit convergence rate.
-
-------
-
-**Speaker: Arnaja Mitra (University of Texas at Dallas)**
-
-*Title: Equivariant global Hopf bifurcation in abstract nonlinear parabolic equations*
-
-Abstract:
-We study local and global symmetric Hopf bifurcation in abstract parabolic systems by means of the twisted equivariant degree.
-
-------
-
-**Speaker: Alejandro Quintero-Roba (Baylor University)**
-
-*Title: The Riemann--Hilbert problem for Krall orthogonal polynomials*
-
-Abstract:
-In this talk, we give background on the Riemann--Hilbert problem (RHp) for orthogonal polynomials (OP) and its versatility in finding general properties of specific OP families such as the ordinary differential equation the family satisfies. We also discuss the Krall--Legendre OP sequence, which is known for satisfying a fourth-order differential equation. Then, we formulate the RHp for the Krall--Legendre OP, prove the existence and uniqueness of its solution, and show the method to obtain the first-order matrix ODE, and the second-order scalar ODE for the Krall--Legendre OP, as a first approach to finding the fourth-order scalar ODE from the Riemann--Hilbert formulation, as our final goal.
-
-------
-
-**Speaker: Brian Simanek (Baylor University)**
-
-*Title: Discrete m-functions with doubly-palindromic continued fraction coefficients*
-
-Abstract:
-We will consider Jacobi matrices whose diagonal and off-diagonal entries are eventually periodic sequences. We show that if each period can be written as the concatenation of two palindromes, then there is a special property satisfied by these matrices, which is most easily expressed in terms of the associated $m$-functions. This generalizes a known result about the continued fraction expansion of real numbers. Joint work with Hunter Handley.
-
-------
-
-**Speaker: Mahishanka Withanachchi (Laval University)**
-
-*Title: Lebesgue constants in local Dirichlet spaces*
-
-Abstract:
-This study delves into the analysis of partial Taylor sums $S_n$, $n \geq 0$, as finite rank operators on any Banach space of analytic functions on the open unit disc. In the classical disc algebra setting, these operators are known as Lebesgue constants, with their precise norm remaining unresolved. However, our focus shifts to the weighted Dirichlet spaces $\mathcal{D}_w$, where we accurately determine the norm of $S_n$. This exploration involves three distinct norms on $\mathcal{D}_w$, each providing unique values for the norm of $S_n$ as an operator on $\mathcal{D}_w$. Notably, these findings stand in sharp contrast to the classical disc algebra. Moreover, we extend our investigation to Cesaro means $\sigma_n$ on local Dirichlet spaces, aiming to precisely determine their norm for the three introduced metrics.
-
-Lebesgue constants in local Dirichlet spaces are vital for guiding the selection of optimal finite-dimensional approximations in numerical solutions of partial differential equations with Dirichlet boundary conditions in mathematical physics.
-
-------
-
-**Speaker: Joan Morrill Gavarro (RWTH Aachen)**
-
-*Title: A hydrodynamic formulation for a nonlinear Dirac equation*
-
-Abstract: 
-We derive a hydrodynamics formulation for a modified Dirac equation with a nonlinear mass term. The nonlinearity has the same homogeneity as the classical Dirac equation but is only Lipschitz continuous. We prove a global existence result for a regularised equation. The nonlinear Dirac equation admits a clean and symmetric split into the left and right-handed spinor components. It is formulated using Clifford algebra tools. This is joint work with Prof. Dr. Michael Westdickenberg (RWTH Aachen University).
-
-------
-
-**Speaker: Matthew Faust (Texas A\&M University)**
-
-*Talk title: An Ambartsuman-type inverse problem for periodic graphs*
-
-Abstract: 
-We study Floquet isospectrality of the zero potential for the discrete periodic Schrödinger operator acting on functions on the n-dimensional square lattice. It is well-known that for the square lattice, the zero potential has no nonzero real floquet isospectral potentials. It is in folklore that there exist non-zero complex solutions. As part of an REU led by Wencai Liu, Rodrigo Matos, and the speaker, we provide explicit solutions whenever one of the periods is even using combinatorial methods.
-
-------
-
-**Speaker: Yuzhou Zou (Northwestern University)**
-
-*Title: A Gutzwiller trace formula for semiclassical Schrödinger operators with conormal potentials*
-
-Abstract: 
-We discuss ongoing work (joint with Jared Wunsch and Mengxuan Yang) which concerns extending the Gutzwiller Trace Formula from the case of smooth potentials to the case of potentials with conormal singularities. In the smooth case, the formula expresses an eigenvalue-counting function of a Schrödinger operator as a sum of certain dynamical quantities over periodic Hamiltonian trajectories. In the conormal case, a consideration of a WKB ansatz for the Schrödinger propagator suggests the sum should incorporate dynamical information about Hamiltonian trajectories which reflect at the site of the singularity. We will discuss the variational formulation required to make sense of the dynamics of such trajectories, as well as the further work we expect to need in order to complete the proof.
-
-------
-
-**Speaker: Tal Malinovitch (Rice University)**
-
-*Title: Directional Ballistic transport for partially periodic Schrödinger operators*
-
-Abstract:
-In this talk, we will consider Schrödinger operators on $\mathbb{R}^d$ or $\mathbb{Z}^d$ with bounded potentials $V$ that are periodic in some direction and compactly supported in others. Such systems are known to produce ``surface states'' that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states - in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time ($x\sim t$- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
-In this talk, I will briefly review our main results and some of the tools used in this work. This is joint work with Adam Black, David Damanik, and Giorgio Young.
 
 ------
 
@@ -242,59 +245,30 @@ de Matemática. 26. http://doi.org/10.5269/bspm.v26i1-2.7415
 
 ------
 
-**Speaker: Zulaihat Hassan (Auburn University)**
+**Speaker: Yongming Li (Texas A\&M University)**
 
-*Title: Global existence of classical solutions of chemotaxis systems with logistic source and consumption or linear signal production on* $\mathbb{R}^{n}$
+*Title: Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance*
 
-Abstract:
-The current talk is concerned with the global existence of classical solutions for  the following three primary chemotaxis systems with a logistic source on $\mathbb{R}^n$,
-
-$$
-(1)
-\qquad
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr
-\tau v_t= \Delta v-uv,\quad x\in\mathbb{R}^n,
-\end{cases}
-$$
-
-$$
-(2)
-\qquad
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr
-\tau v_t= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,
-\end{cases}
-$$
-
-and
-
-$$
-(3)
-\qquad
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr
-0= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,
-\end{cases}
-$$
-
-where $\chi$ is a nonzero number and $a, b, \lambda, \mu, \tau$ are positive constants. We  provide sufficient conditions for the global existence and boundedness of
-classical solutions  of (1),  (2), and (3) with nonnegative initial functions in a unified way. It follows that nonnegative classical solutions of (1),  (2), and (3)  exist globally and stay bounded in one- and two-dimensional settings for any chemotaxis sensitivity $\chi$.
-Moreover, we show that the methods developed for the study of (1)-(3) can be adapted to the bounded domain case without much effort.  Several existing results for (1),  (2), and (3)  on bounded domains are then improved.
+Abstract: In this talk, we will discuss dispersive and local decay estimates for a class of matrix Schrödinger operators that naturally arise from the linearization of focusing nonlinear Schrödinger equations around a solitary wave. We review the spectral properties of these linearized operators, and discuss how threshold resonances may appear in their spectrum. In the presence of threshold resonances, it will be shown that the slowdown of the local decay rate can be pinned down to a finite rank operator corresponding to the threshold resonances. Some applications for the linearized equation for the 1D focusing cubic Schrödinger equation will be discussed.
 
 ------
 
-**Speaker: Baofeng Feng (University of Texas Rio Grande Valley)**
+**Speaker: Sakshi Malhotra (University of Texas at Dallas)**
 
-*Title: Bilinear structure and KP reductions to CSSI equation*
+*Title: Finite time stability of a sweeping process for an elastoplastic system with stress-controlled loading*
 
-Abstract: 
-In this presentation, we construct breather and rouge wave
-solutions to one generalized coupled nonlinear Schrödinger (NLS)
-equation,  so called coupled Sasa--Satsuma (CSS) equation by using the
-Kadomtsev--Petviashvili (KP) hierarchy reduction method and the
-Hirota's bilinear method. First, we show that the CSS equation can be
-bilinearized into a set of six equations. Then, starting from 13
-bilinear equations in the KP-Toda hierarchy, together with the
-discrete KP equation, the CSS equation is derived. As a by product, we
-provide its multi-breather and general rogue wave solutions.
+Abstract:
+Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from ``Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems'' by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in New Variational Techniques in Mathematical Physics (Cen-tro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974,pp. 171--322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
+
+------
+
+**Speaker: Tal Malinovitch (Rice University)**
+
+*Title: Directional Ballistic transport for partially periodic Schrödinger operators*
+
+Abstract:
+In this talk, we will consider Schrödinger operators on $\mathbb{R}^d$ or $\mathbb{Z}^d$ with bounded potentials $V$ that are periodic in some direction and compactly supported in others. Such systems are known to produce ``surface states'' that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states - in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time ($x\sim t$- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
+In this talk, I will briefly review our main results and some of the tools used in this work. This is joint work with Adam Black, David Damanik, and Giorgio Young.
 
 ------
 
@@ -307,41 +281,50 @@ We look at a simple first-order Mean Field Game that gives players incentive to 
 
 ------
 
-**Speaker: Pedro Takemura Feitosa Da Silva (Baylor University)**
+**Speaker: Hewan Meles Shemtaga (Auburn University)**
 
-*Title: A new class of Herz-type spaces and boundary problems*
+*Title: Chemotaxis models and Keller--Segel systems on compact metric graphs*
 
 Abstract: 
-In the past two decades the theory of Herz spaces has seen numerous developments, yielding a large family of Herz-type scales which are particularly relevant from the perspective of Hamonic Analysis. The main point of this talk is to describe a new brand, referred to as Grand Herz spaces, which unifies much of the existing body of work. Notably, this new brand fits within the framework of Generalized Banach Function Spaces, thus paving the way for the treatment of boundary value problems in this inclusive functional analytic setting. As an illustration, we present a well-posedness result for the Dirichlet Problem with boundary data taken in Grand Herz spaces. This is joint work with Marius Mitrea.
+Chemotaxis phenomena govern the directed movement of microorganisms in response to chemical stimuli. In this talk we will discuss a pair of logistic type Keller--Segel systems of reaction-advection-diffusion equations modeling chemotaxis on networks. The first part of the talk concerns well-posedness of Keller--Segel systems on arbitrary compact metric graphs. In the second part of the talk, we will focus on asymptotic stability,  instability, and bifurcation of constant steady state solutions. This is joint work with Wenxian Shen (Auburn) and Selim Sukhtaiev (Auburn).
 
 ------
 
-**Speaker: Lawford Hatcher (Indiana University)**
+**Speaker: Joseph Miller (UT Austin)**
 
-*Title: The hot spots conjecture with mixed boundary conditions*
+*Title: On the effective dynamics of Bose--Fermi mixtures*
 
 Abstract: 
-Rauch's hot spots conjecture states that the first non-constant Neumann eigenfunction of the Laplacian on a bounded domain in $\mathbb{R}^n$ attains its local extrema only on the boundary of the domain. We consider an analogous problem concerning the first eigenfunction with mixed Dirichlet--Neumann boundary conditions. We will show why these two problems are closely related to each other and then present a result when the domain is a triangle or a region bounded by the graph of a piecewise smooth function.
+In this talk, I will be discussing recent work with Esteban Cardenas and my advisor Natasa Pavlovic: https://arxiv.org/abs/2309.04638. In this work, we describe the dynamics of a Bose--Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schrödinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov--Hartee system of equations with an explicit convergence rate.
 
 ------
 
-**Speaker: Adam Christopherson (Ohio State University)**
+**Speaker: Arnaja Mitra (University of Texas at Dallas)**
 
-*Title: Weak-type regularity of the Bergman projection on Hartogs domains*
+*Title: Equivariant global Hopf bifurcation in abstract nonlinear parabolic equations*
 
-Abstract: 
-For power-generalized Hartogs triangles in $\mathbb{C}^3$, we show that the Bergman projection satisfies a weak-type estimate at the upper endpoint of boundedness but not at the lower endpoint. Our work complements related results obtained recently for rational Hartogs triangles in $\mathbb{C}^2$ and the punctured unit ball in $\mathbb{R}^3$. 
-
-This work is joint with K.D. Koenig.
+Abstract:
+We study local and global symmetric Hopf bifurcation in abstract parabolic systems by means of the twisted equivariant degree.
 
 ------
 
-**Speaker: Xiaoqi Huang (LSU)**
+**Speaker: Alejandro Quintero-Roba (Baylor University)**
 
-*Title: Strichartz estimates for the Schrödinger equation on negatively curved compact manifolds*
+*Title: The Riemann--Hilbert problem for Krall orthogonal polynomials*
 
-Abstract: 
-We will discuss improved Strichartz estimates for solutions of the Schrödinger equation on compact manifolds with nonpositive curvature which is related to the results of Burq, Gérard and Tzvetkov(2004). The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
+Abstract:
+In this talk, we give background on the Riemann--Hilbert problem (RHp) for orthogonal polynomials (OP) and its versatility in finding general properties of specific OP families such as the ordinary differential equation the family satisfies. We also discuss the Krall--Legendre OP sequence, which is known for satisfying a fourth-order differential equation. Then, we formulate the RHp for the Krall--Legendre OP, prove the existence and uniqueness of its solution, and show the method to obtain the first-order matrix ODE, and the second-order scalar ODE for the Krall--Legendre OP, as a first approach to finding the fourth-order scalar ODE from the Riemann--Hilbert formulation, as our final goal.
+
+------
+
+**Speaker: Brian Simanek (Baylor University)**
+
+*Title: Discrete m-functions with doubly-palindromic continued fraction coefficients*
+
+Abstract:
+We will consider Jacobi matrices whose diagonal and off-diagonal entries are eventually periodic sequences. We show that if each period can be written as the concatenation of two palindromes, then there is a special property satisfied by these matrices, which is most easily expressed in terms of the associated $m$-functions. This generalizes a known result about the continued fraction expansion of real numbers. Joint work with Hunter Handley.
+
+
 
 ------
 
@@ -353,22 +336,12 @@ Variational problems involving curves with energy densities influenced by their 
 
 ------
 
-**Speaker: Himali Gammanpila (Texas Tech University)**
+**Speaker: Pedro Takemura Feitosa Da Silva (Baylor University)**
 
-*Title: Stability analysis and a priori error estimation for Nitsche-type CIP/GP-CutFEM multi-phase flow*
-
-Abstract:
-Two-phase flows are encountered in various industrial applications and natural phenomena. Since the interface is significantly thin in two-phase flow, it can be treated as a discontinuity in the flow field where localized surface tension forces act. Defining the interface implicitly means that elements may be intersected by the interface, and the aforementioned discontinuities may occur inside them. When using the finite element method (FEM) with polynomial shape functions, these discontinuities cannot be explicitly represented. Therefore, many PDE solvers employ a discontinuous function, especially in the context of fluid dynamics problems. These methods utilize discontinuous functions to distinguish different domains and ensure no extrinsic contributions are incurred when utilizing an arbitrary discontinuity. An extension of FEM utilizing discontinuous functions is CutFEM or Extended FEM (XFEM), which allows for reproducing arbitrary discontinuities inside elements by providing an enhanced shape function basis. 
-In this study, a Nitsche-type extended variational multiscale method for two-phase flow is suggested, specifically for discontinuous pressure. To ensure a stable formulation across the entire domain, Continuous Interior Penalty (CIP) based variational multiscale terms are supported by appropriate face- oriented ghost-penalty terms. These terms are introduced to sufficiently control the enrichment value of the solution fields, thereby ensuring the stability of the formulation. The numerical analysis of the proposed CutFEM starts by providing the bilinear form that satisfies an inf-sup condition with respect to a suitable norm. The inf-sup constant is independent of how the boundary cuts the underlying mesh. Furthermore, energy-type a priori estimates are proved to be independent of the local Reynolds number. 
-
-------
-
-**Speaker: Tracy Weyand (Rose--Hulman Institute of Technology)**
-
-*Title: Calculating the number of spanning trees of a quantum graph from its spectrum*
+*Title: A new class of Herz-type spaces and boundary problems*
 
 Abstract: 
-Kirchhoff's Matrix Tree Theorem provides a way to calculate the number of spanning trees of a discrete graph from the spectral determinant of the combinatorial Laplacian acting on that graph. We extend this result to quantum graphs. We derive a formula that allows one to calculate the number of spanning trees of a connected equilateral metric graph in terms of the spectral determinant of the Laplacian acting on the graph (with Neumann--Kirchhoff vertex conditions). This is accomplished using a previous result that relates the spectral determinant of Laplace operators on discrete and quantum graphs. We then show that this result holds under small perturbations of edge length. This talk is based on joint work with Jon Harrison.
+In the past two decades the theory of Herz spaces has seen numerous developments, yielding a large family of Herz-type scales which are particularly relevant from the perspective of Hamonic Analysis. The main point of this talk is to describe a new brand, referred to as Grand Herz spaces, which unifies much of the existing body of work. Notably, this new brand fits within the framework of Generalized Banach Function Spaces, thus paving the way for the treatment of boundary value problems in this inclusive functional analytic setting. As an illustration, we present a well-posedness result for the Dirichlet Problem with boundary data taken in Grand Herz spaces. This is joint work with Marius Mitrea.
 
 ------
 
@@ -383,6 +356,26 @@ Open dynamical systems study the statistics of the first hitting time when traje
 3. When the ``hole'' in the phase space takes the shape of a ball in a Riemann manifold, we established Poisson limit laws for certain dissipative systems. Our conditions are loosely dependent on the Hausdorff dimension of the SRB measure.
 
 This is joint work with Prof. Leonid Bunimovich.
+
+------
+
+**Speaker: Tracy Weyand (Rose--Hulman Institute of Technology)**
+
+*Title: Calculating the number of spanning trees of a quantum graph from its spectrum*
+
+Abstract: 
+Kirchhoff's Matrix Tree Theorem provides a way to calculate the number of spanning trees of a discrete graph from the spectral determinant of the combinatorial Laplacian acting on that graph. We extend this result to quantum graphs. We derive a formula that allows one to calculate the number of spanning trees of a connected equilateral metric graph in terms of the spectral determinant of the Laplacian acting on the graph (with Neumann--Kirchhoff vertex conditions). This is accomplished using a previous result that relates the spectral determinant of Laplace operators on discrete and quantum graphs. We then show that this result holds under small perturbations of edge length. This talk is based on joint work with Jon Harrison.
+
+------
+
+**Speaker: Mahishanka Withanachchi (Laval University)**
+
+*Title: Lebesgue constants in local Dirichlet spaces*
+
+Abstract:
+This study delves into the analysis of partial Taylor sums $S_n$, $n \geq 0$, as finite rank operators on any Banach space of analytic functions on the open unit disc. In the classical disc algebra setting, these operators are known as Lebesgue constants, with their precise norm remaining unresolved. However, our focus shifts to the weighted Dirichlet spaces $\mathcal{D}_w$, where we accurately determine the norm of $S_n$. This exploration involves three distinct norms on $\mathcal{D}_w$, each providing unique values for the norm of $S_n$ as an operator on $\mathcal{D}_w$. Notably, these findings stand in sharp contrast to the classical disc algebra. Moreover, we extend our investigation to Cesaro means $\sigma_n$ on local Dirichlet spaces, aiming to precisely determine their norm for the three introduced metrics.
+
+Lebesgue constants in local Dirichlet spaces are vital for guiding the selection of optimal finite-dimensional approximations in numerical solutions of partial differential equations with Dirichlet boundary conditions in mathematical physics.
 
 ------
 
@@ -408,4 +401,14 @@ Abstract: Recent experiments discovered fractional Chern insulator states at zer
 
 Abstract: 
 Topological insulators (TI) are a class of 2D materials which behave like insulators in their bulk but support robust states along their edges. One of the key property of TI that is expected to be true is the robustness of the property above w.r.t. the shape of the edge. In this talk, we will discuss how does shape of edge influence the property of TI above. In particular, we will both give a general, intuitive condition for this property to hold, and provide a counter-example otherwise. We also show why in practical situation, experiments may provide misleading results on TI. This work is based on a joint work with Alexis Drouot.
+
+------
+
+**Speaker: Yuzhou Zou (Northwestern University)**
+
+*Title: A Gutzwiller trace formula for semiclassical Schrödinger operators with conormal potentials*
+
+Abstract: 
+We discuss ongoing work (joint with Jared Wunsch and Mengxuan Yang) which concerns extending the Gutzwiller Trace Formula from the case of smooth potentials to the case of potentials with conormal singularities. In the smooth case, the formula expresses an eigenvalue-counting function of a Schrödinger operator as a sum of certain dynamical quantities over periodic Hamiltonian trajectories. In the conormal case, a consideration of a WKB ansatz for the Schrödinger propagator suggests the sum should incorporate dynamical information about Hamiltonian trajectories which reflect at the site of the singularity. We will discuss the variational formulation required to make sense of the dynamics of such trajectories, as well as the further work we expect to need in order to complete the proof.
+
 
