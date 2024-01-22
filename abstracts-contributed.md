@@ -1,3 +1,21 @@
+<style>
+.supsub {
+    display: inline-block;
+}
+
+.supsub sup,
+.supsub sub {
+    position: relative;
+    display: block;
+    font-size: .5em;
+    line-height: 1.2;
+}
+
+.supsub sub {
+    top: .3em;
+}
+</style>
+
 **Contributed Talks: Titles and Abstracts**
 
 ------
@@ -208,7 +226,10 @@ solvability of boundary-value problems of the form
 &nbsp;&nbsp;
 (1)
 &nbsp;&nbsp;
--&Sigma;<sup><i>d</i></sup><sub><i>i,j</i>=1</sub><i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b&#x2219; D</i>)<i>u</i>
+-&Sigma;
+<span class='supsub'><sup class='superscript'><i>d</i></sup><sub class='subscript'>Sub</sub></span>
+<sup><i>d</i></sup><sub><i>i,j</i>=1</sub>
+<i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b&#x2219; D</i>)<i>u</i>
 +<i>cu</i>=<i>f</i> in &Omega;,
 &nbsp;&nbsp;&nbsp;&nbsp;
 Tr(<i>u</i>)=0 on &part;&Omega;
