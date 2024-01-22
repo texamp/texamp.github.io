@@ -16,7 +16,7 @@ We discuss the challenges that arise when formulating a discrete analogue to per
 *Weak-type regularity of the Bergman projection on Hartogs domains*
 
 Abstract: 
-For power-generalized Hartogs triangles in &Copf;^3, we show that the Bergman projection satisfies a weak-type estimate at the upper endpoint of boundedness but not at the lower endpoint. Our work complements related results obtained recently for rational Hartogs triangles in $&Copf;^2$ and the punctured unit ball in &Ropf;^3.
+For power-generalized Hartogs triangles in &Copf;<sup>3</sup>, we show that the Bergman projection satisfies a weak-type estimate at the upper endpoint of boundedness but not at the lower endpoint. Our work complements related results obtained recently for rational Hartogs triangles in &Copf;<sup>2</sup> and the punctured unit ball in &Ropf;<sup>3</sup>.
 
 This work is joint with K.D. Koenig.
 
@@ -165,10 +165,10 @@ We will discuss improved Strichartz estimates for solutions of the Schrödinger 
 
 **Omar Hurtado (UC Irvine)**
 
-*Localization and unique continuation for non-stationary Schrödinger operators on $&Zopf;^2$
+*Localization and unique continuation for non-stationary Schrödinger operators on $&Zopf;<sup>2</sup>$
 
 Abstract: 
-We extend methods from the breakthrough paper of Ding&mdash;Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $&Zopf;^2$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
+We extend methods from the breakthrough paper of Ding&mdash;Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $&Zopf;<sup>2</sup>$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
 
 ------
 
@@ -319,9 +319,10 @@ In this talk, we give background on the Riemann&mdash;Hilbert problem (RHp) for 
 
 **Miraj Samarakkody (Texas Tech University)**
 
-*Closed p-elastic curves in spheres of* $&Lopf;^{3}$
+*Closed _p_-elastic curves in spheres of* &Lopf;^{3}
 
-Variational problems involving curves with energy densities influenced by their curvature are common in mathematical physics. This talk focuses on the existence of closed $p$-elastic curves in two distinct spaces: the hyperbolic plane $&Hopf;^2$ and the de-Sitter 2-space $&Hopf;_1^2$, for any real number value of $p$. Our findings indicate that in the hyperbolic plane $&Hopf;^2$, closed $p$-elastic curves exhibiting non-constant curvature exist when $p >1$, while, in the de-Sitter 2-space $&Hopf;_1^2$, such curves only exist when $p < 0$. Additionally, we establish that under these specific conditions for the energy parameter $p$ and in both types of spaces, for any pair of relatively prime natural numbers $(n,m)$ that meet the criteria $m < 2n < \sqrt{2}m$, a closed $p$-elastic curve with non-constant curvature can be found. These curves exhibit $m$-fold symmetry and have a winding number equal to $n$.
+Variational problems involving curves with energy densities influenced by their curvature are common in mathematical physics. This talk focuses on the existence of closed _p_-elastic curves in two distinct spaces: the hyperbolic plane &Hopf;<sup>2</sup> and the de-Sitter 2-space &Hopf;_1<sup>2</sup>, for any real number value of _p_. Our findings indicate that in the hyperbolic plane &Hopf;<sup>2</sup>, closed _p_-elastic curves exhibiting non-constant curvature exist when _p_&gt;1, while, in the de-Sitter 2-space &Hopf;_1<sup>2</sup>, such curves only exist when _p_&lt;0. Additionally, we establish that under these specific conditions for the energy parameter _p_ and in both types of spaces, for any pair of relatively prime natural numbers (_n_,_m_) that meet the criteria
+_m_&lt;2_n_&lt;&radic;2_m_, a closed _p_-elastic curve with non-constant curvature can be found. These curves exhibit _m_-fold symmetry and have a winding number equal to _n_.
 
 ------
 
@@ -330,7 +331,7 @@ Variational problems involving curves with energy densities influenced by their 
 *Discrete m-functions with doubly-palindromic continued fraction coefficients*
 
 Abstract:
-We will consider Jacobi matrices whose diagonal and off-diagonal entries are eventually periodic sequences. We show that if each period can be written as the concatenation of two palindromes, then there is a special property satisfied by these matrices, which is most easily expressed in terms of the associated $m$-functions. This generalizes a known result about the continued fraction expansion of real numbers. Joint work with Hunter Handley.
+We will consider Jacobi matrices whose diagonal and off-diagonal entries are eventually periodic sequences. We show that if each period can be written as the concatenation of two palindromes, then there is a special property satisfied by these matrices, which is most easily expressed in terms of the associated _m_-functions. This generalizes a known result about the continued fraction expansion of real numbers. Joint work with Hunter Handley.
 
 ------
 
