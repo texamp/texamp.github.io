@@ -103,31 +103,31 @@ We derive a hydrodynamics formulation for a modified Dirac equation with a nonli
 Abstract:
 The current talk is concerned with the global existence of classical solutions for  the following three primary chemotaxis systems with a logistic source on &Ropf;<sup><i>n</i></sup>,
 
-$$
-(1)
-\qquad
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in &Ropf;<sup><i>n</i></sup>\cr
-\tau v_t= \Delta v-uv,\quad x\in&Ropf;<sup><i>n</i></sup>,
+<p>
+&nbsp;&nbsp;
+\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>\cr
+\tau v_t= \Delta v-uv,\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 \end{cases}
-$$
+&nbsp;&nbsp;(1)
+</p>
 
-$$
-(2)
-\qquad
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in &Ropf;<sup><i>n</i></sup>\cr
-\tau v_t= \Delta v-\lambda v + \mu u,\quad x\in&Ropf;<sup><i>n</i></sup>,
+<p>
+&nbsp;&nbsp;
+\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>\cr
+\tau v_t= \Delta v-\lambda v + \mu u,\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 \end{cases}
-$$
+&nbsp;&nbsp;(2)
+</p>
 
 and
 
-$$
-(3)
-\qquad
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in &Ropf;<sup><i>n</i></sup>\cr
-0= \Delta v-\lambda v + \mu u,\quad x\in&Ropf;<sup><i>n</i></sup>,
+<p>
+&nbsp;&nbsp;
+\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>\cr
+0= \Delta v-\lambda v + \mu u,\quad <i>x</i>&isin;&Ropf;<sup><i>n</i></sup>,
 \end{cases}
-$$
+&nbsp;&nbsp;(3)
+</p>
 
 where &chi; is a nonzero number and _a_, _b_, &lambda;, &mu;, &tau; are positive constants. We  provide sufficient conditions for the global existence and boundedness of
 classical solutions  of (1),  (2), and (3) with nonnegative initial functions in a unified way. It follows that nonnegative classical solutions of (1),  (2), and (3)  exist globally and stay bounded in one- and two-dimensional settings for any chemotaxis sensitivity &chi;.
@@ -149,7 +149,7 @@ Rauch's hot spots conjecture states that the first non-constant Neumann eigenfun
 *Logarithmic capacities of rational frequency approximants for the almost Mathieu operator*
 
 Abstract: 
-In their "<a href="https://arxiv.org/abs/1201.4199">Analytic quasi-periodic Schr&ouml;dinger operators and rational frequency approximants</a>" paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schr&ouml;dinger operator _H_<sub>&alpha;,&theta;</sub> with analytic potential and irrational frequency &alpha;. Given any rational approximating &alpha;, let _S_<sub>+</sub> and _S_<sub>-</sub> denote the union and the intersection of the spectra taken over &theta:, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from _S_<sub>-</sub> and _S_<sub>+</sub> of the periodic operators associated with the continued fraction expansion of &alpha;, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schr&ouml;dinger operator with
+In their "<a href="https://arxiv.org/abs/1201.4199">Analytic quasi-periodic Schr&ouml;dinger operators and rational frequency approximants</a>" paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schr&ouml;dinger operator _H_<sub>&alpha;,&theta;</sub> with analytic potential and irrational frequency &alpha;. Given any rational approximating &alpha;, let _S_<sub>+</sub> and _S_<sub>-</sub> denote the union and the intersection of the spectra taken over &theta;, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from _S_<sub>-</sub> and _S_<sub>+</sub> of the periodic operators associated with the continued fraction expansion of &alpha;, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schr&ouml;dinger operator with
 analytic potentials and irrational frequencies.
 
 ------
