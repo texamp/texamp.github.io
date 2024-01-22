@@ -27,7 +27,7 @@ This work is joint with K.D. Koenig.
 *On the stability of the Dirichlet problem for weakly leliptic systems in the plane*
 
 Abstract: 
-As opposed to Legendre--Hadamard elliptic systems, the $L^p$-Dirichlet problem for 
+As opposed to Legendre&mdash;Hadamard elliptic systems, the $L^p$-Dirichlet problem for 
 weakly elliptic systems in the upper-half space may not necessarily be well-posed. Remarkably, when the latter BVP is well-posed we show that it remains so after small perturbations of 
 the given weakly elliptic system. This is joint work with Marius Mitrea.
 
@@ -58,8 +58,8 @@ We study Floquet isospectrality of the zero potential for the discrete periodic 
 Abstract: 
 In this presentation, we construct breather and rouge wave
 solutions to one generalized coupled nonlinear Schrödinger (NLS)
-equation,  so called coupled Sasa--Satsuma (CSS) equation by using the
-Kadomtsev--Petviashvili (KP) hierarchy reduction method and the
+equation,  so called coupled Sasa&mdash;Satsuma (CSS) equation by using the
+Kadomtsev&mdash;Petviashvili (KP) hierarchy reduction method and the
 Hirota's bilinear method. First, we show that the CSS equation can be
 bilinearized into a set of six equations. Then, starting from 13
 bilinear equations in the KP-Toda hierarchy, together with the
@@ -68,7 +68,7 @@ provide its multi-breather and general rogue wave solutions.
 
 ------
 
-**Zhaosheng Feng (University of Texas--RGV)**
+**Zhaosheng Feng (University of Texas&mdash;RGV)**
 
 *Parabolic Systems of Aggregation Formation in Bacterial Colonies*
 
@@ -140,7 +140,7 @@ Moreover, we show that the methods developed for the study of (1)-(3) can be ada
 *The hot spots conjecture with mixed boundary conditions*
 
 Abstract: 
-Rauch's hot spots conjecture states that the first non-constant Neumann eigenfunction of the Laplacian on a bounded domain in $\mathbb{R}^n$ attains its local extrema only on the boundary of the domain. We consider an analogous problem concerning the first eigenfunction with mixed Dirichlet--Neumann boundary conditions. We will show why these two problems are closely related to each other and then present a result when the domain is a triangle or a region bounded by the graph of a piecewise smooth function.
+Rauch's hot spots conjecture states that the first non-constant Neumann eigenfunction of the Laplacian on a bounded domain in $\mathbb{R}^n$ attains its local extrema only on the boundary of the domain. We consider an analogous problem concerning the first eigenfunction with mixed Dirichlet&mdash;Neumann boundary conditions. We will show why these two problems are closely related to each other and then present a result when the domain is a triangle or a region bounded by the graph of a piecewise smooth function.
 
 ------
 
@@ -168,7 +168,7 @@ We will discuss improved Strichartz estimates for solutions of the Schrödinger 
 *Localization and unique continuation for non-stationary Schrödinger operators on $\mathbb{Z}^2$
 
 Abstract: 
-We extend methods from the breakthrough paper of Ding--Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $\mathbb{Z}^2$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
+We extend methods from the breakthrough paper of Ding&mdash;Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $\mathbb{Z}^2$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
 
 ------
 
@@ -236,7 +236,7 @@ della Scuola Normale Superiore di Pisa, Classe di Scienze.
 [3]
 Sawyer, E. T., \& Wheeden, R. L. (2010). Degenerate
 Sobolev spaces and regularity of subelliptic equations. Transactions
-of the American Mathematical Society, 362(4), 1869--1906. http://www.jstor.org/stable/40590893 
+of the American Mathematical Society, 362(4), 1869&mdash;1906. http://www.jstor.org/stable/40590893 
 
 [4]
 Cavalheiro, Albo. (2008). Weighted Sobolev Spaces
@@ -258,7 +258,7 @@ Abstract: In this talk, we will discuss dispersive and local decay estimates for
 *Finite time stability of a sweeping process for an elastoplastic system with stress-controlled loading*
 
 Abstract:
-Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from ``Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems'' by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in New Variational Techniques in Mathematical Physics (Cen-tro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974,pp. 171--322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
+Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from ``Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems'' by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in New Variational Techniques in Mathematical Physics (Cen-tro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974,pp. 171&mdash;322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
 
 ------
 
@@ -283,19 +283,19 @@ We look at a simple first-order Mean Field Game that gives players incentive to 
 
 **Hewan Meles Shemtaga (Auburn University)**
 
-*Chemotaxis models and Keller--Segel systems on compact metric graphs*
+*Chemotaxis models and Keller&mdash;Segel systems on compact metric graphs*
 
 Abstract: 
-Chemotaxis phenomena govern the directed movement of microorganisms in response to chemical stimuli. In this talk we will discuss a pair of logistic type Keller--Segel systems of reaction-advection-diffusion equations modeling chemotaxis on networks. The first part of the talk concerns well-posedness of Keller--Segel systems on arbitrary compact metric graphs. In the second part of the talk, we will focus on asymptotic stability,  instability, and bifurcation of constant steady state solutions. This is joint work with Wenxian Shen (Auburn) and Selim Sukhtaiev (Auburn).
+Chemotaxis phenomena govern the directed movement of microorganisms in response to chemical stimuli. In this talk we will discuss a pair of logistic type Keller&mdash;Segel systems of reaction-advection-diffusion equations modeling chemotaxis on networks. The first part of the talk concerns well-posedness of Keller&mdash;Segel systems on arbitrary compact metric graphs. In the second part of the talk, we will focus on asymptotic stability,  instability, and bifurcation of constant steady state solutions. This is joint work with Wenxian Shen (Auburn) and Selim Sukhtaiev (Auburn).
 
 ------
 
 **Joseph Miller (UT Austin)**
 
-*On the effective dynamics of Bose--Fermi mixtures*
+*On the effective dynamics of Bose&mdash;Fermi mixtures*
 
 Abstract: 
-In this talk, I will be discussing recent work with Esteban Cardenas and my advisor Natasa Pavlovic: https://arxiv.org/abs/2309.04638. In this work, we describe the dynamics of a Bose--Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schrödinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov--Hartee system of equations with an explicit convergence rate.
+In this talk, I will be discussing recent work with Esteban Cardenas and my advisor Natasa Pavlovic: https://arxiv.org/abs/2309.04638. In this work, we describe the dynamics of a Bose&mdash;Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schrödinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov&mdash;Hartee system of equations with an explicit convergence rate.
 
 ------
 
@@ -310,10 +310,10 @@ We study local and global symmetric Hopf bifurcation in abstract parabolic syste
 
 **Alejandro Quintero-Roba (Baylor University)**
 
-*The Riemann--Hilbert problem for Krall orthogonal polynomials*
+*The Riemann&mdash;Hilbert problem for Krall orthogonal polynomials*
 
 Abstract:
-In this talk, we give background on the Riemann--Hilbert problem (RHp) for orthogonal polynomials (OP) and its versatility in finding general properties of specific OP families such as the ordinary differential equation the family satisfies. We also discuss the Krall--Legendre OP sequence, which is known for satisfying a fourth-order differential equation. Then, we formulate the RHp for the Krall--Legendre OP, prove the existence and uniqueness of its solution, and show the method to obtain the first-order matrix ODE, and the second-order scalar ODE for the Krall--Legendre OP, as a first approach to finding the fourth-order scalar ODE from the Riemann--Hilbert formulation, as our final goal.
+In this talk, we give background on the Riemann&mdash;Hilbert problem (RHp) for orthogonal polynomials (OP) and its versatility in finding general properties of specific OP families such as the ordinary differential equation the family satisfies. We also discuss the Krall&mdash;Legendre OP sequence, which is known for satisfying a fourth-order differential equation. Then, we formulate the RHp for the Krall&mdash;Legendre OP, prove the existence and uniqueness of its solution, and show the method to obtain the first-order matrix ODE, and the second-order scalar ODE for the Krall&mdash;Legendre OP, as a first approach to finding the fourth-order scalar ODE from the Riemann&mdash;Hilbert formulation, as our final goal.
 
 ------
 
@@ -357,12 +357,12 @@ In the past two decades the theory of Herz spaces has seen numerous developments
 
 ------
 
-**Tracy Weyand (Rose--Hulman Institute of Technology)**
+**Tracy Weyand (Rose&mdash;Hulman Institute of Technology)**
 
 *Calculating the number of spanning trees of a quantum graph from its spectrum*
 
 Abstract: 
-Kirchhoff's Matrix Tree Theorem provides a way to calculate the number of spanning trees of a discrete graph from the spectral determinant of the combinatorial Laplacian acting on that graph. We extend this result to quantum graphs. We derive a formula that allows one to calculate the number of spanning trees of a connected equilateral metric graph in terms of the spectral determinant of the Laplacian acting on the graph (with Neumann--Kirchhoff vertex conditions). This is accomplished using a previous result that relates the spectral determinant of Laplace operators on discrete and quantum graphs. We then show that this result holds under small perturbations of edge length. This talk is based on joint work with Jon Harrison.
+Kirchhoff's Matrix Tree Theorem provides a way to calculate the number of spanning trees of a discrete graph from the spectral determinant of the combinatorial Laplacian acting on that graph. We extend this result to quantum graphs. We derive a formula that allows one to calculate the number of spanning trees of a connected equilateral metric graph in terms of the spectral determinant of the Laplacian acting on the graph (with Neumann&mdash;Kirchhoff vertex conditions). This is accomplished using a previous result that relates the spectral determinant of Laplace operators on discrete and quantum graphs. We then show that this result holds under small perturbations of edge length. This talk is based on joint work with Jon Harrison.
 
 ------
 
