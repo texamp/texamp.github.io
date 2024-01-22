@@ -317,17 +317,6 @@ In this talk, we give background on the Riemann--Hilbert problem (RHp) for ortho
 
 ------
 
-**Speaker: Brian Simanek (Baylor University)**
-
-*Title: Discrete m-functions with doubly-palindromic continued fraction coefficients*
-
-Abstract:
-We will consider Jacobi matrices whose diagonal and off-diagonal entries are eventually periodic sequences. We show that if each period can be written as the concatenation of two palindromes, then there is a special property satisfied by these matrices, which is most easily expressed in terms of the associated $m$-functions. This generalizes a known result about the continued fraction expansion of real numbers. Joint work with Hunter Handley.
-
-
-
-------
-
 **Speaker: Miraj Samarakkody (Texas Tech University)**
 
 *Title: Closed p-elastic curves in spheres of* $\mathbb{L}^{3}$
@@ -336,12 +325,12 @@ Variational problems involving curves with energy densities influenced by their 
 
 ------
 
-**Speaker: Pedro Takemura Feitosa Da Silva (Baylor University)**
+**Speaker: Brian Simanek (Baylor University)**
 
-*Title: A new class of Herz-type spaces and boundary problems*
+*Title: Discrete m-functions with doubly-palindromic continued fraction coefficients*
 
-Abstract: 
-In the past two decades the theory of Herz spaces has seen numerous developments, yielding a large family of Herz-type scales which are particularly relevant from the perspective of Hamonic Analysis. The main point of this talk is to describe a new brand, referred to as Grand Herz spaces, which unifies much of the existing body of work. Notably, this new brand fits within the framework of Generalized Banach Function Spaces, thus paving the way for the treatment of boundary value problems in this inclusive functional analytic setting. As an illustration, we present a well-posedness result for the Dirichlet Problem with boundary data taken in Grand Herz spaces. This is joint work with Marius Mitrea.
+Abstract:
+We will consider Jacobi matrices whose diagonal and off-diagonal entries are eventually periodic sequences. We show that if each period can be written as the concatenation of two palindromes, then there is a special property satisfied by these matrices, which is most easily expressed in terms of the associated $m$-functions. This generalizes a known result about the continued fraction expansion of real numbers. Joint work with Hunter Handley.
 
 ------
 
@@ -356,6 +345,15 @@ Open dynamical systems study the statistics of the first hitting time when traje
 3. When the ``hole'' in the phase space takes the shape of a ball in a Riemann manifold, we established Poisson limit laws for certain dissipative systems. Our conditions are loosely dependent on the Hausdorff dimension of the SRB measure.
 
 This is joint work with Prof. Leonid Bunimovich.
+
+------
+
+**Speaker: Pedro Takemura Feitosa Da Silva (Baylor University)**
+
+*Title: A new class of Herz-type spaces and boundary problems*
+
+Abstract: 
+In the past two decades the theory of Herz spaces has seen numerous developments, yielding a large family of Herz-type scales which are particularly relevant from the perspective of Hamonic Analysis. The main point of this talk is to describe a new brand, referred to as Grand Herz spaces, which unifies much of the existing body of work. Notably, this new brand fits within the framework of Generalized Banach Function Spaces, thus paving the way for the treatment of boundary value problems in this inclusive functional analytic setting. As an illustration, we present a well-posedness result for the Dirichlet Problem with boundary data taken in Grand Herz spaces. This is joint work with Marius Mitrea.
 
 ------
 
