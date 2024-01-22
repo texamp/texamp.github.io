@@ -16,7 +16,7 @@ We discuss the challenges that arise when formulating a discrete analogue to per
 *Weak-type regularity of the Bergman projection on Hartogs domains*
 
 Abstract: 
-For power-generalized Hartogs triangles in $\mathbb{C}^3$, we show that the Bergman projection satisfies a weak-type estimate at the upper endpoint of boundedness but not at the lower endpoint. Our work complements related results obtained recently for rational Hartogs triangles in $\mathbb{C}^2$ and the punctured unit ball in $\mathbb{R}^3$. 
+For power-generalized Hartogs triangles in &Copf;^3, we show that the Bergman projection satisfies a weak-type estimate at the upper endpoint of boundedness but not at the lower endpoint. Our work complements related results obtained recently for rational Hartogs triangles in $&Copf;^2$ and the punctured unit ball in &Ropf;^3.
 
 This work is joint with K.D. Koenig.
 
@@ -98,24 +98,24 @@ We derive a hydrodynamics formulation for a modified Dirac equation with a nonli
 
 **Zulaihat Hassan (Auburn University)**
 
-*Global existence of classical solutions of chemotaxis systems with logistic source and consumption or linear signal production on* $\mathbb{R}^{n}$
+*Global existence of classical solutions of chemotaxis systems with logistic source and consumption or linear signal production on* $&Ropf;^{n}$
 
 Abstract:
-The current talk is concerned with the global existence of classical solutions for  the following three primary chemotaxis systems with a logistic source on $\mathbb{R}^n$,
+The current talk is concerned with the global existence of classical solutions for  the following three primary chemotaxis systems with a logistic source on $&Ropf;^n$,
 
 $$
 (1)
 \qquad
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr
-\tau v_t= \Delta v-uv,\quad x\in\mathbb{R}^n,
+\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in &Ropf;^n\cr
+\tau v_t= \Delta v-uv,\quad x\in&Ropf;^n,
 \end{cases}
 $$
 
 $$
 (2)
 \qquad
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr
-\tau v_t= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,
+\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in &Ropf;^n\cr
+\tau v_t= \Delta v-\lambda v + \mu u,\quad x\in&Ropf;^n,
 \end{cases}
 $$
 
@@ -124,8 +124,8 @@ and
 $$
 (3)
 \qquad
-\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in \mathbb{R}^n\cr
-0= \Delta v-\lambda v + \mu u,\quad x\in\mathbb{R}^n,
+\begin{cases}u_t= \Delta u-\chi\nabla \cdot(u\nabla v)+u(a-bu),\quad x\in &Ropf;^n\cr
+0= \Delta v-\lambda v + \mu u,\quad x\in&Ropf;^n,
 \end{cases}
 $$
 
@@ -140,7 +140,7 @@ Moreover, we show that the methods developed for the study of (1)-(3) can be ada
 *The hot spots conjecture with mixed boundary conditions*
 
 Abstract: 
-Rauch's hot spots conjecture states that the first non-constant Neumann eigenfunction of the Laplacian on a bounded domain in $\mathbb{R}^n$ attains its local extrema only on the boundary of the domain. We consider an analogous problem concerning the first eigenfunction with mixed Dirichlet&mdash;Neumann boundary conditions. We will show why these two problems are closely related to each other and then present a result when the domain is a triangle or a region bounded by the graph of a piecewise smooth function.
+Rauch's hot spots conjecture states that the first non-constant Neumann eigenfunction of the Laplacian on a bounded domain in $&Ropf;^n$ attains its local extrema only on the boundary of the domain. We consider an analogous problem concerning the first eigenfunction with mixed Dirichlet&mdash;Neumann boundary conditions. We will show why these two problems are closely related to each other and then present a result when the domain is a triangle or a region bounded by the graph of a piecewise smooth function.
 
 ------
 
@@ -165,10 +165,10 @@ We will discuss improved Strichartz estimates for solutions of the Schrödinger 
 
 **Omar Hurtado (UC Irvine)**
 
-*Localization and unique continuation for non-stationary Schrödinger operators on $\mathbb{Z}^2$
+*Localization and unique continuation for non-stationary Schrödinger operators on $&Zopf;^2$
 
 Abstract: 
-We extend methods from the breakthrough paper of Ding&mdash;Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $\mathbb{Z}^2$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
+We extend methods from the breakthrough paper of Ding&mdash;Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $&Zopf;^2$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
 
 ------
 
@@ -204,7 +204,7 @@ under the condition
 $$
 (2)
 \qquad
-\exists\mu,C>0\ \forall\xi\in\mathbb{R}^{d}:\ \mu w^{4}(x)|\xi|^{2}\le\sum_{i,j=1}^{d}a_{ij}(x)\xi_{i}\xi_{j}\leq Cw^{4}(x)|\xi|^{2}\quad \mathrm{a.e.}\quad\mathrm{in\ }\Omega
+\exists\mu,C>0\ \forall\xi\in&Ropf;^{d}:\ \mu w^{4}(x)|\xi|^{2}\le\sum_{i,j=1}^{d}a_{ij}(x)\xi_{i}\xi_{j}\leq Cw^{4}(x)|\xi|^{2}\quad \mathrm{a.e.}\quad\mathrm{in\ }\Omega
 $$
 
 where $w\in\mathcal{C}^{1}(\Omega)$ is an elimination function arbitrary
@@ -267,7 +267,7 @@ Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of d
 *Directional Ballistic transport for partially periodic Schrödinger operators*
 
 Abstract:
-In this talk, we will consider Schrödinger operators on $\mathbb{R}^d$ or $\mathbb{Z}^d$ with bounded potentials $V$ that are periodic in some direction and compactly supported in others. Such systems are known to produce "surface states" that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states - in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time ($x\sim t$- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
+In this talk, we will consider Schrödinger operators on $&Ropf;^d$ or $&Zopf;^d$ with bounded potentials $V$ that are periodic in some direction and compactly supported in others. Such systems are known to produce "surface states" that are confined near the support of the potential. Specifically, we will focus on the transport properties of these states - in other words, the rate at which these states spread in different directions. Roughly speaking, we say that a state exhibits ballistic motion if it spreads linearly in time ($x\sim t$- in some sense). We show that, under very mild assumptions, a class of surface states exhibits what we describe as directional ballistic transport, consisting of a strong form of ballistic transport in the periodic directions and its absence in the other directions. Furthermore, in some models, we show that a dense set of surface states exhibit this surface ballistic transport property.
 In this talk, I will briefly review our main results and some of the tools used in this work. This is joint work with Adam Black, David Damanik, and Giorgio Young.
 
 ------
@@ -319,9 +319,9 @@ In this talk, we give background on the Riemann&mdash;Hilbert problem (RHp) for 
 
 **Miraj Samarakkody (Texas Tech University)**
 
-*Closed p-elastic curves in spheres of* $\mathbb{L}^{3}$
+*Closed p-elastic curves in spheres of* $&Lopf;^{3}$
 
-Variational problems involving curves with energy densities influenced by their curvature are common in mathematical physics. This talk focuses on the existence of closed $p$-elastic curves in two distinct spaces: the hyperbolic plane $\mathbb{H}^2$ and the de-Sitter 2-space $\mathbb{H}_1^2$, for any real number value of $p$. Our findings indicate that in the hyperbolic plane $\mathbb{H}^2$, closed $p$-elastic curves exhibiting non-constant curvature exist when $p >1$, while, in the de-Sitter 2-space $\mathbb{H}_1^2$, such curves only exist when $p < 0$. Additionally, we establish that under these specific conditions for the energy parameter $p$ and in both types of spaces, for any pair of relatively prime natural numbers $(n,m)$ that meet the criteria $m < 2n < \sqrt{2}m$, a closed $p$-elastic curve with non-constant curvature can be found. These curves exhibit $m$-fold symmetry and have a winding number equal to $n$.
+Variational problems involving curves with energy densities influenced by their curvature are common in mathematical physics. This talk focuses on the existence of closed $p$-elastic curves in two distinct spaces: the hyperbolic plane $&Hopf;^2$ and the de-Sitter 2-space $&Hopf;_1^2$, for any real number value of $p$. Our findings indicate that in the hyperbolic plane $&Hopf;^2$, closed $p$-elastic curves exhibiting non-constant curvature exist when $p >1$, while, in the de-Sitter 2-space $&Hopf;_1^2$, such curves only exist when $p < 0$. Additionally, we establish that under these specific conditions for the energy parameter $p$ and in both types of spaces, for any pair of relatively prime natural numbers $(n,m)$ that meet the criteria $m < 2n < \sqrt{2}m$, a closed $p$-elastic curve with non-constant curvature can be found. These curves exhibit $m$-fold symmetry and have a winding number equal to $n$.
 
 ------
 
