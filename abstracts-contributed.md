@@ -2,112 +2,6 @@
 
 ------
 
-**Speaker: Tracy Weyand (Rose--Hulman Institute of Technology)**
-
-*Title: Calculating the number of spanning trees of a quantum graph from its spectrum*
-
-Abstract: 
-Kirchhoff's Matrix Tree Theorem provides a way to calculate the number of spanning trees of a discrete graph from the spectral determinant of the combinatorial Laplacian acting on that graph. We extend this result to quantum graphs. We derive a formula that allows one to calculate the number of spanning trees of a connected equilateral metric graph in terms of the spectral determinant of the Laplacian acting on the graph (with Neumann--Kirchhoff vertex conditions). This is accomplished using a previous result that relates the spectral determinant of Laplace operators on discrete and quantum graphs. We then show that this result holds under small perturbations of edge length. This talk is based on joint work with Jon Harrison.
-
-------
-
-**Speaker: Joseph Miller (UT Austin)**
-
-*Title: On the effective dynamics of Bose--Fermi mixtures*
-
-Abstract: 
-In this talk, I will be discussing recent work with Esteban Cardenas and my advisor Natasa Pavlovic: https://arxiv.org/abs/2309.04638. In this work, we describe the dynamics of a Bose--Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schrödinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov--Hartee system of equations with an explicit convergence rate.
-
-------
-
-**Speaker: Omar Hurtado (UC Irvine)**
-
-*Title: Localization and unique continuation for non-stationary Schrödinger operators on $\mathbb{Z}^2$
-
-Abstract: 
-We extend methods from the breakthrough paper of Ding--Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $\mathbb{Z}^2$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
-
-------
-
-**Speaker: Arnaja Mitra (University of Texas at Dallas)**
-
-*Title: Equivariant global Hopf bifurcation in abstract nonlinear parabolic equations*
-
-Abstract:
-We study local and global symmetric Hopf bifurcation in abstract parabolic systems by means of the twisted equivariant degree.
-
-------
-
-**Speaker: Lili Yan (University of Minnesota)**
-
-*Title: Stable determination of time-dependent collision kernel in the nonlinear Boltzmann equation*
-
-Abstract: In this talk, we consider an inverse problem for the nonlinear Boltzmann equation with a time-dependent kernel in dimensions $n\ge 2$. We establish a logarithm-type stability result for the collision kernel from measurements under certain additional conditions. A uniqueness result is derived as an immediate consequence of the stability result. Our approach relies on second-order linearization, multivariate finite differences, as well as the stability of the light-ray transform. This is based on joint work with Ru-Yu Lai.
-
-------
-
-**Speaker: Burak Hatinoglu (Michigan State University)**
-
-*Title: Logarithmic capacities of rational frequency approximants for the almost Mathieu operator*
-
-Abstract: 
-In their ``Analytic quasi-periodic Schrödinger operators and rational frequency approximants'' paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schrödinger operator $H_{\alpha,\theta}$ with analytic potential and irrational frequency $\alpha$. Given any rational approximating $\alpha$, let $S_{+}$ and $S_{-}$ denote the union and the intersection of the spectra taken over $\theta$, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from $S_{-}$ and $S_{+}$ of the periodic operators associated with the continued fraction expansion of $\alpha$, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schrödinger operator with
-analytic potentials and irrational frequencies.
-
-------
-
-**Speaker: Hewan Meles Shemtaga (Auburn University)**
-
-*Title: Chemotaxis models and Keller--Segel systems on compact metric graphs*
-
-Abstract: 
-Chemotaxis phenomena govern the directed movement of microorganisms in response to chemical stimuli. In this talk we will discuss a pair of logistic type Keller--Segel systems of reaction-advection-diffusion equations modeling chemotaxis on networks. The first part of the talk concerns well-posedness of Keller--Segel systems on arbitrary compact metric graphs. In the second part of the talk, we will focus on asymptotic stability,  instability, and bifurcation of constant steady state solutions. This is joint work with Wenxian Shen (Auburn) and Selim Sukhtaiev (Auburn).
-
-------
-
-**Speaker: Alejandro Quintero-Roba (Baylor University)**
-
-*Title: The Riemann--Hilbert problem for Krall orthogonal polynomials*
-
-Abstract:
-In this talk, we give background on the Riemann--Hilbert problem (RHp) for orthogonal polynomials (OP) and its versatility in finding general properties of specific OP families such as the ordinary differential equation the family satisfies. We also discuss the Krall--Legendre OP sequence, which is known for satisfying a fourth-order differential equation. Then, we formulate the RHp for the Krall--Legendre OP, prove the existence and uniqueness of its solution, and show the method to obtain the first-order matrix ODE, and the second-order scalar ODE for the Krall--Legendre OP, as a first approach to finding the fourth-order scalar ODE from the Riemann--Hilbert formulation, as our final goal.
-
-------
-
-**Speaker: Sakshi Malhotra (University of Texas at Dallas)**
-
-*Title: Finite time stability of a sweeping process for an elastoplastic system with stress-controlled loading*
-
-Abstract:
-Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from ``Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems'' by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in New Variational Techniques in Mathematical Physics (Cen-tro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974,pp. 171--322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
-
-------
-
-**Speaker: Brian Simanek (Baylor University)**
-
-*Title: Discrete m-functions with doubly-palindromic continued fraction coefficients*
-
-Abstract:
-We will consider Jacobi matrices whose diagonal and off-diagonal entries are eventually periodic sequences. We show that if each period can be written as the concatenation of two palindromes, then there is a special property satisfied by these matrices, which is most easily expressed in terms of the associated $m$-functions. This generalizes a known result about the continued fraction expansion of real numbers. Joint work with Hunter Handley.
-
-------
-
-**Speaker: Yongming Li (Texas A\&M University)**
-
-*Title: Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance*
-
-Abstract: In this talk, we will discuss dispersive and local decay estimates for a class of matrix Schrödinger operators that naturally arise from the linearization of focusing nonlinear Schrödinger equations around a solitary wave. We review the spectral properties of these linearized operators, and discuss how threshold resonances may appear in their spectrum. In the presence of threshold resonances, it will be shown that the slowdown of the local decay rate can be pinned down to a finite rank operator corresponding to the threshold resonances. Some applications for the linearized equation for the 1D focusing cubic Schrödinger equation will be discussed.
-
-------
-
-**Speaker: Mengxuan Yang (UC Berkeley)**
-
-*Title: Semiclassical analysis of twisted TMDs: exponentially flat and trivial bands*
-
-Abstract: Recent experiments discovered fractional Chern insulator states at zero magnetic field in twisted bilayer $\mathrm{MoTe}_2$ and $\mathrm{WSe}_2$, which are different types of twisted transition metal dichalcogenides (TMDs). In this talk, using Floquet theory and construction of quasi-mode, I will present some mathematical studies of band properties when the twisting angles are small, including: absence of flat bands, trivial topology of lower bands and exponential flatness of lower bands. This is a joint work with Simon Becker.
-
-------
-
 **Speaker: Kenneth Beard (Louisiana State University)**
 
 *Title: On the nuances of discretizing continuum electrical conductivity*
@@ -125,6 +19,105 @@ Abstract:
 As opposed to Legendre--Hadamard elliptic systems, the $L^p$-Dirichlet problem for 
 weakly elliptic systems in the upper-half space may not necessarily be well-posed. Remarkably, when the latter BVP is well-posed we show that it remains so after small perturbations of 
 the given weakly elliptic system. This is joint work with Marius Mitrea.
+
+------
+
+**Speaker: David Daniel (UT Dallas)**
+
+*Title: Mathematical modelling of yellow fever transmission dynamics with stability analysis*
+
+Abstract:
+Yellow fever remains endemic in some parts of the world (Nigeria included), despite the availability of a potent vaccine to curtail the spread of the disease. This necessitates continuous research on the disease's transmission dynamics and its control. Consequently, a deterministic epidemiological model for yellow fever transmission dynamics within the human mosquito population is considered in this work. The model equilibrium solutions are obtained and the conditions for their stability are established. The basic reproduction number $R_0$ for the model is derived. The model is solved numerically using the Runge Kutta of order four scheme. Simulation of our results shows that the disease will continue to be present (no matter how small) in our society as long as immunity conferred by vaccination is not lifelong and there are new births, thus justifying the need for continuous vaccination against yellow fever.
+
+------
+
+**Speaker: Zhaosheng Feng (University of Texas--RGV)**
+
+*Title: Parabolic Systems of Aggregation Formation in Bacterial Colonies*
+
+Abstract:
+The goal of this talk is to study a fourth-order nonlinear parabolic system with dispersion for describing bacterial aggregation. It shows that unlike the model without dispersion, a bacterial cluster can move, which allows us to consider dispersion as some kind of control for bacterial colony. We demonstrate that the initial concentration of bacteria in the form of a random distribution over time transforms into a periodic wave, followed by a transition to a stationary solitary wave without dispersion.
+
+------
+
+**Speaker: Burak Hatinoglu (Michigan State University)**
+
+*Title: Logarithmic capacities of rational frequency approximants for the almost Mathieu operator*
+
+Abstract: 
+In their ``Analytic quasi-periodic Schrödinger operators and rational frequency approximants'' paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schrödinger operator $H_{\alpha,\theta}$ with analytic potential and irrational frequency $\alpha$. Given any rational approximating $\alpha$, let $S_{+}$ and $S_{-}$ denote the union and the intersection of the spectra taken over $\theta$, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from $S_{-}$ and $S_{+}$ of the periodic operators associated with the continued fraction expansion of $\alpha$, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schrödinger operator with
+analytic potentials and irrational frequencies.
+
+------
+
+**Speaker: Omar Hurtado (UC Irvine)**
+
+*Title: Localization and unique continuation for non-stationary Schrödinger operators on $\mathbb{Z}^2$
+
+Abstract: 
+We extend methods from the breakthrough paper of Ding--Smart in 2020 which showed Anderson localization for certain random Schrödinger operators on the lattice $\mathbb{Z}^2$ via a quantitative unique continuation principle and Wegner estimate. We replace the requirement of identical distribution with the requirement of a uniform bound on the essential range of potential and a uniform positive lower bound on the variance of the variables giving the potential. Under those assumptions, we recover the unique continuation and Wegner lemma results, using Bernoulli decompositions and modifications of the arguments therein. This leads to a localization result at the bottom of the spectrum. 
+
+------
+
+**Speaker: Yongming Li (Texas A\&M University)**
+
+*Title: Dispersive estimates for 1D matrix Schrödinger operators with threshold resonance*
+
+Abstract: In this talk, we will discuss dispersive and local decay estimates for a class of matrix Schrödinger operators that naturally arise from the linearization of focusing nonlinear Schrödinger equations around a solitary wave. We review the spectral properties of these linearized operators, and discuss how threshold resonances may appear in their spectrum. In the presence of threshold resonances, it will be shown that the slowdown of the local decay rate can be pinned down to a finite rank operator corresponding to the threshold resonances. Some applications for the linearized equation for the 1D focusing cubic Schrödinger equation will be discussed.
+
+------
+
+**Speaker: Sakshi Malhotra (University of Texas at Dallas)**
+
+*Title: Finite time stability of a sweeping process for an elastoplastic system with stress-controlled loading*
+
+Abstract:
+Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of dry friction oscillators and the results from ``Finite time stability of Polyhedral Sweeping Processes with Application to Elastoplastic systems'' by Gudoshnikov, Makarenkov and Rachinskii we establish a theorem on finite-time stabilization of differential inclusions with a polyhedral constraint, where the shape of the moving constraint changes with time (the constraint of the form C(t)). We then employ the ideas of Moreau [in New Variational Techniques in Mathematical Physics (Cen-tro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974,pp. 171--322] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
+
+------
+
+**Speaker: Hewan Meles Shemtaga (Auburn University)**
+
+*Title: Chemotaxis models and Keller--Segel systems on compact metric graphs*
+
+Abstract: 
+Chemotaxis phenomena govern the directed movement of microorganisms in response to chemical stimuli. In this talk we will discuss a pair of logistic type Keller--Segel systems of reaction-advection-diffusion equations modeling chemotaxis on networks. The first part of the talk concerns well-posedness of Keller--Segel systems on arbitrary compact metric graphs. In the second part of the talk, we will focus on asymptotic stability,  instability, and bifurcation of constant steady state solutions. This is joint work with Wenxian Shen (Auburn) and Selim Sukhtaiev (Auburn).
+
+------
+
+**Speaker: Joseph Miller (UT Austin)**
+
+*Title: On the effective dynamics of Bose--Fermi mixtures*
+
+Abstract: 
+In this talk, I will be discussing recent work with Esteban Cardenas and my advisor Natasa Pavlovic: https://arxiv.org/abs/2309.04638. In this work, we describe the dynamics of a Bose--Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schrödinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov--Hartee system of equations with an explicit convergence rate.
+
+------
+
+**Speaker: Arnaja Mitra (University of Texas at Dallas)**
+
+*Title: Equivariant global Hopf bifurcation in abstract nonlinear parabolic equations*
+
+Abstract:
+We study local and global symmetric Hopf bifurcation in abstract parabolic systems by means of the twisted equivariant degree.
+
+------
+
+**Speaker: Alejandro Quintero-Roba (Baylor University)**
+
+*Title: The Riemann--Hilbert problem for Krall orthogonal polynomials*
+
+Abstract:
+In this talk, we give background on the Riemann--Hilbert problem (RHp) for orthogonal polynomials (OP) and its versatility in finding general properties of specific OP families such as the ordinary differential equation the family satisfies. We also discuss the Krall--Legendre OP sequence, which is known for satisfying a fourth-order differential equation. Then, we formulate the RHp for the Krall--Legendre OP, prove the existence and uniqueness of its solution, and show the method to obtain the first-order matrix ODE, and the second-order scalar ODE for the Krall--Legendre OP, as a first approach to finding the fourth-order scalar ODE from the Riemann--Hilbert formulation, as our final goal.
+
+------
+
+**Speaker: Brian Simanek (Baylor University)**
+
+*Title: Discrete m-functions with doubly-palindromic continued fraction coefficients*
+
+Abstract:
+We will consider Jacobi matrices whose diagonal and off-diagonal entries are eventually periodic sequences. We show that if each period can be written as the concatenation of two palindromes, then there is a special property satisfied by these matrices, which is most easily expressed in terms of the associated $m$-functions. This generalizes a known result about the continued fraction expansion of real numbers. Joint work with Hunter Handley.
 
 ------
 
@@ -370,21 +363,12 @@ In this study, a Nitsche-type extended variational multiscale method for two-pha
 
 ------
 
-**Speaker: Xiaowen Zhu (University of Washington)**
+**Speaker: Tracy Weyand (Rose--Hulman Institute of Technology)**
 
-*Title: Topological edge spectrum along curved interface*
+*Title: Calculating the number of spanning trees of a quantum graph from its spectrum*
 
 Abstract: 
-Topological insulators (TI) are a class of 2D materials which behave like insulators in their bulk but support robust states along their edges. One of the key property of TI that is expected to be true is the robustness of the property above w.r.t. the shape of the edge. In this talk, we will discuss how does shape of edge influence the property of TI above. In particular, we will both give a general, intuitive condition for this property to hold, and provide a counter-example otherwise. We also show why in practical situation, experiments may provide misleading results on TI. This work is based on a joint work with Alexis Drouot.
-
-------
-
-**Speaker: David Daniel (UT Dallas)**
-
-*Title: Mathematical modelling of yellow fever transmission dynamics with stability analysis*
-
-Abstract:
-Yellow fever remains endemic in some parts of the world (Nigeria included), despite the availability of a potent vaccine to curtail the spread of the disease. This necessitates continuous research on the disease's transmission dynamics and its control. Consequently, a deterministic epidemiological model for yellow fever transmission dynamics within the human mosquito population is considered in this work. The model equilibrium solutions are obtained and the conditions for their stability are established. The basic reproduction number $R_0$ for the model is derived. The model is solved numerically using the Runge Kutta of order four scheme. Simulation of our results shows that the disease will continue to be present (no matter how small) in our society as long as immunity conferred by vaccination is not lifelong and there are new births, thus justifying the need for continuous vaccination against yellow fever.
+Kirchhoff's Matrix Tree Theorem provides a way to calculate the number of spanning trees of a discrete graph from the spectral determinant of the combinatorial Laplacian acting on that graph. We extend this result to quantum graphs. We derive a formula that allows one to calculate the number of spanning trees of a connected equilateral metric graph in terms of the spectral determinant of the Laplacian acting on the graph (with Neumann--Kirchhoff vertex conditions). This is accomplished using a previous result that relates the spectral determinant of Laplace operators on discrete and quantum graphs. We then show that this result holds under small perturbations of edge length. This talk is based on joint work with Jon Harrison.
 
 ------
 
@@ -402,11 +386,26 @@ This is joint work with Prof. Leonid Bunimovich.
 
 ------
 
-**Speaker: Zhaosheng Feng (University of Texas--RGV)**
+**Speaker: Lili Yan (University of Minnesota)**
 
-*Title: Parabolic Systems of Aggregation Formation in Bacterial Colonies*
+*Title: Stable determination of time-dependent collision kernel in the nonlinear Boltzmann equation*
 
-Abstract:
-The goal of this talk is to study a fourth-order nonlinear parabolic system with dispersion for describing bacterial aggregation. It shows that unlike the model without dispersion, a bacterial cluster can move, which allows us to consider dispersion as some kind of control for bacterial colony. We demonstrate that the initial concentration of bacteria in the form of a random distribution over time transforms into a periodic wave, followed by a transition to a stationary solitary wave without dispersion.
+Abstract: In this talk, we consider an inverse problem for the nonlinear Boltzmann equation with a time-dependent kernel in dimensions $n\ge 2$. We establish a logarithm-type stability result for the collision kernel from measurements under certain additional conditions. A uniqueness result is derived as an immediate consequence of the stability result. Our approach relies on second-order linearization, multivariate finite differences, as well as the stability of the light-ray transform. This is based on joint work with Ru-Yu Lai.
 
+------
+
+**Speaker: Mengxuan Yang (UC Berkeley)**
+
+*Title: Semiclassical analysis of twisted TMDs: exponentially flat and trivial bands*
+
+Abstract: Recent experiments discovered fractional Chern insulator states at zero magnetic field in twisted bilayer $\mathrm{MoTe}_2$ and $\mathrm{WSe}_2$, which are different types of twisted transition metal dichalcogenides (TMDs). In this talk, using Floquet theory and construction of quasi-mode, I will present some mathematical studies of band properties when the twisting angles are small, including: absence of flat bands, trivial topology of lower bands and exponential flatness of lower bands. This is a joint work with Simon Becker.
+
+------
+
+**Speaker: Xiaowen Zhu (University of Washington)**
+
+*Title: Topological edge spectrum along curved interface*
+
+Abstract: 
+Topological insulators (TI) are a class of 2D materials which behave like insulators in their bulk but support robust states along their edges. One of the key property of TI that is expected to be true is the robustness of the property above w.r.t. the shape of the edge. In this talk, we will discuss how does shape of edge influence the property of TI above. In particular, we will both give a general, intuitive condition for this property to hold, and provide a counter-example otherwise. We also show why in practical situation, experiments may provide misleading results on TI. This work is based on a joint work with Alexis Drouot.
 
