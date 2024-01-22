@@ -7,7 +7,7 @@
 *On the nuances of discretizing continuum electrical conductivity*
 
 Abstract: 
-We discuss the challenges that arise when formulating a discrete analogue to periodic electrical conductivity in the continuum. In particular, we examine when the effective conductivity of a lattice electrical network is equal to the effective operator of an associated lattice _Z_-problem. We accomplish this by adapting tools from the abstract theory of composites, algebraic potential theory, and Schur complement theory. This is based on Sect. VI D of our JMP paper "Effective operators and their variational principles for discrete electrical network problems", which is joint work with Anthony Stefan and Dr. Aaron Welters at Florida Institute of Technology and Dr. Robert Viator now at Denison University.
+We discuss the challenges that arise when formulating a discrete analogue to periodic electrical conductivity in the continuum. In particular, we examine when the effective conductivity of a lattice electrical network is equal to the effective operator of an associated lattice _Z_-problem. We accomplish this by adapting tools from the abstract theory of composites, algebraic potential theory, and Schur complement theory. This is based on Sect. VI D of our JMP paper "<a href="https://arxiv.org/abs/2210.05761">Effective operators and their variational principles for discrete electrical network problems</a>", which is joint work with Anthony Stefan and Dr. Aaron Welters at Florida Institute of Technology and Dr. Robert Viator now at Denison University.
 
 ------
 
@@ -63,7 +63,7 @@ Kadomtsev&ndash;Petviashvili (KP) hierarchy reduction method and the
 Hirota's bilinear method. First, we show that the CSS equation can be
 bilinearized into a set of six equations. Then, starting from 13
 bilinear equations in the KP-Toda hierarchy, together with the
-discrete KP equation, the CSS equation is derived. As a by product, we
+discrete KP equation, the CSS equation is derived. As a by-product, we
 provide its multi-breather and general rogue wave solutions.
 
 ------
@@ -149,7 +149,7 @@ Rauch's hot spots conjecture states that the first non-constant Neumann eigenfun
 *Logarithmic capacities of rational frequency approximants for the almost Mathieu operator*
 
 Abstract: 
-In their "Analytic quasi-periodic Schr&ouml;dinger operators and rational frequency approximants" paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schr&ouml;dinger operator _H_<sub>&alpha;,&theta;<sub> with analytic potential and irrational frequency &alpha;. Given any rational approximating &alpha;, let _S_<sub>+</sub> and _S_<sub>-</sub> denote the union and the intersection of the spectra taken over &theta:, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from _S_<sub>-</sub> and _S_<sub>+</sub> of the periodic operators associated with the continued fraction expansion of &alpha;, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schr&ouml;dinger operator with
+In their "<a href="https://arxiv.org/abs/1201.4199">Analytic quasi-periodic Schr&ouml;dinger operators and rational frequency approximants</a>" paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schr&ouml;dinger operator _H_<sub>&alpha;,&theta;</sub> with analytic potential and irrational frequency &alpha;. Given any rational approximating &alpha;, let _S_<sub>+</sub> and _S_<sub>-</sub> denote the union and the intersection of the spectra taken over &theta:, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from _S_<sub>-</sub> and _S_<sub>+</sub> of the periodic operators associated with the continued fraction expansion of &alpha;, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schr&ouml;dinger operator with
 analytic potentials and irrational frequencies.
 
 ------
