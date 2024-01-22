@@ -27,7 +27,7 @@ This work is joint with K.D. Koenig.
 *On the stability of the Dirichlet problem for weakly leliptic systems in the plane*
 
 Abstract: 
-As opposed to Legendre&ndash;Hadamard elliptic systems, the $L^p$-Dirichlet problem for 
+As opposed to Legendre&ndash;Hadamard elliptic systems, the _L_<sup><i>p</i></sup>-Dirichlet problem for 
 weakly elliptic systems in the upper-half space may not necessarily be well-posed. Remarkably, when the latter BVP is well-posed we show that it remains so after small perturbations of 
 the given weakly elliptic system. This is joint work with Marius Mitrea.
 
@@ -38,7 +38,7 @@ the given weakly elliptic system. This is joint work with Marius Mitrea.
 *Mathematical modelling of yellow fever transmission dynamics with stability analysis*
 
 Abstract:
-Yellow fever remains endemic in some parts of the world (Nigeria included), despite the availability of a potent vaccine to curtail the spread of the disease. This necessitates continuous research on the disease's transmission dynamics and its control. Consequently, a deterministic epidemiological model for yellow fever transmission dynamics within the human mosquito population is considered in this work. The model equilibrium solutions are obtained and the conditions for their stability are established. The basic reproduction number $R_0$ for the model is derived. The model is solved numerically using the Runge Kutta of order four scheme. Simulation of our results shows that the disease will continue to be present (no matter how small) in our society as long as immunity conferred by vaccination is not lifelong and there are new births, thus justifying the need for continuous vaccination against yellow fever.
+Yellow fever remains endemic in some parts of the world (Nigeria included), despite the availability of a potent vaccine to curtail the spread of the disease. This necessitates continuous research on the disease's transmission dynamics and its control. Consequently, a deterministic epidemiological model for yellow fever transmission dynamics within the human mosquito population is considered in this work. The model equilibrium solutions are obtained and the conditions for their stability are established. The basic reproduction number _R_<sub>0</sub> for the model is derived. The model is solved numerically using the Runge Kutta of order four scheme. Simulation of our results shows that the disease will continue to be present (no matter how small) in our society as long as immunity conferred by vaccination is not lifelong and there are new births, thus justifying the need for continuous vaccination against yellow fever.
 
 ------
 
@@ -98,10 +98,10 @@ We derive a hydrodynamics formulation for a modified Dirac equation with a nonli
 
 **Zulaihat Hassan (Auburn University)**
 
-*Global existence of classical solutions of chemotaxis systems with logistic source and consumption or linear signal production on* $&Ropf;<sup><i>n</i></sup>$
+*Global existence of classical solutions of chemotaxis systems with logistic source and consumption or linear signal production on* &Ropf;<sup><i>n</i></sup>
 
 Abstract:
-The current talk is concerned with the global existence of classical solutions for  the following three primary chemotaxis systems with a logistic source on $&Ropf;<sup><i>n</i></sup>$,
+The current talk is concerned with the global existence of classical solutions for  the following three primary chemotaxis systems with a logistic source on &Ropf;<sup><i>n</i></sup>,
 
 $$
 (1)
@@ -322,7 +322,7 @@ In this talk, we give background on the Riemann&ndash;Hilbert problem (RHp) for 
 *Closed _p_-elastic curves in spheres of* &Lopf;<sup>3</sup>
 
 Variational problems involving curves with energy densities influenced by their curvature are common in mathematical physics. This talk focuses on the existence of closed _p_-elastic curves in two distinct spaces: the hyperbolic plane &Hopf;<sup>2</sup> and the de-Sitter 2-space &Hopf;<sub>1</sub><sup>2</sup>, for any real number value of _p_. Our findings indicate that in the hyperbolic plane &Hopf;<sup>2</sup>, closed _p_-elastic curves exhibiting non-constant curvature exist when _p_&gt;1, while, in the de-Sitter 2-space &Hopf;<sub>1</sub><sup>2</sup>, such curves only exist when _p_&lt;0. Additionally, we establish that under these specific conditions for the energy parameter _p_ and in both types of spaces, for any pair of relatively prime natural numbers (_n_,_m_) that meet the criteria
-_m_&lt;2_n_&lt;&radic;2_m_, a closed _p_-elastic curve with non-constant curvature can be found. These curves exhibit _m_-fold symmetry and have a winding number equal to _n_.
+_m_&lt;2 _n_&lt;&radic;2 _m_, a closed _p_-elastic curve with non-constant curvature can be found. These curves exhibit _m_-fold symmetry and have a winding number equal to _n_.
 
 ------
 
@@ -372,7 +372,7 @@ Kirchhoff's Matrix Tree Theorem provides a way to calculate the number of spanni
 *Lebesgue constants in local Dirichlet spaces*
 
 Abstract:
-This study delves into the analysis of partial Taylor sums _S_<sub><i>n</i></sub>, _n_&ge;0, as finite rank operators on any Banach space of analytic functions on the open unit disc. In the classical disc algebra setting, these operators are known as Lebesgue constants, with their precise norm remaining unresolved. However, our focus shifts to the weighted Dirichlet spaces $\mathcal{D}_w$, where we accurately determine the norm of $S_n$. This exploration involves three distinct norms on $\mathcal{D}_w$, each providing unique values for the norm of $S_n$ as an operator on $\mathcal{D}_w$. Notably, these findings stand in sharp contrast to the classical disc algebra. Moreover, we extend our investigation to Cesaro means $\sigma_n$ on local Dirichlet spaces, aiming to precisely determine their norm for the three introduced metrics.
+This study delves into the analysis of partial Taylor sums _S_<sub><i>n</i></sub>, _n_&ge;0, as finite rank operators on any Banach space of analytic functions on the open unit disc. In the classical disc algebra setting, these operators are known as Lebesgue constants, with their precise norm remaining unresolved. However, our focus shifts to the weighted Dirichlet spaces &Dscr;<sub><i>w</i></sub>, where we accurately determine the norm of _S_<sub><i>n</i></sub>. This exploration involves three distinct norms on &Dscr;<sub><i>w</i></sub>, each providing unique values for the norm of _S_<sub><i>n</i></sub> as an operator on &Dscr;<sub><i>w</i></sub>. Notably, these findings stand in sharp contrast to the classical disc algebra. Moreover, we extend our investigation to Cesaro means &sigma;<sub><i>n</i></sub> on local Dirichlet spaces, aiming to precisely determine their norm for the three introduced metrics.
 
 Lebesgue constants in local Dirichlet spaces are vital for guiding the selection of optimal finite-dimensional approximations in numerical solutions of partial differential equations with Dirichlet boundary conditions in mathematical physics.
 
