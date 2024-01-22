@@ -203,9 +203,9 @@ under the condition
 
 <p>
 &nbsp;&nbsp;
-&exist; &mu;, _C_&gt;0&nbsp; &forall;&xi;&isin;&Ropf;^{d}:&nbsp;
-&mu;_w_<sup>4</sup>(_x_)|&xi;|<sup>2</sup>&le;&Sigma;<sup><i>d</i></sup><sub>i,j=1</sub>
-a<sub><i>ij</i></sub>(_x_)&xi;<sub><i>i</i></sub>&xi;<sub><i>j</i></sub>&le; _C_ _w_<sup>4</sup>(_x_)|
+&exist; &mu;, <i>C</i>&gt;0&nbsp; &forall;&xi;&isin;&Ropf;^{d}:&nbsp;
+&mu;<i>w</i><sup>4</sup>(<i>x</i>)|&xi;|<sup>2</sup>&le;&Sigma;<sup><i>d</i></sup><sub>i,j=1</sub>
+a<sub><i>ij</i></sub>(<i>x</i>)&xi;<sub><i>i</i></sub>&xi;<sub><i>j</i></sub>&le; <i>C w</i><sup>4</sup>(<i>x</i>)|
 &xi;<sup>2</sup>&nbsp; a.e. in &Omega;
 &nbsp;&nbsp;
 (2)
@@ -328,7 +328,7 @@ In this talk, we give background on the Riemann&ndash;Hilbert problem (RHp) for 
 
 *Closed _p_-elastic curves in spheres of* &Lopf;<sup>3</sup>
 
-Variational problems involving curves with energy densities influenced by their curvature are common in mathematical physics. This talk focuses on the existence of closed _p_-elastic curves in two distinct spaces: the hyperbolic plane &Hopf;<sup>2</sup> and the de-Sitter 2-space &Hopf;<sub>1</sub><sup>2</sup>, for any real number value of _p_. Our findings indicate that in the hyperbolic plane &Hopf;<sup>2</sup>, closed _p_-elastic curves exhibiting non-constant curvature exist when _p_&gt;1, while, in the de-Sitter 2-space &Hopf;<sub>1</sub><sup>2</sup>, such curves only exist when _p_&lt;0. Additionally, we establish that under these specific conditions for the energy parameter _p_ and in both types of spaces, for any pair of relatively prime natural numbers (_n_,_m_) that meet the criteria
+Variational problems involving curves with energy densities influenced by their curvature are common in mathematical physics. This talk focuses on the existence of closed _p_-elastic curves in two distinct spaces: the hyperbolic plane &Hopf;<sup>2</sup> and the de-Sitter 2-space &Hopf;<sup>2</sup><sub>1</sub>, for any real number value of _p_. Our findings indicate that in the hyperbolic plane &Hopf;<sup>2</sup>, closed _p_-elastic curves exhibiting non-constant curvature exist when _p_&gt;1, while, in the de-Sitter 2-space &Hopf;<sup>2</sup><sub>1</sub>, such curves only exist when _p_&lt;0. Additionally, we establish that under these specific conditions for the energy parameter _p_ and in both types of spaces, for any pair of relatively prime natural numbers (_n_,_m_) that meet the criteria
 _m_&lt;2 _n_&lt;&radic;2 _m_, a closed _p_-elastic curve with non-constant curvature can be found. These curves exhibit _m_-fold symmetry and have a winding number equal to _n_.
 
 ------
