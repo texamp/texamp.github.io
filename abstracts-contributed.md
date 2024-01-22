@@ -190,21 +190,24 @@ The main aim of the construction of these spaces is the study of the
 solvability of boundary-value problems of the form 
 
 $$
-(1)
-\qquad
 \begin{cases}
 -\sum\limits_{i,j=1}^{d} D_{j}(a_{ij}D_{i}u)+(b\cdot D)u+cu=f \mathrm{\quad in\ }\Omega
 \\
 \mathrm{Tr}(u)=0 \mathrm{\quad on\ }\partial\Omega
 \end{cases}
+&nbsp;&nbsp;
+(1)
 $$
 
 under the condition
 
 $$
+&exists; &mu;,&nbsp; _C_&gt;0&nbsp; &forall;&xi;&isin;&Ropf;^{d}:&nbsp;
+&mu;_w_<sup>4</sup>(_x_)|&xi;|<sup>2</sup>&le;&Sigma<sup><i>d</i></sup><sub>i,j=1</sub>
+a<sub><i>ij</i></sub>(_x_)&xi;<sub><i>i</i></sub>&xi;<sub><i>j</i></sub>&le; _C_ _w_<sup>4</sup>(_x_)|
+&xi;<sup>2</sup>&nbsp; a.e. in &Omega;
+&nbsp;&nbsp;
 (2)
-\qquad
-\exists\mu,C>0\ \forall\xi\in&Ropf;^{d}:\ \mu w^{4}(x)|\xi|^{2}\le\sum_{i,j=1}^{d}a_{ij}(x)\xi_{i}\xi_{j}\leq Cw^{4}(x)|\xi|^{2}\quad \mathrm{a.e.}\quad\mathrm{in\ }\Omega
 $$
 
 where _w_&isin;_C_<sup>1</sup>(&Omega;) is an elimination function arbitrary
@@ -297,7 +300,7 @@ Chemotaxis phenomena govern the directed movement of microorganisms in response 
 
 Abstract: 
 In this talk, I will be discussing recent work
-<a href="https://arxiv.org/abs/2309.04638">On the effective dynamics of Bose&ndash;Fermi mixtures"</a>
+"<a href="https://arxiv.org/abs/2309.04638">On the effective dynamics of Bose&ndash;Fermi mixtures</a>"
 with Esteban Cardenas and my advisor Natasa Pavlovic. In this work, we describe the dynamics of a Bose&ndash;Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schr&ouml;dinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov&ndash;Hartee system of equations with an explicit convergence rate.
 
 ------
