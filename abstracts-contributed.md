@@ -209,11 +209,11 @@ solvability of boundary-value problems of the form
 &nbsp;&nbsp;
 (1)
 &nbsp;&nbsp;
--&Sigma<sub><i>i,j</i>=1</sub>;<sup><i>d</i></sup>
+-&Sigma;<sub><i>i,j</i>=1</sub><sup><i>d</i></sup>
 <i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b&#x2219; D</i>)<i>u</i>
-+<i>cu</i>=<i>f</i> in &Omega;,
++<i>cu</i>=<i>f</i>&nbsp;&nbsp;in&nbsp;&nbsp;&Omega;,
 &nbsp;&nbsp;&nbsp;&nbsp;
-Tr(<i>u</i>)=0 on &part;&Omega;
+Tr(<i>u</i>)=0&nbsp;&nbsp;on&nbsp;&nbsp;&part;&Omega;
 </p>
 
 under the condition
@@ -222,7 +222,7 @@ under the condition
 &nbsp;&nbsp;
 (2)
 &nbsp;&nbsp;
-&exist; &mu;, <i>C</i>&gt;0&nbsp; &forall;&xi;&isin;&Ropf;^{d}:&nbsp;
+&exist; &mu;, <i>C</i>&gt;0&nbsp; &forall;&xi;&isin;&Ropf;<sup><i>d</i></sup>:&nbsp;
 &mu;<i>w</i><sup>4</sup>(<i>x</i>)|&xi;|<sup>2</sup>&le;&Sigma;<sub>i,j=1</sub><sup><i>d</i></sup>
 a<sub><i>ij</i></sub>(<i>x</i>)&xi;<sub><i>i</i></sub>&xi;<sub><i>j</i></sub>&le; <i>C w</i><sup>4</sup>(<i>x</i>)|&xi;|<sup>2</sup>&nbsp; a.e. in &Omega;
 </p>
