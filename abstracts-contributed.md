@@ -191,9 +191,10 @@ solvability of boundary-value problems of the form
 
 $$
 \begin{cases}
--\sum\limits_{i,j=1}^{d} D_{j}(a_{ij}D_{i}u)+(b\cdot D)u+cu=f \mathrm{\quad in\ }\Omega
+-&Sigma;<sup><i>d</i></sup><sub><i>i,j</i>=1</sub><i>D<sub>j</sub></i>(<i>a<sub>ij</sub>D<sub>i</sub>u</i>)+(<i>b\cdot D</i>)<i>u</i>
++<i>cu</i>=<i>f</i> in &Omega;
 \\
-\mathrm{Tr}(u)=0 \mathrm{\quad on\ }\partial\Omega
+Tr(<i>u</i>)=0 on &part;&Omega;
 \end{cases}
 &nbsp;&nbsp;
 (1)
@@ -205,8 +206,7 @@ under the condition
 &nbsp;&nbsp;
 &exist; &mu;, <i>C</i>&gt;0&nbsp; &forall;&xi;&isin;&Ropf;^{d}:&nbsp;
 &mu;<i>w</i><sup>4</sup>(<i>x</i>)|&xi;|<sup>2</sup>&le;&Sigma;<sup><i>d</i></sup><sub>i,j=1</sub>
-a<sub><i>ij</i></sub>(<i>x</i>)&xi;<sub><i>i</i></sub>&xi;<sub><i>j</i></sub>&le; <i>C w</i><sup>4</sup>(<i>x</i>)|
-&xi;<sup>2</sup>&nbsp; a.e. in &Omega;
+a<sub><i>ij</i></sub>(<i>x</i>)&xi;<sub><i>i</i></sub>&xi;<sub><i>j</i></sub>&le; <i>C w</i><sup>4</sup>(<i>x</i>)|&xi;|<sup>2</sup>&nbsp; a.e. in &Omega;
 &nbsp;&nbsp;
 (2)
 </p>
