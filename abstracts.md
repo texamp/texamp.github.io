@@ -3,7 +3,7 @@
 ------
 <a name="Boussaid"></a>
 
-**Nabile Boussaid (Universit&eacute; Franche-Comt&eacute; &mdash; Besançon)**
+**Nabile Boussaid (Universit&eacute; Franche-Comt&eacute; &mdash; Besan&ccedil;on)**
 
 *Virtual levels and virtual states of linear operators in Banach spaces. Applications to Schr&ouml;dinger operators*
 
