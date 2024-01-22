@@ -27,12 +27,14 @@ Physically, the hot spots conjecture of Jeff Rauch is the assertion that the loc
 
 ------
 
-**Speaker: András Vasy (Stanford University)**
+**Speaker: Iosif Polterovich (Université de Montréal)**
 
-*Title: The black hole stability problem*
+*Title: Pólya's eigenvalue conjecture: some recent advances*
 
 Abstract:
-I will discuss analytic and geometric tools that lead to the understanding of black hole stability with a positive cosmological constant (Kerr-de Sitter spacetimes) and their extensions which play a role in the vanishing cosmological constant case (Kerr). This is based on joint works with Dietrich Haefner, Peter Hintz and Oliver Petersen.
+The celebrated Pólya's conjecture (1954) in spectral geometry states that the eigenvalue counting functions of the Dirichlet and Neumann Laplacian on a bounded Euclidean domain can be estimated from above and below, respectively, by the leading term of Weyl's asymptotics. The conjecture is known to be true for domains which tile the Euclidean space, however it remains largely open in full generality. In the talk we will explain the motivation behind this conjecture and discuss some recent advances, such as the proof of Pólya's conjecture for the disk, and its extension to the eigenvalues of a magnetic Schrödinger operator with an Aharonov--Bohm potential. 
+The latter answers a question posed by Frank and Hansson (2008).
+The talk is based on joint works with Nikolay Filonov, Michael Levitin and David Sher.
 
 ------
 
@@ -45,11 +47,10 @@ In this talk I will describe some of the mathematical aspects of disordered topo
 
 ------
 
-**Speaker: Iosif Polterovich (Université de Montréal)**
+**Speaker: András Vasy (Stanford University)**
 
-*Title: Pólya's eigenvalue conjecture: some recent advances*
+*Title: The black hole stability problem*
 
 Abstract:
-The celebrated Pólya's conjecture (1954) in spectral geometry states that the eigenvalue counting functions of the Dirichlet and Neumann Laplacian on a bounded Euclidean domain can be estimated from above and below, respectively, by the leading term of Weyl's asymptotics. The conjecture is known to be true for domains which tile the Euclidean space, however it remains largely open in full generality. In the talk we will explain the motivation behind this conjecture and discuss some recent advances, such as the proof of Pólya's conjecture for the disk, and its extension to the eigenvalues of a magnetic Schrödinger operator with an Aharonov--Bohm potential. 
-The latter answers a question posed by Frank and Hansson (2008).
-The talk is based on joint works with Nikolay Filonov, Michael Levitin and David Sher.
+I will discuss analytic and geometric tools that lead to the understanding of black hole stability with a positive cosmological constant (Kerr-de Sitter spacetimes) and their extensions which play a role in the vanishing cosmological constant case (Kerr). This is based on joint works with Dietrich Haefner, Peter Hintz and Oliver Petersen.
+
