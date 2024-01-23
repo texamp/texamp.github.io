@@ -64,6 +64,7 @@
 
 Contributed Talks Sessions
 
+<!--
 Timetable for all sessions:
 First part 10:30 am – 12:15 pm
 Talk 1: 10:30 – 10:50
@@ -74,6 +75,7 @@ Second part: 2:15 pm – 3:30 pm
 Talk 5: 2:15 – 2:35
 Talk 6: 2:40 – 3:00
 Talk 7: 3:05 – 3:25
+-->
 
 <pre>
 Session I: (Blocker 113)
