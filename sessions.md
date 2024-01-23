@@ -35,9 +35,10 @@
   <td><a href="abstracts-contributed#Faust">Matthew Faust</a></td>
   <td><a href="abstracts-contributed#Yang">Mengxuan Yang</a></td>
   <td><a href="abstracts-contributed#Hassan">Zulaihat Hassan</a></td>
-</tr>
-  <tr>
-  <td>2:15&ndash;2:35</td>
+</tr><tr>
+<td>Lunch</td>
+</tr><tr>
+  <td>2:15&ndash;2:35PM</td>
   <td><a href="abstracts-contributed#Yan">Lili Yan</a></td>
   <td><a href="abstracts-contributed#Daniel">David Daniel</a></td>
   <td><a href="abstracts-contributed#Quintero-Roba">Alejandro Quintero-Roba</a></td>
@@ -45,7 +46,7 @@
   <td><a href="abstracts-contributed#Silva">Pedro Takemura Feitosa Da Silva</a></td>
 </tr>
   <tr>
-  <td>2:40&ndash;3:00</td>
+  <td>2:40&ndash;3:00PM</td>
   <td><a href="abstracts-contributed#Su">Yaofeng Su</a></td>
   <td><a href="abstracts-contributed#Gammanpila">Himali Gammanpila</a></td>
   <td><a href="abstracts-contributed#Christopherson">Adam Christopherson</a></td>
@@ -53,7 +54,7 @@
   <td><a href="abstracts-contributed#Malhotra">Sakshi Malhotra</a></td>
 </tr>
   <tr>
-  <td>3:05&ndash;3:25</td>
+  <td>3:05&ndash;3:25PM</td>
   <td><a href="abstracts-contributed#Gavarro">Joan Morrill Gavarro</a></td>
   <td><a href="abstracts-contributed#"></a></td>
   <td><a href="abstracts-contributed#"></a></td>
@@ -62,7 +63,7 @@
 </tr>
 </table>
 
-Sessions
+**Special sessions listed individually**
 
 <!--
 Timetable for all sessions:
@@ -78,7 +79,7 @@ Talk 7: 3:05 &ndash; 3:25
 -->
 
 <pre>
-Session I: (Blocker 113)
+**Session I: (Blocker 113)**
 Speaker: Xiaoqi Huang (LSU)
 Title: Strichartz estimates for the Schr&ouml;dinger equation on negatively curved compact manifolds.
 Speaker: Baofeng Feng (University of Texas Rio Grande Valley)
@@ -94,12 +95,11 @@ Title: Some new results of open dynamical systems
 Speaker: Joan Morrill Gavarro (RWTH Aachen)
 Title: A hydrodynamics formulation for a nonlinear Dirac equation
 
-Session II: (Blocker 166)
+**Session II: (Blocker 166)**
 Speaker: Kenneth Beard (Louisiana State University)
 Title: On the nuances of discretizing continuum electrical conductivity
 Speaker: Mahishanka Withanachchi (Laval University)
 Title: Lebesgue constants in local Dirichlet spaces
-
 Speaker: Ellie Matter (Baylor)
 Title: Cluster formation in iterated mean field games
 Speaker: Miraj Samarakkody (Texas Tech University)
@@ -109,7 +109,7 @@ Title: Mathematical modelling of yellow fever transmission dynamics with stabili
 Speaker: Himali Gammanpila (Texas Tech University)
 Title: Stability analysis and a priori error estimation for Nitsche-type CIP/GP-CutFEM multi-phase flow
 
-Session III: (Blocker 169)
+**Session III: (Blocker 169)**
 Speaker: Tal Malinovitch (Rice University)
 Title: Directional Ballistic transport for partially periodic Schr&ouml;dinger operators
 Speaker: Burak Hatinoglu (Michigan State University)
@@ -123,7 +123,7 @@ Title: The Riemann-Hilbert problem for Krall orthogonal polynomials
 Speaker: Adam Christopherson (Ohio State University)
 Title: Weak-type regularity of the Bergman projection on Hartogs domains
 
-Session IV: (Blocker 302)
+**Session IV: (Blocker 302)**
 Speaker: Tracy Weyand (Rose-Hulman Institute of Technology)
 Title: Calculating the number of spanning trees of a quantum graph from its spectrum
 Speaker: Brian Simanek (Baylor University)
@@ -139,7 +139,7 @@ Title: Topological edge spectrum along curved interface
 Speaker: Hewan Meles Shemtaga (Auburn University)
 Title: Chemotaxis models and Keller--Segel systems on compact metric graphs
 
-Session V: (Blocker 102)
+**Session V: (Blocker 102)**
 Speaker: Zhaosheng Feng (University of Texas-RGV)
 Title: Parabolic systems of aggregation formation in bacterial colonies
 Speaker: Arnaja Mitra (University of Texas at Dallas)
