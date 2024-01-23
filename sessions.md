@@ -101,7 +101,7 @@ Title: Lebesgue constants in local Dirichlet spaces
 Speaker: Ellie Matter (Baylor)
 Title: Cluster formation in iterated mean field games
 Speaker: Miraj Samarakkody (Texas Tech University)
-Title: Closed $p-$elastic Curves in spheres of &Lopf;<sup>3</sup>
+Title: Closed _p_-elastic Curves in spheres of &Lopf;<sup>3</sup>
 Speaker: David Daniel (UT Dallas)
 Title: Mathematical modelling of yellow fever transmission dynamics with stability analysis
 Speaker: Himali Gammanpila (Texas Tech University)
