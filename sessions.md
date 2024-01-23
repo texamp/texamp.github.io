@@ -8,57 +8,57 @@
   <td>IV: BLOC302</td>
   <td>V: BLOC102</td>
 </tr><tr>
-  <td>10:30 – 10:50</td>
-  <td>Xiaoqi Huang</td>
-  <td>Kenneth Beard</td>
-  <td>Tal Malinovitch</td>
-  <td>Tracy Weyand</td>
-  <td>Zhaosheng Feng</td>
+  <td>10:30 &ndash; 10:50</td>
+  <td><a href="abstracts-contributed#Huang">Xiaoqi Huang</a></td>
+  <td><a href="abstracts-contributed#Beard">Kenneth Beard</a></td>
+  <td><a href="abstracts-contributed#Malinovitch">Tal Malinovitch</a></td>
+  <td><a href="abstracts-contributed#Weyand">Tracy Weyand</a></td>
+  <td><a href="abstracts-contributed#ZhaoshengFeng">Zhaosheng Feng</a></td>
 </tr><tr>
-  <td>10:55 – 11:15</td>
-  <td>Baofeng Feng</td>
-  <td>Mahishanka Withanachchi</td>
-  <td>Burak Hatinoglu</td>
-  <td>Brian Simanek</td>
-  <td>Arnaja Mitra</td>
+  <td>10:55 &ndash; 11:15</td>
+  <td><a href="abstracts-contributed#BaofengFeng">Baofeng Feng</a></td>
+  <td><a href="abstracts-contributed#Withanachchi">Mahishanka Withanachchi</a></td>
+  <td><a href="abstracts-contributed#Hatinoglu">Burak Hatinoglu</a></td>
+  <td><a href="abstracts-contributed#Simanek">Brian Simanek</a></td>
+  <td><a href="abstracts-contributed#Mitra">Arnaja Mitra</a></td>
 </tr><tr>
-  <td>11:20 – 11:40</td>
-  <td>Joseph Miller</td>
-  <td>Ellie Matter</td>
-  <td>Omar Hurtado</td>
-  <td>Yuzhou Zou</td>
-  <td>Jesus Cruz-Lugo</td>
+  <td>11:20 &ndash; 11:40</td>
+  <td><a href="abstracts-contributed#Miller">Joseph Miller</a></td>
+  <td><a href="abstracts-contributed#Matter">Ellie Matter</a></td>
+  <td><a href="abstracts-contributed#Hurtado">Omar Hurtado</a></td>
+  <td><a href="abstracts-contributed#Zou">Yuzhou Zou</a></td>
+  <td><a href="abstracts-contributed#Cruz-Lugo">Jesus Cruz-Lugo</a></td>
 </tr><tr>
-  <td>11:45 – 12:05</td>
-  <td>Yongming Li</td>
-  <td>Miraj Samarakkody</td>
-  <td>Matthew Faust</td>
-  <td>Mengxuan Yang</td>
-  <td>Zulaihat Hassan</td>
+  <td>11:45 &ndash; 12:05</td>
+  <td><a href="abstracts-contributed#Li">Yongming Li</a></td>
+  <td><a href="abstracts-contributed#Samarakkody">Miraj Samarakkody</a></td>
+  <td><a href="abstracts-contributed#Faust">Matthew Faust</a></td>
+  <td><a href="abstracts-contributed#Yang">Mengxuan Yang</a></td>
+  <td><a href="abstracts-contributed#Hassan">Zulaihat Hassan</a></td>
 </tr>
   <tr>
-  <td>2:15 – 2:35</td>
-  <td>Lili Yan</td>
-  <td>David Daniel</td>
-  <td>Alejandro Quintero-Roba</td>
-  <td>Lawford Hatcher</td>
-  <td>Pedro Takemura Feitosa Da Silva</td>
+  <td>2:15 &ndash; 2:35</td>
+  <td><a href="abstracts-contributed#Yan">Lili Yan</a></td>
+  <td><a href="abstracts-contributed#Daniel">David Daniel</a></td>
+  <td><a href="abstracts-contributed#Quintero-Roba">Alejandro Quintero-Roba</a></td>
+  <td><a href="abstracts-contributed#Hatcher">Lawford Hatcher</a></td>
+  <td><a href="abstracts-contributed#Silva">Pedro Takemura Feitosa Da Silva</a></td>
 </tr>
   <tr>
-  <td>2:40 – 3:00</td>
-  <td>Yaofeng Su</td>
-  <td>Himali Gammanpila</td>
-  <td>Adam Christopherson</td>
-  <td>Xiaowen Zhu</td>
-  <td>Sakshi Malhotra</td>
+  <td>2:40 &ndash; 3:00</td>
+  <td><a href="abstracts-contributed#Su">Yaofeng Su</a></td>
+  <td><a href="abstracts-contributed#Gammanpila">Himali Gammanpila</a></td>
+  <td><a href="abstracts-contributed#Christopherson">Adam Christopherson</a></td>
+  <td><a href="abstracts-contributed#Zhu">Xiaowen Zhu</a></td>
+  <td><a href="abstracts-contributed#Malhotra">Sakshi Malhotra</a></td>
 </tr>
   <tr>
-  <td>3:05 – 3:25</td>
-  <td>Joan Morrill Gavarro</td>
-  <td></td>
-  <td></td>
-  <td>Hewan Meles Shemtaga</td>
-  <td>Djamel Eddine Kebiche</td>
+  <td>3:05 &ndash; 3:25</td>
+  <td><a href="abstracts-contributed#Gavarro">Joan Morrill Gavarro</a></td>
+  <td><a href="abstracts-contributed#"></a></td>
+  <td><a href="abstracts-contributed#"></a></td>
+  <td><a href="abstracts-contributed#Shemtaga">Hewan Meles Shemtaga</a></td>
+  <td><a href="abstracts-contributed#Kebiche">Djamel Eddine Kebiche</a></td>
 </tr>
 </table>
 
@@ -66,15 +66,15 @@ Sessions
 
 <!--
 Timetable for all sessions:
-First part 10:30 am – 12:15 pm
-Talk 1: 10:30 – 10:50
-Talk 2: 10:55 – 11:15
-Talk 3: 11:20 – 11:40
-Talk 4: 11:45 – 12:05
-Second part: 2:15 pm – 3:30 pm
-Talk 5: 2:15 – 2:35
-Talk 6: 2:40 – 3:00
-Talk 7: 3:05 – 3:25
+First part 10:30 am &ndash; 12:15 pm
+Talk 1: 10:30 &ndash; 10:50
+Talk 2: 10:55 &ndash; 11:15
+Talk 3: 11:20 &ndash; 11:40
+Talk 4: 11:45 &ndash; 12:05
+Second part: 2:15 pm &ndash; 3:30 pm
+Talk 5: 2:15 &ndash; 2:35
+Talk 6: 2:40 &ndash; 3:00
+Talk 7: 3:05 &ndash; 3:25
 -->
 
 <pre>
