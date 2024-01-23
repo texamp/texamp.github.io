@@ -284,7 +284,7 @@ Based on the ideas of Adly, Attouch, and Cabot on finite time stabilization of d
 <a href="https://link.springer.com/chapter/10.1007/978-3-642-10960-7_7">"New Variational Techniques in Mathematical Physics" (Centro Internaz. Mat. Estivo (CIME), II Ciclo, Bressanone, 1973), Edizioni Cremonese, Rome, 1974, pp. 171&ndash;322</a>] to apply our theorem to a system of elastoplastic springs with a stress-controlled loading. We further use the theorem on an elastoplastic model to fully illustrate its practical application.
 
 ------
-<a name="Malinovich"></a>
+<a name="Malinovitch"></a>
 
 **Tal Malinovitch (Rice University)**
 
