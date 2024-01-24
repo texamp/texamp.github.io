@@ -78,8 +78,8 @@ Talk 6: 2:40 &ndash; 3:00
 Talk 7: 3:05 &ndash; 3:25
 -->
 
-<pre>
 **Session I: (Blocker 113)**
+<pre>
 Speaker: Xiaoqi Huang (LSU)
 Title: Strichartz estimates for the Schr&ouml;dinger equation on negatively curved compact manifolds.
 Speaker: Baofeng Feng (University of Texas Rio Grande Valley)
@@ -94,8 +94,10 @@ Speaker: Yaofeng Su (Georgia Tech)
 Title: Some new results of open dynamical systems
 Speaker: Joan Morrill Gavarro (RWTH Aachen)
 Title: A hydrodynamics formulation for a nonlinear Dirac equation
+</pre>
 
 **Session II: (Blocker 166)**
+<pre>
 Speaker: Kenneth Beard (Louisiana State University)
 Title: On the nuances of discretizing continuum electrical conductivity
 Speaker: Mahishanka Withanachchi (Laval University)
@@ -108,8 +110,10 @@ Speaker: David Daniel (UT Dallas)
 Title: Mathematical modelling of yellow fever transmission dynamics with stability analysis
 Speaker: Himali Gammanpila (Texas Tech University)
 Title: Stability analysis and a priori error estimation for Nitsche-type CIP/GP-CutFEM multi-phase flow
+</pre>
 
 **Session III: (Blocker 169)**
+<pre>
 Speaker: Tal Malinovitch (Rice University)
 Title: Directional Ballistic transport for partially periodic Schr&ouml;dinger operators
 Speaker: Burak Hatinoglu (Michigan State University)
@@ -122,8 +126,10 @@ Speaker: Alejandro Quintero-Roba (Baylor University)
 Title: The Riemann-Hilbert problem for Krall orthogonal polynomials
 Speaker: Adam Christopherson (Ohio State University)
 Title: Weak-type regularity of the Bergman projection on Hartogs domains
+</pre>
 
 **Session IV: (Blocker 302)**
+<pre>
 Speaker: Tracy Weyand (Rose-Hulman Institute of Technology)
 Title: Calculating the number of spanning trees of a quantum graph from its spectrum
 Speaker: Brian Simanek (Baylor University)
@@ -138,9 +144,11 @@ Speaker: Xiaowen Zhu (University of Washington)
 Title: Topological edge spectrum along curved interface
 Speaker: Hewan Meles Shemtaga (Auburn University)
 Title: Chemotaxis models and Keller--Segel systems on compact metric graphs
+</pre>
 
 **Session V: (Blocker 102)**
-Speaker: Zhaosheng Feng (University of Texas-RGV)
+<pre>
+Speaker: Zhaosheng Feng (University of Texas Rio Grande Valley)
 Title: Parabolic systems of aggregation formation in bacterial colonies
 Speaker: Arnaja Mitra (University of Texas at Dallas)
 Title: Equivariant global Hopf bifurcation in abstract nonlinear parabolic equations
