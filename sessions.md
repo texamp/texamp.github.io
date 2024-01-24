@@ -107,8 +107,8 @@
 &nbsp;&nbsp;<i>Logarithmic Capacities of Rational Frequency Approximants for the Almost Mathieu Operator</i>
 <b>Omar Hurtado (UC Irvine)</b>
 &nbsp;&nbsp;<i>Localization and unique continuation for non-stationary Schr&ouml;dinger operators on &Zopf;<sup>2</sup></i>
-<b>Matthew Faust (Texas A&M University)
-Talk title: An Ambartsuman-type inverse problem for periodic graphs</i>
+<b>Matthew Faust (Texas A&M University)</b>
+&nbsp;&nbsp;An Ambartsuman-type inverse problem for periodic graphs</i>
 <b>Alejandro Quintero-Roba (Baylor University)</b>
 &nbsp;&nbsp;<i>The Riemann&ndash;Hilbert problem for Krall orthogonal polynomials</i>
 <b>Adam Christopherson (Ohio State University)</b>
@@ -130,7 +130,7 @@ Talk title: An Ambartsuman-type inverse problem for periodic graphs</i>
 <b>Xiaowen Zhu (University of Washington)</b>
 &nbsp;&nbsp;<i>Topological edge spectrum along curved interface</i>
 <b>Hewan Meles Shemtaga (Auburn University)</b>
-&nbsp;&nbsp;<i>Chemotaxis models and Keller&ndash;Segel systems on compact metric graphs
+&nbsp;&nbsp;<i>Chemotaxis models and Keller&ndash;Segel systems on compact metric graphs</i>
 </pre>
 
 **Session V (Blocker 102)**
