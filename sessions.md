@@ -143,7 +143,7 @@
 &nbsp;&nbsp;<i>On the stability of the Dirichlet problem for weakly elliptic systems in the plane</i>
 <b>Zulaihat Hassan (Auburn University)</b>
 &nbsp;&nbsp;<i>Global existence of classical solutions of chemotaxis systems with logistic source and consumption
-or linear signal production on &Ropf;<sup>&nbsp;&nbsp;<i>n</i></sup></i>
+or linear signal production on</i> &Ropf;<sup>&nbsp;&nbsp;<i>n</i></sup>
 <b>Pedro Takemura Feitosa Da Silva (Baylor University)</b>
 &nbsp;&nbsp;<i>A new class of Herz-type spaces and boundary problems</i>
 <b>Sakshi Malhotra (University of Texas at Dallas)</b>
