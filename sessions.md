@@ -92,7 +92,7 @@
 <b>Ellie Matter (Baylor)</b>
 &nbsp;&nbsp;<i>Cluster formation in iterated mean field games</i>
 <b>Miraj Samarakkody (Texas Tech University)</b>
-&nbsp;&nbsp;<i>Closed &nbsp;&nbsp;<i>p</i>-elastic Curves in spheres of &Lopf;<sup>3</sup></i>
+&nbsp;&nbsp;<i>Closed <i>p</i>-elastic Curves in spheres of</i> &Lopf;<sup>3</sup>
 <b>David Daniel (UT Dallas)</b>
 &nbsp;&nbsp;<i>Mathematical modelling of yellow fever transmission dynamics with stability analysis</i>
 <b>Himali Gammanpila (Texas Tech University)</b>
@@ -106,7 +106,7 @@
 <b>Burak Hatinoglu (Michigan State University)</b>
 &nbsp;&nbsp;<i>Logarithmic Capacities of Rational Frequency Approximants for the Almost Mathieu Operator</i>
 <b>Omar Hurtado (UC Irvine)</b>
-&nbsp;&nbsp;<i>Localization and unique continuation for non-stationary Schr&ouml;dinger operators on &Zopf;<sup>2</sup></i>
+&nbsp;&nbsp;<i>Localization and unique continuation for non-stationary Schr&ouml;dinger operators on</i> &Zopf;<sup>2</sup>
 <b>Matthew Faust (Texas A&M University)</b>
 &nbsp;&nbsp;An Ambartsuman-type inverse problem for periodic graphs</i>
 <b>Alejandro Quintero-Roba (Baylor University)</b>
@@ -120,7 +120,7 @@
 <b>Tracy Weyand (Rose&ndash;Hulman Institute of Technology)</b>
 &nbsp;&nbsp;<i>Calculating the number of spanning trees of a quantum graph from its spectrum</i>
 <b>Brian Simanek (Baylor University)</b>
-&nbsp;&nbsp;<i>Discrete &nbsp;&nbsp;<i>m</i>-functions with doubly-palindromic continued fraction coefficients</i>
+&nbsp;&nbsp;<i>Discrete <i>m</i>-functions with doubly-palindromic continued fraction coefficients</i>
 <b>Yuzhou Zou (Northwestern University)</b>
 &nbsp;&nbsp;<i>A Gutzwiller trace formula for semiclassical Schr&ouml;dinger operators with conormal potentials</i>
 <b>Mengxuan Yang (UC Berkeley)</b>
@@ -143,7 +143,7 @@
 &nbsp;&nbsp;<i>On the stability of the Dirichlet problem for weakly elliptic systems in the plane</i>
 <b>Zulaihat Hassan (Auburn University)</b>
 &nbsp;&nbsp;<i>Global existence of classical solutions of chemotaxis systems with logistic source and consumption
-or linear signal production on</i> &Ropf;<sup>&nbsp;&nbsp;<i>n</i></sup>
+or linear signal production on</i> &Ropf;<sup><i>n</i></sup>
 <b>Pedro Takemura Feitosa Da Silva (Baylor University)</b>
 &nbsp;&nbsp;<i>A new class of Herz-type spaces and boundary problems</i>
 <b>Sakshi Malhotra (University of Texas at Dallas)</b>
