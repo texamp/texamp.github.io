@@ -71,7 +71,7 @@
 &nbsp;&nbsp;<i>Strichartz estimates for the Schr&ouml;dinger equation on negatively curved compact manifolds.</i>
 <b>Baofeng Feng (University of Texas Rio Grande Valley)</b>
 &nbsp;&nbsp;<i>Bilinear structure and KP reductions to CSSI equation</i>
-<b>Joseph Miller (UT Austin)</b>
+<b>Joseph Miller (University of Texas at Austin)</b>
 &nbsp;&nbsp;<i>On the effective dynamics of Bose&ndash;Fermi Mixtures</i>
 <b>Yongming Li (Texas A&M University)</b>
 &nbsp;&nbsp;<i>Dispersive estimates for 1D matrix Schr&ouml;dinger operators with threshold resonance</i>
@@ -93,7 +93,7 @@
 &nbsp;&nbsp;<i>Cluster formation in iterated mean field games</i>
 <b>Miraj Samarakkody (Texas Tech University)</b>
 &nbsp;&nbsp;<i>Closed <i>p</i>-elastic Curves in spheres of</i> &Lopf;<sup>3</sup>
-<b>David Daniel (UT Dallas)</b>
+<b>David Daniel (University of Texas at Dallas)</b>
 &nbsp;&nbsp;<i>Mathematical modelling of yellow fever transmission dynamics with stability analysis</i>
 <b>Himali Gammanpila (Texas Tech University)</b>
 &nbsp;&nbsp;<i>Stability analysis and a priori error estimation for Nitsche-type CIP/GP-CutFEM multi-phase flow</i>
@@ -105,7 +105,7 @@
 &nbsp;&nbsp;<i>Directional Ballistic transport for partially periodic Schr&ouml;dinger operators</i>
 <b>Burak Hatinoglu (Michigan State University)</b>
 &nbsp;&nbsp;<i>Logarithmic Capacities of Rational Frequency Approximants for the Almost Mathieu Operator</i>
-<b>Omar Hurtado (UC Irvine)</b>
+<b>Omar Hurtado (University of California, Irvine)</b>
 &nbsp;&nbsp;<i>Localization and unique continuation for non-stationary Schr&ouml;dinger operators on</i> &Zopf;<sup>2</sup>
 <b>Matthew Faust (Texas A&M University)</b>
 &nbsp;&nbsp;An Ambartsuman-type inverse problem for periodic graphs</i>
@@ -123,7 +123,7 @@
 &nbsp;&nbsp;<i>Discrete <i>m</i>-functions with doubly-palindromic continued fraction coefficients</i>
 <b>Yuzhou Zou (Northwestern University)</b>
 &nbsp;&nbsp;<i>A Gutzwiller trace formula for semiclassical Schr&ouml;dinger operators with conormal potentials</i>
-<b>Mengxuan Yang (UC Berkeley)</b>
+<b>Mengxuan Yang (University of California, Berkeley)</b>
 &nbsp;&nbsp;<i>Semiclassical analysis of twisted TMDs: exponentially flat and trivial bands</i>
 <b>Lawford Hatcher (Indiana University)</b>
 &nbsp;&nbsp;<i>The hot spots conjecture with mixed boundary conditions</i>

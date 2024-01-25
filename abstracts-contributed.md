@@ -38,7 +38,7 @@ the given weakly elliptic system. This is joint work with Marius Mitrea.
 ------
 <a name="Daniel"></a>
 
-**David Daniel (UT Dallas)**
+**David Daniel (University of Texas at Dallas)**
 
 *Mathematical modelling of yellow fever transmission dynamics with stability analysis*
 
@@ -178,7 +178,7 @@ We will discuss improved Strichartz estimates for solutions of the Schr&ouml;din
 ------
 <a name="Hurtado"></a>
 
-**Omar Hurtado (UC Irvine)**
+**Omar Hurtado (University of California, Irvine)**
 
 *Localization and unique continuation for non-stationary Schr&ouml;dinger operators on* &Zopf;<sup>2</sup>
 
@@ -317,7 +317,7 @@ Chemotaxis phenomena govern the directed movement of microorganisms in response 
 ------
 <a name="Miller"></a>
 
-**Joseph Miller (UT Austin)**
+**Joseph Miller (University of Texas at Austin)**
 
 *On the effective dynamics of Bose&ndash;Fermi mixtures*
 
@@ -425,7 +425,7 @@ Abstract: In this talk, we consider an inverse problem for the nonlinear Boltzma
 ------
 <a name="Yang"></a>
 
-**Mengxuan Yang (UC Berkeley)**
+**Mengxuan Yang (University of California, Berkeley)**
 
 *Semiclassical analysis of twisted TMDs: exponentially flat and trivial bands*
 
