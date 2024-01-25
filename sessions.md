@@ -113,6 +113,8 @@
 &nbsp;&nbsp;<i>The Riemann&ndash;Hilbert problem for Krall orthogonal polynomials</i>
 <b>Adam Christopherson (Ohio State University)</b>
 &nbsp;&nbsp;<i>Weak-type regularity of the Bergman projection on Hartogs domains</i>
+<b>Jon Harrison (Baylor University)</b>
+&nbsp;&nbsp;<i>A discrete analog of quantum unique ergodicity on circulant graphs</i>
 </pre>
 
 **Session IV (Blocker 302)**
