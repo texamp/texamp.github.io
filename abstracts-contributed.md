@@ -105,6 +105,28 @@ Abstract:
 We derive a hydrodynamics formulation for a modified Dirac equation with a nonlinear mass term. The nonlinearity has the same homogeneity as the classical Dirac equation but is only Lipschitz continuous. We prove a global existence result for a regularised equation. The nonlinear Dirac equation admits a clean and symmetric split into the left and right-handed spinor components. It is formulated using Clifford algebra tools. This is joint work with Prof. Dr. Michael Westdickenberg (RWTH Aachen University).
 
 ------
+<a name="Harrison"></a>
+
+**Jon Harrison (Baylor University)**
+
+*A discrete analog of quantum unique ergodicity on circulant graphs*
+
+Abstract:
+A discrete analog of quantum unique ergodicity was proved for
+Cayley graphs of quasirandom groups by
+<a href="https://link.springer.com/article/10.1007/s00220-023-04801-x">Magee, Thomas and Zhao (2023)</a>.
+They show that for large graphs there is an orthonormal basis of
+Eigenfunctions of the adjacency matrix such that quantum probability
+measures of the eigenfunctions puts approximately the correct proportion
+of their mass on subsets of the vertices that are not too small.  We
+investigate this property on families of circulant graphs with prime
+order. We see that the property holds for an orthonormal Eigenfunction
+basis but fails if the basis is required to be real.  The equivalent
+result for a real basis holds for the Cayley graphs of quasirandom
+groups.  This is work with Clare Pruss at Baylor University,
+as part of her honors thesis.
+
+------
 <a name="Hassan"></a>
 
 **Zulaihat Hassan (Auburn University)**

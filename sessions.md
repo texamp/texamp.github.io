@@ -57,7 +57,7 @@
   <td>3:05&ndash;3:25PM</td>
   <td><a href="abstracts-contributed#Gavarro">Joan Morrill Gavarro</a></td>
   <td><a href="abstracts-contributed#"></a></td>
-  <td><a href="abstracts-contributed#"></a></td>
+  <td><a href="abstracts-contributed#Harrison">Jon Harrison</a></td>
   <td><a href="abstracts-contributed#Shemtaga">Hewan Meles Shemtaga</a></td>
   <td><a href="abstracts-contributed#Kebiche">Djamel Eddine Kebiche</a></td>
 </tr>
