@@ -59,7 +59,7 @@
   <td><a href="abstracts-contributed#"></a></td>
   <td><a href="abstracts-contributed#Harrison">Jon Harrison</a></td>
   <td><a href="abstracts-contributed#Shemtaga">Hewan Meles Shemtaga</a></td>
-  <td><a href="abstracts-contributed#Kebiche">Djamel Eddine Kebiche</a></td>
+  <td><a href="abstracts-contributed#"></a></td>
 </tr>
 </table>
 
@@ -150,6 +150,4 @@ or linear signal production on</i> &Ropf;<sup><i>n</i></sup>
 &nbsp;&nbsp;<i>A new class of Herz-type spaces and boundary problems</i>
 <b>Sakshi Malhotra (University of Texas at Dallas)</b>
 &nbsp;&nbsp;<i>Finite time stability of a sweeping process for an elastoplastic system with stress-controlled loading</i>
-<b>Djamel Eddine Kebiche (University of Vienna)</b>
-&nbsp;&nbsp;<i>Singular Sobolev spaces and highly degenerate elliptic partial differential equations</i>
 </pre>
