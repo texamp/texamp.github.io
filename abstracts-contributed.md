@@ -56,9 +56,9 @@ Abstract:
 We study Floquet isospectrality of the zero potential for the discrete periodic Schr&ouml;dinger operator acting on functions on the n-dimensional square lattice. It is well-known that for the square lattice, the zero potential has no nonzero real floquet isospectral potentials. It is in folklore that there exist non-zero complex solutions. As part of an REU led by Wencai Liu, Rodrigo Matos, and the speaker, we provide explicit solutions whenever one of the periods is even using combinatorial methods.
 
 ------
-<a name="BaofengFeng"></a>
+<a name="Shi"></a>
 
-**Baofeng Feng (University of Texas Rio Grande Valley)**
+**Changyan Shi (University of Texas Rio Grande Valley)**
 
 *Bilinear structure and KP reductions to CSSI equation*
 
@@ -72,6 +72,7 @@ bilinearized into a set of six equations. Then, starting from 13
 bilinear equations in the KP-Toda hierarchy, together with the
 discrete KP equation, the CSS equation is derived. As a by-product, we
 provide its multi-breather and general rogue wave solutions.
+This is a joint work with Baofeng Feng.
 
 ------
 <a name="ZhaoshengFeng"></a>

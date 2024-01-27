@@ -16,7 +16,7 @@
   <td><a href="abstracts-contributed#ZhaoshengFeng">Zhaosheng Feng</a></td>
 </tr><tr>
   <td>10:55&ndash;11:15</td>
-  <td><a href="abstracts-contributed#BaofengFeng">Baofeng Feng</a></td>
+  <td><a href="abstracts-contributed#Shi">Changyan Shi</a></td>
   <td><a href="abstracts-contributed#Withanachchi">Mahishanka Withanachchi</a></td>
   <td><a href="abstracts-contributed#Hatinoglu">Burak Hatinoglu</a></td>
   <td><a href="abstracts-contributed#Simanek">Brian Simanek</a></td>
@@ -69,7 +69,7 @@
 <pre>
 <b>Xiaoqi Huang (LSU)</b>
 &nbsp;&nbsp;<i>Strichartz estimates for the Schr&ouml;dinger equation on negatively curved compact manifolds.</i>
-<b>Baofeng Feng (University of Texas Rio Grande Valley)</b>
+<b>Changyan Shi (University of Texas Rio Grande Valley)</b>
 &nbsp;&nbsp;<i>Bilinear structure and KP reductions to CSSI equation</i>
 <b>Joseph Miller (University of Texas at Austin)</b>
 &nbsp;&nbsp;<i>On the effective dynamics of Bose&ndash;Fermi Mixtures</i>
