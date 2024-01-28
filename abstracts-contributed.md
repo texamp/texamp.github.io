@@ -72,6 +72,7 @@ bilinearized into a set of six equations. Then, starting from 13
 bilinear equations in the KP-Toda hierarchy, together with the
 discrete KP equation, the CSS equation is derived. As a by-product, we
 provide its multi-breather and general rogue wave solutions.
+This is a joint work with my advisor, Dr. Baofeng Feng, and Dr. Chengfa Wu and Mr. Guangxiong Zhang at Shenzhen University, China.
 
 ------
 <a name="ZhaoshengFeng"></a>
