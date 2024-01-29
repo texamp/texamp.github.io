@@ -151,3 +151,7 @@ or linear signal production on</i> &Ropf;<sup><i>n</i></sup>
 <b>Sakshi Malhotra (University of Texas at Dallas)</b>
 &nbsp;&nbsp;<i>Finite time stability of a sweeping process for an elastoplastic system with stress-controlled loading</i>
 </pre>
+
+------
+
+Back to http://texamp.github.io
