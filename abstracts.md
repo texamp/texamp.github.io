@@ -19,7 +19,7 @@ Our work is an attempt to understand the different characterizations of virtual 
 ------
 <a name="Malinnikova"></a>
 
-**Eugenia Malinnikova (Stanford)**
+**Eugenia Malinnikova (Stanford University)**
 
 *Some inequalities for solutions of elliptic PDEs and Laplace eigenfunctions*
 
