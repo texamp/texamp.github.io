@@ -17,6 +17,28 @@ The absence of limiting absorption principle (LAP) in the vicinity of some point
 Our work is an attempt to understand the different characterizations of virtual levels and to provide limiting absorption principle for small perturbations of the free Schr&ouml;dinger operators in dimension 1 and 2.
 
 ------
+<a name="Nahmod"></a>
+
+**Andrea Nahmod (University of Massachusetts &ndash; Amherst)**
+
+*Probabilistic scaling, propagation of randomness and invariant Gibbs measures*
+
+Abstract:
+In this talk, we will start by describing how classical tools from probability
+offer a robust framework to understand the dynamics of waves via appropriate ensembles
+on phase space rather than particular microscopic dynamical trajectories. We will continue
+by explaining the fundamental shift in paradigm that arises from the "correct" scaling in this
+context and how it opened the door to unveil the random structures of nonlinear waves that
+live on high frequencies and fine scales as they propagate. We will then discuss how these 
+ideas broke the logjam in the study of the Gibbs measures associated to nonlinear 
+Schr&ouml;dinger equations in the context of equilibrium statistical mechanics and of the 
+hyperbolic &Phi;<sup>4</sup><sub>3</sub> model in the context of constructive quantum field theory. 
+We will end with some open challenges about the long-time propagation of randomness 
+and out-of-equilibrium dynamics.
+
+
+
+------
 <a name="Judge"></a>
 
 **Christopher Judge (Indiana University)**
