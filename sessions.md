@@ -63,6 +63,12 @@
 </tr>
 </table>
 
+------
+
+Back to http://texamp.github.io
+
+------
+
 **Special sessions listed individually**
 
 **Session I (Blocker 113)**
@@ -83,6 +89,8 @@
 &nbsp;&nbsp;<i>A hydrodynamics formulation for a nonlinear Dirac equation</i>
 </pre>
 
+------
+
 **Session II (Blocker 166)**
 <pre>
 <b>Kenneth Beard (Louisiana State University)</b>
@@ -98,6 +106,8 @@
 <b>Himali Gammanpila (Texas Tech University)</b>
 &nbsp;&nbsp;<i>Stability analysis and a priori error estimation for Nitsche-type CIP/GP-CutFEM multi-phase flow</i>
 </pre>
+
+------
 
 **Session III (Blocker 169)**
 <pre>
@@ -117,6 +127,8 @@
 &nbsp;&nbsp;<i>A discrete analog of quantum unique ergodicity on circulant graphs</i>
 </pre>
 
+------
+
 **Session IV (Blocker 302)**
 <pre>
 <b>Tracy Weyand (Rose&ndash;Hulman Institute of Technology)</b>
@@ -134,6 +146,8 @@
 <b>Hewan Meles Shemtaga (Auburn University)</b>
 &nbsp;&nbsp;<i>Chemotaxis models and Keller&ndash;Segel systems on compact metric graphs</i>
 </pre>
+
+------
 
 **Session V (Blocker 102)**
 <pre>
