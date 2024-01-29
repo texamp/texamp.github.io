@@ -17,6 +17,13 @@ The absence of limiting absorption principle (LAP) in the vicinity of some point
 Our work is an attempt to understand the different characterizations of virtual levels and to provide limiting absorption principle for small perturbations of the free Schr&ouml;dinger operators in dimension 1 and 2.
 
 ------
+<a name="Malinnikova"></a>
+
+**Eugenia Malinnikova (Stanford)**
+
+*Some inequalities for solutions of elliptic PDEs and Laplace eigenfunctions*
+
+------
 <a name="Nahmod"></a>
 
 **Andrea Nahmod (University of Massachusetts &ndash; Amherst)**
