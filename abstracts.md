@@ -73,7 +73,7 @@ Physically, the hot spots conjecture of Jeff Rauch is the assertion that the loc
 
 Abstract:
 The celebrated P&oacute;lya's conjecture (1954) in spectral geometry states that the eigenvalue counting functions of the Dirichlet and Neumann Laplacian on a bounded Euclidean domain can be estimated from above and below, respectively, by the leading term of Weyl's asymptotics. The conjecture is known to be true for domains which tile the Euclidean space, however it remains largely open in full generality. In the talk we will explain the motivation behind this conjecture and discuss some recent advances, such as the proof of P&oacute;lya's conjecture for the disk, and its extension to the eigenvalues of a magnetic Schr&ouml;dinger operator with an Aharonov&ndash;Bohm potential. 
-The latter answers a question posed by Frank and Hansson (2008).
+The latter answers a question posed by <a href="http://doi.org/10.1007/978-3-7643-8755-6_7">Frank and Hansson (2008)</a>.
 The talk is based on joint works with Nikolay Filonov, Michael Levitin and David Sher.
 
 ------
