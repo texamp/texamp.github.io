@@ -396,4 +396,6 @@ Topological insulators (TI) are a class of 2D materials which behave like insula
 Abstract: 
 We discuss ongoing work (joint with Jared Wunsch and Mengxuan Yang) which concerns extending the Gutzwiller Trace Formula from the case of smooth potentials to the case of potentials with conormal singularities. In the smooth case, the formula expresses an eigenvalue-counting function of a Schr&ouml;dinger operator as a sum of certain dynamical quantities over periodic Hamiltonian trajectories. In the conormal case, a consideration of a WKB ansatz for the Schr&ouml;dinger propagator suggests the sum should incorporate dynamical information about Hamiltonian trajectories which reflect at the site of the singularity. We will discuss the variational formulation required to make sense of the dynamics of such trajectories, as well as the further work we expect to need in order to complete the proof.
 
+------
 
+Back to http://texamp.github.io

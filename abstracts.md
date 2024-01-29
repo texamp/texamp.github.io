@@ -96,3 +96,7 @@ In this talk I will describe some of the mathematical aspects of disordered topo
 Abstract:
 I will discuss analytic and geometric tools that lead to the understanding of black hole stability with a positive cosmological constant (Kerr-de Sitter spacetimes) and their extensions which play a role in the vanishing cosmological constant case (Kerr). This is based on joint works with Dietrich Haefner, Peter Hintz and Oliver Petersen.
 
+------
+
+Back to http://texamp.github.io
+
