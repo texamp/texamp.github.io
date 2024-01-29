@@ -23,6 +23,15 @@ Our work is an attempt to understand the different characterizations of virtual 
 
 *Some inequalities for solutions of elliptic PDEs and Laplace eigenfunctions*
 
+Abstract:
+Almgren's frequency function is a useful tool to study quantitative
+behavior of solutions to elliptic PDEs. We will apply the frequency
+function to obtain generalizations of the Remez and Bernstein
+inequalities to solutions of elliptic equations. We also discuss
+related inequalities for the eigenfunctions of the Laplace&ndash;Beltrami
+operator. The talk is based on joint works with Alexander Logunov and
+with Stefano Decio.
+
 ------
 <a name="Nahmod"></a>
 
@@ -63,7 +72,7 @@ Physically, the hot spots conjecture of Jeff Rauch is the assertion that the loc
 *Pólya's eigenvalue conjecture: some recent advances*
 
 Abstract:
-The celebrated Pólya's conjecture (1954) in spectral geometry states that the eigenvalue counting functions of the Dirichlet and Neumann Laplacian on a bounded Euclidean domain can be estimated from above and below, respectively, by the leading term of Weyl's asymptotics. The conjecture is known to be true for domains which tile the Euclidean space, however it remains largely open in full generality. In the talk we will explain the motivation behind this conjecture and discuss some recent advances, such as the proof of Pólya's conjecture for the disk, and its extension to the eigenvalues of a magnetic Schr&ouml;dinger operator with an Aharonov&mdash;Bohm potential. 
+The celebrated P&oacute;lya's conjecture (1954) in spectral geometry states that the eigenvalue counting functions of the Dirichlet and Neumann Laplacian on a bounded Euclidean domain can be estimated from above and below, respectively, by the leading term of Weyl's asymptotics. The conjecture is known to be true for domains which tile the Euclidean space, however it remains largely open in full generality. In the talk we will explain the motivation behind this conjecture and discuss some recent advances, such as the proof of P&oacute;lya's conjecture for the disk, and its extension to the eigenvalues of a magnetic Schr&ouml;dinger operator with an Aharonov&ndash;Bohm potential. 
 The latter answers a question posed by Frank and Hansson (2008).
 The talk is based on joint works with Nikolay Filonov, Michael Levitin and David Sher.
 
