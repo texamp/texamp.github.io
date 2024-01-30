@@ -1,4 +1,5 @@
 all:
+	echo OK
 
 poster:
 	chmod a+r *.html
