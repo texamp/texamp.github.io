@@ -272,16 +272,6 @@ In this talk, I will be discussing recent work
 with Esteban Cardenas and my advisor Natasa Pavlovic. In this work, we describe the dynamics of a Bose&ndash;Einstein condensate interacting with a degenerate Fermi gas, at zero temperature. First, we analyze the mean-field approximation of the many-body Schr&ouml;dinger dynamics and prove emergence of a coupled Hartree-type system of equations. We obtain rigorous error control that yields a non-trivial scaling window in which the approximation is meaningful. Second, starting from this Hartree system, we identify a novel scaling regime in which the fermion distribution behaves semi-clasically, but the boson field remains quantum-mechanical; this is one of the main contributions of the present article. In this regime, the bosons are much lighter and more numerous than the fermions. We then prove convergence to a coupled Vlasov&ndash;Hartee system of equations with an explicit convergence rate.
 
 ------
-<a name="Mitra"></a>
-
-**Arnaja Mitra (University of Texas at Dallas)**
-
-*Equivariant global Hopf bifurcation in abstract nonlinear parabolic equations*
-
-Abstract:
-We study local and global symmetric Hopf bifurcation in abstract parabolic systems by means of the twisted equivariant degree.
-
-------
 <a name="Quintero-Roba"></a>
 
 **Alejandro Quintero-Roba (Baylor University)**
