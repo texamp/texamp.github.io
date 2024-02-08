@@ -178,17 +178,6 @@ Abstract:
 Rauch's hot spots conjecture states that the first non-constant Neumann eigenfunction of the Laplacian on a bounded domain in &Ropf;<sup><i>n</i></sup> attains its local extrema only on the boundary of the domain. We consider an analogous problem concerning the first eigenfunction with mixed Dirichlet&ndash;Neumann boundary conditions. We will show why these two problems are closely related to each other and then present a result when the domain is a triangle or a region bounded by the graph of a piecewise smooth function.
 
 ------
-<a name="Hatinoglu"></a>
-
-**Burak Hatinoglu (Michigan State University)**
-
-*Logarithmic capacities of rational frequency approximants for the almost Mathieu operator*
-
-Abstract: 
-In their "<a href="https://arxiv.org/abs/1201.4199">Analytic quasi-periodic Schr&ouml;dinger operators and rational frequency approximants</a>" paper, Svetlana Jitomirskaya and Chris Marx proved the following result: Consider a quasi-periodic Schr&ouml;dinger operator _H_<sub>&alpha;,&theta;</sub> with analytic potential and irrational frequency &alpha;. Given any rational approximating &alpha;, let _S_<sub>+</sub> and _S_<sub>-</sub> denote the union and the intersection of the spectra taken over &theta;, respectively. They showed that up to sets of zero Lebesgue measure, the absolutely continuous spectrum and the spectrum can be obtained asymptotically from _S_<sub>-</sub> and _S_<sub>+</sub> of the periodic operators associated with the continued fraction expansion of &alpha;, respectively. In this talk, I will discuss these results with logarithmic capacity instead of Lebesgue measure for the almost Mathieu operator. If time permits, I will talk some extensions to quasi-periodic Schr&ouml;dinger operator with
-analytic potentials and irrational frequencies.
-
-------
 <a name="Huang"></a>
 
 **Xiaoqi Huang (LSU)**
