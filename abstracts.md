@@ -6,6 +6,7 @@
 **Nabile Boussaid (Universit&eacute; Franche-Comt&eacute; &mdash; Besan&ccedil;on)**
 
 *Virtual levels and virtual states of linear operators in Banach spaces. Applications to Schr&ouml;dinger operators*
+(<a href="slides/Boussaid-texamp2024.pdf">slides</a>)
 
 Abstract: 
 In this talk, I will present a joint work with Andrew Comech (Texas A\&M). Our primary interest is on the limiting absorption principle. Such a tool is useful in spectral analysis. It is also used to obtain dispersive estimates and then to analyze long time evolution of associated nonlinear problems.
@@ -92,6 +93,7 @@ In this talk I will describe some of the mathematical aspects of disordered topo
 **Andr&aacute;s Vasy (Stanford University)**
 
 *The black hole stability problem*
+(<a href="slides/Vasy-texamp2024.pdf">slides</a>)
 
 Abstract:
 I will discuss analytic and geometric tools that lead to the understanding of black hole stability with a positive cosmological constant (Kerr-de Sitter spacetimes) and their extensions which play a role in the vanishing cosmological constant case (Kerr). This is based on joint works with Dietrich Haefner, Peter Hintz and Oliver Petersen.

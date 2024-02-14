@@ -61,6 +61,7 @@ We study Floquet isospectrality of the zero potential for the discrete periodic 
 **Changyan Shi (University of Texas Rio Grande Valley)**
 
 *Bilinear structure and KP reductions to CSSI equation*
+(<a href="slides/Shi-texamp2024.pdf">slides</a>)
 
 Abstract: 
 In this presentation, we construct breather and rouge wave
@@ -101,6 +102,7 @@ In this study, a Nitsche-type extended variational multiscale method for two-pha
 **Joan Morrill Gavarro (RWTH Aachen)**
 
 *A hydrodynamic formulation for a nonlinear Dirac equation*
+(<a href="slides/Morrill-texamp2024.pdf">slides</a>)
 
 Abstract: 
 We derive a hydrodynamics formulation for a modified Dirac equation with a nonlinear mass term. The nonlinearity has the same homogeneity as the classical Dirac equation but is only Lipschitz continuous. We prove a global existence result for a regularised equation. The nonlinear Dirac equation admits a clean and symmetric split into the left and right-handed spinor components. It is formulated using Clifford algebra tools. This is joint work with Prof. Dr. Michael Westdickenberg (RWTH Aachen University).
@@ -183,6 +185,7 @@ Rauch's hot spots conjecture states that the first non-constant Neumann eigenfun
 **Xiaoqi Huang (LSU)**
 
 *Strichartz estimates for the Schr&ouml;dinger equation on negatively curved compact manifolds*
+(<a href="slides/Huang-texamp2024.pdf">slides</a>)
 
 Abstract: 
 We will discuss improved Strichartz estimates for solutions of the Schr&ouml;dinger equation on compact manifolds with nonpositive curvature which is related to the <a href="http://doi.org/10.1353/ajm.2004.0016">results of Burq, G&eacute;rard and Tzvetkov (2004)</a>. The proof is based on obtaining lossless estimates on relatively small time intervals which may depend on the frequency, we shall also discuss the flat tori as a sample case. This is based on joint work with Matthew Blair and Christopher Sogge.
@@ -203,6 +206,7 @@ We extend methods from the <a href="https://link.springer.com/article/10.1007/s0
 **Yongming Li (Texas A&amp;M University)**
 
 *Dispersive estimates for 1D matrix Schr&ouml;dinger operators with threshold resonance*
+(<a href="slides/Li-texamp2024.pdf">slides</a>)
 
 Abstract: In this talk, we will discuss dispersive and local decay estimates for a class of matrix Schr&ouml;dinger operators that naturally arise from the linearization of focusing nonlinear Schr&ouml;dinger equations around a solitary wave. We review the spectral properties of these linearized operators, and discuss how threshold resonances may appear in their spectrum. In the presence of threshold resonances, it will be shown that the slowdown of the local decay rate can be pinned down to a finite rank operator corresponding to the threshold resonances. Some applications for the linearized equation for the 1D focusing cubic Schr&ouml;dinger equation will be discussed.
 
@@ -254,6 +258,7 @@ Chemotaxis phenomena govern the directed movement of microorganisms in response 
 **Joseph Miller (University of Texas at Austin)**
 
 *On the effective dynamics of Bose&ndash;Fermi mixtures*
+(<a href="slides/Miller-texamp2024.pdf">slides</a>)
 
 Abstract: 
 In this talk, I will be discussing recent work
