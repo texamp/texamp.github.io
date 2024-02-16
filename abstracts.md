@@ -83,6 +83,7 @@ The talk is based on joint works with Nikolay Filonov, Michael Levitin and David
 **Jacob Shapiro (Princeton University)**
 
 *Classification of disordered insulators in 1D*
+(<a href="slides/Shapiro-texamp2024.pdf">slides</a>)
 
 Abstract:
 In this talk I will describe some of the mathematical aspects of disordered topological insulators. These are novel materials which insulate in their bulk but (may) conduct along their edge; the quintessential example is that of the integer quantum Hall effect. What characterizes these materials is the existence of a topological index, experimentally measurable and macroscopically quantized. Mathematically this is explained by applying algebraic topology to the space of appropriate quantum mechanical Hamiltonians; I will survey some recent results mainly concentrating on the classification problem in one dimension, where the problem reduces to studying spaces of unitaries (resp. orthogonal projections) which essentially-commute with a fixed projection.
